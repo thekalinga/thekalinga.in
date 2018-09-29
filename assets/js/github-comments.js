@@ -23,7 +23,7 @@ function ShowComments(repo_name, comment_id, page_id) {
         var date = new Date(comment.created_at);
 
         var t = "<div id='gh-comment'><div class='gh-comment-header'>";
-        t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
+        t += "<img src='" + comment.user.avatar_url + "' width='44px'>";
         t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
         t += " posted at ";
         t += "<em>" + date.toUTCString() + "</em></div><div class='gh-comment-body'>";
