@@ -6,5 +6,6 @@
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "syntax", "gh-comments", "gh-code"
-;
+@import "syntax";
+@import "gh-comments";
+@import "gh-code";
