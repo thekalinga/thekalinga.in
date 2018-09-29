@@ -1,0 +1,43 @@
+# Site
+name: 'Ashok Koyi'
+description: 'Founder @ 1Ton Technologies'
+meta_description: 'Personnel blog of Ashok Koyi'
+logo: 'assets/images/me.jpeg'
+favicon: 'assets/images/me.jpeg'
+baseurl: /
+google_analytics: 'UA-126686252-1'
+# disqus: 'thekalinga-in'
+mailchimp-list: 'http://eepurl.com/dIHLhL'
+github_comments_repository: 'thekalinga.github.io'
+
+# Authors
+authors:
+  thekalinga:
+    name: Ashok Koyi
+    display_name: Ashok
+    gravatar: aaad19c53c01e52ff968566808e2efa1
+    ? email
+    web: https://thekalinga.in
+    twitter: https://twitter.com/thekalinga
+    description: 'Founder @ 1Ton Technologies'
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
