@@ -6,15 +6,21 @@
 
 #gh-comment {
   text-align: left;
-  background-color: #E7E8E2;
-  border: 1px solid #b3b3b3;
+  background-color: #FFFFFF;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
   margin: 2.5em 0;
   padding: 10px;
 }
 
+.gh-comment-header {
+  background-color: #f6f8fa;
+  padding: 10px 10px 10px 10px;
+}
+
 #gh-comment-hr {
   border-top: inset 1px white;
-  margin: 8px 0px;
+  // margin: 8px 0px;
 }
 
 #gh-comment p {
