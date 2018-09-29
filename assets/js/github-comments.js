@@ -26,10 +26,10 @@ function ShowComments(repo_name, comment_id, page_id) {
         t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
         t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
         t += " posted at ";
-        t += "<em>" + date.toUTCString() + "</em></div>";
+        t += "<em>" + date.toUTCString() + "</em></div><div class='gh-comment-body'>";
         t += "<div id='gh-comment-hr'></div>";
         t += comment.body_html;
-        t += "</div>";
+        t += "</div></div>";
         $("#gh-comments-list").append(t);
       });
 
