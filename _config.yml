@@ -7,7 +7,7 @@ favicon: 'assets/images/me.jpeg'
 baseurl: /
 google_analytics: 'UA-126686252-1'
 # disqus: 'thekalinga-in'
-mailchimp-list: 'http://eepurl.com/dIHLhL'
+mailchimp-list: 'https://eepurl.com/dIHLhL'
 github_comments_repository: 'thekalinga.github.io'
 
 # Authors
