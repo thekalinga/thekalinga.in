@@ -1,14 +1,14 @@
 # Site
-name: 'Ashok Koyi'
-description: 'Founder @ 1Ton Technologies'
-meta_description: 'Personnel blog of Ashok Koyi'
-logo: 'assets/images/me.jpeg'
-favicon: 'assets/images/me.jpeg'
+name: Ashok Koyi
+description: Founder @ 1Ton Technologies
+meta_description: Personnel blog of Ashok Koyi
+logo: assets/images/me.jpeg
+favicon: assets/images/me.jpeg
 baseurl: /
-google_analytics: 'UA-126686252-1'
+google_analytics: UA-126686252-1
 # disqus: 'thekalinga-in'
-mailchimp-list: 'https://eepurl.com/dIHLhL'
-github_comments_repository: 'thekalinga.github.io'
+mailchimp-list: https://eepurl.com/dIHLhL
+github_comments_repository: thekalinga/thekalinga.github.io-comments
 
 # Authors
 authors:
