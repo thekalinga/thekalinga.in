@@ -18,7 +18,7 @@ authors:
     ? email
     web: https://thekalinga.in
     twitter: https://twitter.com/thekalinga
-    description: 'Founder @ 1Ton Technologies'
+    description: Founder @ 1Ton Technologies
 
 # Plugins
 plugins:
@@ -40,3 +40,5 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+# Comment if you dont want future dated incomplete posts to appear
+future: true
