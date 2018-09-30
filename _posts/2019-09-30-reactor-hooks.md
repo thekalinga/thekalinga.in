@@ -2,7 +2,7 @@
 layout: post
 title: Hooking into reactor
 author: thekalinga
-categories: [Programming]
+category: Programming
 tags: [Reactor, Operator, Java, Multi Threading]
 ? image
 featured: false

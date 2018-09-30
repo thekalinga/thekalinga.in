@@ -15,6 +15,22 @@ post_class: post-template
             <div class="mainheading">
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
+                <!-- Post Date -->
+                <p class="posttitle">
+                    <small>
+                        <span class="post-date">
+                            Posted under
+                            <a href="{{ site.baseurl }}/categories#{{ page.category | slugify }}" class="post-tag">{{ page.category }}</a>
+                            on
+                            <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{
+                                page.date | date_to_string }}</time>
+                        </span>
+                        {% if page.last_modified_at %}
+                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
+                        page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                        {% endif %}
+                    </small>
+                </p>
             </div>
 
             <!-- Post Featured Image -->
@@ -26,23 +42,6 @@ post_class: post-template
             <div class="article-post">
                 {{content}}
             </div>
-
-            <div class="row">
-                <!-- Post Share -->
-                {% include share.html %}
-            </div>
-
-            <!-- Post Date -->
-            <p>
-                <small>
-                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{
-                            page.date | date_to_string }}</time></span>
-                    {% if page.last_modified_at %}
-                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
-                        page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                    {% endif %}
-                </small>
-            </p>
 
             <!-- Post Tags -->
             <div class="after-post-tags">
@@ -56,6 +55,11 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
+
+            <div class="row">
+                <!-- Post Share -->
+                {% include share.html %}
+            </div>
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">

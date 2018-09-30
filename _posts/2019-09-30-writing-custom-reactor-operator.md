@@ -2,7 +2,7 @@
 layout: post
 title: Writing custom reactor operator
 author: thekalinga
-categories: [Programming]
+category: Programming
 tags: [Reactor, Operator, Java, Multi Threading]
 ? image
 featured: false

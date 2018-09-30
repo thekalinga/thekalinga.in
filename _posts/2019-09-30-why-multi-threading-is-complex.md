@@ -2,7 +2,7 @@
 layout: post
 title: Why multi threading is complex
 author: thekalinga
-Categories: [Programming]
+category: Programming
 tags: [Java, Multi Threading]
 ? image
 featured: false

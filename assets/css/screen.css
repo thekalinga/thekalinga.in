@@ -302,6 +302,10 @@ span.post-read-more a:hover {
     margin-bottom: 1rem;
 }
 
+.mainheading p.posttitle {
+    margin-top: -.7rem
+}
+
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
