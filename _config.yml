@@ -28,9 +28,17 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+#  layout: archive
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
   permalinks:
-    category: '/category/:name/'
+    categories: '/categories'
+    tags: '/tags'
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
 
 # Pagination
 paginate: 6

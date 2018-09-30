@@ -71,6 +71,14 @@
 
                 <ul class="navbar-nav ml-auto">
 
+                    {% if page.url == "/categories.html" %}
+                    <li class="nav-item active">
+                        {% else %}
+                    <li class="nav-item">
+                        {% endif %}
+                        <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
+                    </li>
+
                     {% if page.url == "/about.html" %}
                     <li class="nav-item active">
                         {% else %}

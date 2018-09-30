@@ -1,0 +1,34 @@
+---
+layout: page
+title: Tags
+---
+
+<div class="after-post-tags">
+    <ul class="tags">
+        {% assign sortedTags = site.tags | sort %}
+        {% for tags in sortedTags %}
+        <li>
+            <a href="#{{ tags[0] | slugify }}">{{ tags[0] }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <!--<div class="tags-expo-list">-->
+        <!--{% for tags in site.tags %}-->
+        <!--<a href="#{{ tags[0] | slugify }}" class="post-tag">{{ tags[0] }}</a>-->
+        <!--{% endfor %}-->
+    <!--</div>-->
+    <hr/>
+    <div class="tags-expo-section">
+        {% for tags in site.tags %}
+        <h2 id="{{ tags[0] | slugify }}">{{ tags[0] }}</h2>
+        <ul class="tags-expo-posts">
+            {% for post in tags[1] %}
+            <li>
+                <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <small class="post-date">{{ post.date | date_to_string }}</small>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endfor %}
+    </div>
+</div>

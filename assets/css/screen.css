@@ -157,6 +157,9 @@ section.recent-posts {
 }
 
 .wrapfooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     font-size: 12px;
 }
 
@@ -212,10 +215,8 @@ span.post-read {
 }
 
 span.post-read-more {
-    align-items: center;
     display: inline-block;
     float: right;
-    margin-top: 8px;
 }
 
 span.post-read-more a {
