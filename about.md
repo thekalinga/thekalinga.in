@@ -17,7 +17,7 @@ I have built production grade applications using
 - [Spring](https://spring.io)
 - [Hibernate](https://hibernate.org/)
 - [Spring Cloud](https://projects.spring.io/spring-cloud/)
-- [Project Reactor](http://projectreactor.io)
+- [Project Reactor](https://projectreactor.io)
 - [RxJava](https://github.com/ReactiveX/RxJava)
 - [Android](https://www.android.com)
 - [TypeScript](https://www.typescriptlang.org) and
