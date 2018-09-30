@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Sep 2018 13:39:06 +0000</pubDate>
-    <lastBuildDate>Sun, 30 Sep 2018 13:39:06 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Sep 2018 19:33:14 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Sep 2018 19:33:14 +0000</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -30,17 +30,19 @@
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>/reactor/operator/java/multi-threading/2019/09/30/writing-custom-reactor-operator.html</link>
-        <guid isPermaLink="true">/reactor/operator/java/multi-threading/2019/09/30/writing-custom-reactor-operator.html</guid>
+        <link>/2019/09/30/writing-custom-reactor-operator/</link>
+        <guid isPermaLink="true">/2019/09/30/writing-custom-reactor-operator/</guid>
+        
+        <category>Reactor</category>
+        
+        <category>Operator</category>
+        
+        <category>Java</category>
+        
+        <category>Multi Threading</category>
         
         
-        <category>reactor</category>
-        
-        <category>operator</category>
-        
-        <category>java</category>
-        
-        <category>multi-threading</category>
+        <category>Programming</category>
         
       </item>
     
@@ -60,13 +62,13 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>/java/multi-threading/2019/09/30/why-multi-threading-is-complex.html</link>
-        <guid isPermaLink="true">/java/multi-threading/2019/09/30/why-multi-threading-is-complex.html</guid>
+        <link>/2019/09/30/why-multi-threading-is-complex/</link>
+        <guid isPermaLink="true">/2019/09/30/why-multi-threading-is-complex/</guid>
         
+        <category>Java</category>
         
-        <category>java</category>
+        <category>Multi Threading</category>
         
-        <category>multi-threading</category>
         
       </item>
     
@@ -78,17 +80,19 @@
 
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>/reactor/operator/java/multi-threading/2019/09/30/reactor-hooks.html</link>
-        <guid isPermaLink="true">/reactor/operator/java/multi-threading/2019/09/30/reactor-hooks.html</guid>
+        <link>/2019/09/30/reactor-hooks/</link>
+        <guid isPermaLink="true">/2019/09/30/reactor-hooks/</guid>
+        
+        <category>Reactor</category>
+        
+        <category>Operator</category>
+        
+        <category>Java</category>
+        
+        <category>Multi Threading</category>
         
         
-        <category>reactor</category>
-        
-        <category>operator</category>
-        
-        <category>java</category>
-        
-        <category>multi-threading</category>
+        <category>Programming</category>
         
       </item>
     
@@ -100,17 +104,19 @@
 
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>/reactor/operator/java/multi-threading/2019/09/30/processors-of-reactor.html</link>
-        <guid isPermaLink="true">/reactor/operator/java/multi-threading/2019/09/30/processors-of-reactor.html</guid>
+        <link>/2019/09/30/processors-of-reactor/</link>
+        <guid isPermaLink="true">/2019/09/30/processors-of-reactor/</guid>
+        
+        <category>Reactor</category>
+        
+        <category>Operator</category>
+        
+        <category>Java</category>
+        
+        <category>Multi Threading</category>
         
         
-        <category>reactor</category>
-        
-        <category>operator</category>
-        
-        <category>java</category>
-        
-        <category>multi-threading</category>
+        <category>Programming</category>
         
       </item>
     
