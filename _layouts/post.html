@@ -28,6 +28,11 @@ post_class: post-template
                 {{content}}
             </div>
 
+            <div class="row">
+                <!-- Post Share -->
+                {% include share.html %}
+            </div>
+
             <!-- Post Date -->
             <p>
                 <small>
@@ -70,10 +75,6 @@ post_class: post-template
         </div>
         <!-- End Post -->
 
-    </div>
-    <div class="row">
-        <!-- Post Share -->
-        {% include share.html %}
     </div>
 </div>
 <!-- End Article
