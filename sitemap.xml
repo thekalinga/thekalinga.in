@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2019/09/30/processors-of-reactor/</loc>
-<lastmod>2019-09-30T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>/2019/09/30/reactor-hooks/</loc>
 <lastmod>2019-09-30T00:00:00+00:00</lastmod>
 </url>
@@ -15,6 +11,10 @@
 <url>
 <loc>/2019/09/30/writing-custom-reactor-operator/</loc>
 <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/2019/10/01/processors-of-reactor/</loc>
+<lastmod>2019-10-01T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>/about.html</loc>
@@ -29,6 +29,18 @@
 <loc>/tags.html</loc>
 </url>
 <url>
-<loc>/category/programming/</loc>
+<loc>/2019/</loc>
+</url>
+<url>
+<loc>/2019/10/</loc>
+</url>
+<url>
+<loc>/2019/10/01/</loc>
+</url>
+<url>
+<loc>/2019/09/</loc>
+</url>
+<url>
+<loc>/2019/09/30/</loc>
 </url>
 </urlset>
