@@ -848,9 +848,16 @@ iframe {
   display: inline-block;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 768px) {
   .footer .social-links {
     margin-top: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .footer .copyright-message {
+    display: flex;
+    align-items: center;
   }
 }
 
