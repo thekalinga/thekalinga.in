@@ -27,15 +27,10 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-#    - categories
     - year
     - month
     - day
   layout: archive
-#  layouts:
-#    year: year-archive
-#    month: month-archive
-#    day: day-archive
   permalinks:
     categories: '/categories/'
     tags: '/tags/'

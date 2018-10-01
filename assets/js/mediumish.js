@@ -66,7 +66,7 @@ jQuery(document).ready(function($){
     
     
     // Hide Header on on scroll down
-    var didScroll;
+    var didScroll = true; // since using html fragments of categories & tags pages are not triggering `scroll()` even though page is shown in scrolled condition, lets just force an explcit check on load
     var lastScrollTop = 0;
     var delta = 5;
     var navbarHeight = $('nav').outerHeight();
