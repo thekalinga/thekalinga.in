@@ -834,3 +834,16 @@ iframe {
 .card .img-fluid {
     width: 100%;
 }
+
+.anchor-container {
+  padding-top: 1.2rem;
+}
+
+.anchor-container .link {
+  display: none;
+  margin-left: -27px;
+}
+
+.anchor-container:hover .link {
+  display: inline-block;
+}
