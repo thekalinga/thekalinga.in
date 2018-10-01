@@ -20,9 +20,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 
-    <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/screen.css?{{site.time | date: '%s%N'}}" rel="stylesheet">
 
-    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/main.css?{{site.time | date: '%s%N'}}" rel="stylesheet">
 
 </head>
 
@@ -169,7 +169,7 @@
 
     <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
-    <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/mediumish.js?{{site.time | date: '%s%N'}}"></script>
 </body>
 
 </html>
