@@ -7,17 +7,12 @@ baseurl:
 google_analytics: UA-126686252-1
 mailchimp-list: https://eepurl.com/dIHLhL
 github_comments_repository: thekalinga/thekalinga.github.io-comments
+timezone: Asia/Kolkata
 
-# Authors
-authors:
-  thekalinga:
-    name: Ashok Koyi
-    display_name: Ashok
-    gravatar: aaad19c53c01e52ff968566808e2efa1
-    ? email
-    web: https://thekalinga.in
-    twitter: https://twitter.com/thekalinga
-    description: Founder @ 1Ton Technologies
+# Social
+linkedin: https://linkedin.com/in/thekalinga
+facebook: https://www.facebook.com/thekalinga
+twitter: https://twitter.com/thekalinga
 
 # Plugins
 plugins:
@@ -45,5 +40,8 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
-# Comment if you dont want future dated incomplete posts to appear
-future: true
+# uncomment if you dont want future dated posts to appear
+#future: true
+
+#TODO Make sure you implement search in the header bar of the page
+#https://blog.webjeda.com/instant-jekyll-search/
