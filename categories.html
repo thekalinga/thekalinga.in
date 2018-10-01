@@ -1,28 +1,28 @@
 ---
 layout: page
-title: Categories
+title: Posts by Categories
 ---
 
-<div class="after-post-tags">
-    <ul class="tags">
-        {% for categories in site.categories %}
-        <li>
-            <a href="#{{ categories[0] | slugify }}" class="post-tag">{{ categories[0] }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-    <hr/>
-    <div class="tags-expo-section">
-        {% for categories in site.categories %}
-        <h2 id="{{ categories[0] | slugify }}">{{ categories[0] }}</h2>
-        <ul class="tags-expo-posts">
-            {% for post in categories[1] %}
-            <li>
-                <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                <small><span class="post-date">{{ post.date | date_to_string }}</span></small>
-            </li>
-            {% endfor %}
-        </ul>
+<ul class="tags">
+    {% assign sortedCategories = site.categories | sort %}
+    {% for categories in sortedCategories %}
+    <li>
+        <a href="#{{ categories[0] | slugify }}">{{ categories[0] }}</a>
+    </li>
+    {% endfor %}
+</ul>
+<hr/>
+{% assign sortedCategories = site.categories | sort %}
+{% for categories in sortedCategories %}
+<h4 id="{{ categories[0] | slugify }}" class="anchor-container">
+    <a href="#{{ categories[0] | slugify }}"><i class="link fa fa-sm fa-link"></i></a>
+    {{ categories[0] }}
+</h4>
+<section class="recent-posts">
+    <div class="row listrecent">
+        {% for post in categories[1] %}
+        {% include postbox.html %}
         {% endfor %}
     </div>
-</div>
+</section>
+{% endfor %}
