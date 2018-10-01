@@ -32,21 +32,29 @@ title: My internet home
 ================================================== -->
 <section class="recent-posts">
 
+    <!--Count total posts-->
+    {% assign totalPostCount = 0 %}
+    {% for item in site.posts %}
+    {% unless item.published == false %}
+    {% assign totalPostCount = totalPostCount | plus:1 %}
+    {% endunless %}
+    {% endfor %}
+
+    {% if totalPostCount != 0 %}
     <div class="section-title">
-
         <h2><span>All Posts</span></h2>
-
     </div>
 
     <div class="row listrecent">
-
         {% for post in paginator.posts %}
-
         {% include postbox.html %}
-
         {% endfor %}
-
     </div>
+    {% else %}
+        <h3>Oops. No posts are published yet</h3>
+        <h5>New posts will be published soon. Please check back later</h5>
+    {% endif %}
+
 
 </section>
 

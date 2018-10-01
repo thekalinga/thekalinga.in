@@ -10,10 +10,12 @@ layout: default
 {% endunless %}
 {% endfor %}
 
+{% if totalPostCount != 0 %}
 <section>
     <div class="section-title">
         <h2><span>{{ page.title }}</span></h2>
     </div>
+
 
     <div class="article-post">
         {{content}}
@@ -30,3 +32,7 @@ layout: default
     {% endif %}
 
 </section>
+{% else %}
+<h3>Oops. No posts are published yet</h3>
+<h5>New posts will be published soon. Please check back later</h5>
+{% endif %}
