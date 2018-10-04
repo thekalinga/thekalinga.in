@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Oct 2018 19:13:55 +0530</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2018 19:13:55 +0530</lastBuildDate>
+    <pubDate>Thu, 04 Oct 2018 19:36:10 +0530</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2018 19:36:10 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -25,7 +25,7 @@
         
         <category>Inkscape</category>
         
-        <category>MIT</category>
+        <category>CC0</category>
         
         
         <category>Icons</category>
