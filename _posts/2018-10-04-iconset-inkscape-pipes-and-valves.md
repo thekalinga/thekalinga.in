@@ -12,8 +12,8 @@ permalink: /:year/:month/:day/:title/
 github_comments_issueid: 1
 ---
 
-This is pipes and valve Iconset created using [Inkscape](https://inkscape.org/en/)
+This is Pipe & Valve Iconset created using [Inkscape](https://inkscape.org/en/)
 
 You can download them [here](/assets/iconset/pipes-and-valves.svg)
 
-Licensed under [MIT](https://opensource.org/licenses/MIT)
+Licensed under [Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
