@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title/
 github_comments_issueid: 1
 ---
 
-I have created pipes and valve icon set using [Inkscape](https://inkscape.org/en/)
+This is pipes and valve Iconset created using [Inkscape](https://inkscape.org/en/)
 
 You can download them [here](/assets/iconset/pipes-and-valves.svg)
 
