@@ -14,7 +14,11 @@ permalink: /:year/:month/:day/:title/
 # Social
 linkedin: https://linkedin.com/in/thekalinga
 facebook: https://facebook.com/thekalinga
+facebook_profile_username: thekalinga
+facebook_profile_id: 100000738877942
 twitter: https://twitter.com/thekalinga
+twitter_username_with_prefix: @thekalinga
+google: https://plus.google.com/111348232504336031712
 
 # Plugins
 plugins:

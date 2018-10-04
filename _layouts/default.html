@@ -8,24 +8,63 @@
 
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 
-    <title>{{ page.title }}&nbsp;|&nbsp;{{site.name}}</title>
-
     <!-- Search engine & social media metadata -->
-    <meta property="og:site_name" content="{{site.name}}">
-    <meta property="og:title" content="{{ page.title }}&nbsp;|&nbsp;{{site.name}}" />
-    <meta property="og:type" content="{{ page.type }}" />
-    <meta property="og:url" content="{{ page.url | absolute_url }}">
-    <meta property="og:locale" content="en">
+    <meta data-rh="true" property="og:site_name" content="{{site.name}}" />
+
+    <meta data-rh="true" property="og:type" content="{{ page.type }}" />
+    <meta data-rh="true" property="og:locale" content="en">
+
+    <title>{{ page.title }}&nbsp;|&nbsp;{{site.name}}</title>
+    <meta name="title" content="{{ page.title }}&nbsp;|&nbsp;{{site.name}}">
+    <meta data-rh="true" property="og:title" content="{{ page.title }}&nbsp;|&nbsp;{{site.name}}" />
+    <meta property="twitter:title" content="{{ page.title }}&nbsp;|&nbsp;{{site.name}}">
+
     {% if page.description %}
-    <meta property="og:description" content="{{ page.description }}">
-    {% else %}
-    <meta property="og:description" content="{{ post.excerpt | strip_html | truncatewords:25 }}">
+    <meta name="description" content="{{ page.description }}">
+    <meta data-rh="true" property="og:description" content="{{ page.description }}" />
+    <meta data-rh="true" property="twitter:description" content="{{ page.description }}" />
+    {% elsif post.excerpt %}
+    <meta name="description" content="{{ post.excerpt | strip_html | truncatewords:50 }}">
+    <meta data-rh="true" property="og:description" content="{{ post.excerpt | strip_html | truncatewords:50 }}" />
+    <meta data-rh="true" property="twitter:description" content="{{ post.excerpt | strip_html | truncatewords:50 }}" />
     {% endif %}
+
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta data-rh="true" property="og:url" content="{{ page.url | absolute_url }}" />
 
     {% if page.image %}
-    <meta property="og:image" content="{{ page.image | absolute_url }}">
-    <meta property="og:image:secure_url" content="{{ page.image | absolute_url }}">
+    <meta data-rh="true" property="og:image" content="{{ page.image | absolute_url }}" />
+    <meta data-rh="true" property="og:image:secure_url" content="{{ page.image | absolute_url }}" />
+    <meta data-rh="true" name="twitter:image:src" content="{{ page.image | absolute_url }}" />
     {% endif %}
+
+    {% if page.type == 'profile' %}
+    <meta data-rh="true" property="fb:profile_id" content="{{site.facebook_profile_id}}"/>
+    <meta data-rh="true" property="profile:username" content="{{site.facebook_profile_username}}"/>
+    <meta data-rh="true" name="twitter:card" content="summary"/>
+    {% elsif page.type == 'article' %}
+    <meta property="author" content="{{site.name}}">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="publisher" href="{{ site.url }}/about">
+    <link rel="author" href="{{ site.url }}/about">
+    <meta property="article:publisher" content="{{site.facebook}}">
+    <meta property="article:author" content="{{ site.url }}/about">
+    <meta name="twitter:creator" content="{{site.twitter_username_with_prefix}}">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{{ page.date | date_to_xmlschema }}">
+    {% if page.categories %}
+    {% for category in page.categories limit:1 %}
+    <meta content="{{ category }}" property="article:section">
+    {% endfor %}
+    {% endif %}
+
+    {% assign sortedTags = page.tags | sort %}
+    {% for tag in sortedTags %}
+    <meta property="article:tag" content="{{tag}}">
+    {% endfor %}
+    {% endif %}
+
+    <meta name="robots" content="index, follow">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous">
@@ -156,6 +195,7 @@
                         Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
                     </div>
                     <div class="col-md-6 col-sm-6 text-center text-md-right social-links">
+                        <a target="_blank" class="link" href="{{ site.google }}"><i class="fab fa-google-plus fa-lg google-color"></i></a>
                         <a target="_blank" class="link" href="{{ site.facebook }}"><i class="fab fa-facebook-f fa-lg facebook-color"></i></a>
                         <a target="_blank" class="link" href="{{ site.twitter }}"><i class="fab fa-twitter fa-lg twitter-color"></i></a>
                         <a target="_blank" class="link" href="{{ site.linkedin }}"><i class="fab fa-linkedin fa-lg linkedin-color"></i></a>

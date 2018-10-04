@@ -3,7 +3,7 @@ layout: post
 title: 'Inkscape Iconset: Pipes and Valves'
 author: thekalinga
 category: Icons
-tags: [Icon, Inkscape, CC0]
+tags: [Icon, Inkscape, CC0, Pipe, Valve]
 image: assets/images/pipes-and-valves.png
 featured: false
 hidden: false
