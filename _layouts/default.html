@@ -11,18 +11,20 @@
     <title>{{ page.title }}&nbsp;|&nbsp;{{site.name}}</title>
 
     <!-- Search engine & social media metadata -->
-    <meta property="og:site_name" content="Google Developers">
+    <meta property="og:site_name" content="{{site.name}}">
     <meta property="og:title" content="{{ page.title }}&nbsp;|&nbsp;{{site.name}}" />
     <meta property="og:type" content="{{ page.type }}" />
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:locale" content="en">
     {% if page.description %}
     <meta property="og:description" content="{{ page.description }}">
+    {% else %}
+    <meta property="og:description" content="{{ post.excerpt | strip_html | truncatewords:25 }}">
     {% endif %}
 
     {% if page.image %}
-    <meta property="og:image" content="{{ site.baseurl }}/{{ page.image }}">
-    <meta property="og:image:secure_url" content="{{ site.baseurl }}/{{ page.image }}">
+    <meta property="og:image" content="{{ page.image | absolute_url }}">
+    <meta property="og:image:secure_url" content="{{ page.image | absolute_url }}">
     {% endif %}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
