@@ -3,14 +3,21 @@
 
 <head>
     <meta charset="utf-8">
+    <meta itemscope itemtype="http://schema.org/Article" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 
-    <title>{{ page.title }} | {{site.name}}</title>
+    <title>{{ page.title }}</title>
+
+    <meta itemprop="headline" content="{{ page.title }}">
 
     {% if page.description %}
-    <meta name="description" content="{{ page.description }}">{% endif %}
+    <meta itemprop="description" content="{{ page.description }}">{% endif %}
+
+    {% if page.image %}
+    <meta itemprop="image" content="{{ site.baseurl }}/{{ page.image }}">{% endif %}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
         crossorigin="anonymous">

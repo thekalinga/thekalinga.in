@@ -9,6 +9,8 @@ mailchimp-list: https://eepurl.com/dIHLhL
 github_comments_repository: thekalinga/thekalinga.github.io-comments
 timezone: Asia/Kolkata
 
+permalink: /:year/:month/:day/:title/
+
 # Social
 linkedin: https://linkedin.com/in/thekalinga
 facebook: https://facebook.com/thekalinga

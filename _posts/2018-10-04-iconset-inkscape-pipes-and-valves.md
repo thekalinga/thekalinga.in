@@ -7,7 +7,6 @@ tags: [Icon, Inkscape, CC0]
 image: assets/images/pipes-and-valves.png
 featured: false
 hidden: false
-permalink: /:year/:month/:day/:title/
 # Make sure to the issue # is present at https://github.com/thekalinga/thekalinga.in-comments/issues
 github_comments_issueid: 1
 ---
