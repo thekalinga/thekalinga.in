@@ -5,9 +5,32 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Oct 2018 23:04:10 +0530</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 23:04:10 +0530</lastBuildDate>
+    <pubDate>Thu, 04 Oct 2018 17:51:20 +0530</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2018 17:51:20 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Inkscape Iconset: Pipes and Valves</title>
+        <description>&lt;p&gt;I have created pipes and valve icon set using &lt;a href=&quot;https://inkscape.org/en/&quot;&gt;Inkscape&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can download them &lt;a href=&quot;/assets/iconset/pipes-and-valves.svg&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Licensed under &lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Oct 2018 00:00:00 +0530</pubDate>
+        <link>/2018/10/04/iconset-inkscape-pipes-and-valves/</link>
+        <guid isPermaLink="true">/2018/10/04/iconset-inkscape-pipes-and-valves/</guid>
+        
+        <category>Icon</category>
+        
+        <category>Inkscape</category>
+        
+        <category>MIT</category>
+        
+        
+        <category>Icons</category>
+        
+      </item>
     
   </channel>
 </rss>
