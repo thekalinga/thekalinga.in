@@ -1,5 +1,1 @@
-# Personnel Blog
-
-This is source for my personnel blog
-
-- Ashok Koyi
+Source for [my blog](https://thekalinga.in)
