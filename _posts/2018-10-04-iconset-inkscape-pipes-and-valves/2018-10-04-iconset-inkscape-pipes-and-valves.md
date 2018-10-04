@@ -14,7 +14,6 @@ github_comments_issueid: 1
 
 Pipe & Valve Iconset created using [Inkscape](https://inkscape.org/en/)
 
-# TOD: Fix the timestamp plugin. Not sure why its not working
-You can download them [here](pipes-and-valves.svg?{% last_modified_generic pipes-and-valves.svg %})
+You can download them [here](pipes-and-valves.svg)
 
 Licensed under [Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
