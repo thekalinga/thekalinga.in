@@ -6,7 +6,7 @@ layout: default
 {% assign totalPostCount = 0 %}
 {% for item in site.posts %}
 {% unless item.published == false %}
-{% assign totalPostCount = totalPostCount | plus:1 %}
+  {% assign totalPostCount = totalPostCount | plus:1 %}
 {% endunless %}
 {% endfor %}
 

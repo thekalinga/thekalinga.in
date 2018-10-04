@@ -4,7 +4,7 @@ title: 'Inkscape Iconset: Pipes and Valves'
 author: thekalinga
 category: Icons
 tags: [Icon, Inkscape, CC0, Pipe, Valve]
-image: assets/images/pipes-and-valves.png
+image: pipes-and-valves.png
 featured: false
 hidden: false
 type: article
@@ -12,8 +12,9 @@ type: article
 github_comments_issueid: 1
 ---
 
-This is Pipe & Valve Iconset created using [Inkscape](https://inkscape.org/en/)
+Pipe & Valve Iconset created using [Inkscape](https://inkscape.org/en/)
 
-You can download them [here](/assets/iconset/pipes-and-valves.svg)
+# TOD: Fix the timestamp plugin. Not sure why its not working
+You can download them [here](pipes-and-valves.svg?{% last_modified_generic pipes-and-valves.svg %})
 
 Licensed under [Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)

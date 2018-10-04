@@ -24,19 +24,20 @@
     <meta name="description" content="{{ page.description }}">
     <meta data-rh="true" property="og:description" content="{{ page.description }}" />
     <meta data-rh="true" property="twitter:description" content="{{ page.description }}" />
-    {% elsif post.excerpt %}
-    <meta name="description" content="{{ post.excerpt | strip_html | truncatewords:50 }}">
-    <meta data-rh="true" property="og:description" content="{{ post.excerpt | strip_html | truncatewords:50 }}" />
-    <meta data-rh="true" property="twitter:description" content="{{ post.excerpt | strip_html | truncatewords:50 }}" />
+    {% elsif page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html | truncatewords:50 }}">
+    <meta data-rh="true" property="og:description" content="{{ page.excerpt | strip_html | truncatewords:50 }}" />
+    <meta data-rh="true" property="twitter:description" content="{{ page.excerpt | strip_html | truncatewords:50 }}" />
     {% endif %}
 
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <meta data-rh="true" property="og:url" content="{{ page.url | absolute_url }}" />
 
     {% if page.image %}
-    <meta data-rh="true" property="og:image" content="{{ page.image | absolute_url }}" />
-    <meta data-rh="true" property="og:image:secure_url" content="{{ page.image | absolute_url }}" />
-    <meta data-rh="true" name="twitter:image:src" content="{{ page.image | absolute_url }}" />
+    {% assign imageRelativeToRoot = page.image | split: '/' %}
+    <meta data-rh="true" property="og:image" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+    <meta data-rh="true" property="og:image:secure_url" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+    <meta data-rh="true" name="twitter:image:src" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
     {% endif %}
 
     {% if page.type == 'profile' %}
