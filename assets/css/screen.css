@@ -866,6 +866,10 @@ iframe {
   padding: .5rem 1rem;
 }
 
+.google-color {
+  color: #e0483a;
+}
+
 .facebook-color {
   color: #3B5998;
 }
