@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Founder @ 1Ton Technologies</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Oct 2018 19:47:27 +0530</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2018 19:47:27 +0530</lastBuildDate>
+    <link>https://thekalinga.in/</link>
+    <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Oct 2018 20:12:26 +0530</pubDate>
+    <lastBuildDate>Thu, 04 Oct 2018 20:12:26 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Licensed under &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;Public Domain Dedication&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Oct 2018 00:00:00 +0530</pubDate>
-        <link>/2018/10/04/iconset-inkscape-pipes-and-valves/</link>
-        <guid isPermaLink="true">/2018/10/04/iconset-inkscape-pipes-and-valves/</guid>
+        <link>https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/</link>
+        <guid isPermaLink="true">https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/</guid>
         
         <category>Icon</category>
         

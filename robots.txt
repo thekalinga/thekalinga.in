@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://thekalinga.in/sitemap.xml
