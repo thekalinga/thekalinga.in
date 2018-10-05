@@ -3,11 +3,11 @@ layout: page
 title: About Me
 description: I am Ashok Koyi. I am the founder of 1Ton Technologies
 type: profile
-image: /assets/images/me.jpeg
+image: /assets/images/me.png
 comments: false
 ---
 
-![Photo]({{site.baseurl}}/assets/images/me.jpeg){: .shadow}
+![Photo]({{site.baseurl}}/assets/images/me.png){: .shadow}
 
 Hi, I am Ashok Koyi
 
