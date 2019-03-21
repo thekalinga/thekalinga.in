@@ -45,7 +45,13 @@ paginate_path: /page:num/
 
 # Other
 markdown: kramdown
-highlighter: rouge
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+highlighter: none
+# The default highlighter is rouge & its not formatting the code properly. So lets use highlightjs with java plugin instead
+# highlighter: rouge
+
 # uncomment if you dont want future dated posts to appear
 #future: true
 

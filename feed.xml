@@ -22,12 +22,17 @@ layout: null
             {{ post.content }}
           ]]>
           {% else %}
-          {{ post.content | xml_escape }}
+          <![CDATA[
+            <img src="{{ '/assets/images/article-placeholder-optimized.svg' | absolute_url }}" alt="{{ post.title }}" >
+            {{ post.content }}
+          ]]>
           {% endif %}
         </description>
         {% if post.image %}
         {% assign imageRelativeToRoot = post.image | split: '/' %}
         <media:content medium="image" url="{% if post.image contains "://" %}{{ post.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ post.image | prepend: post.url | absolute_url }}{% else %}{{ post.image | absolute_url }}{% endif %}" />
+        {% else %}
+        <media:content medium="image" url="{{ '/assets/images/article-placeholder-optimized.svg' | absolute_url }}" />
         {% endif %}
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

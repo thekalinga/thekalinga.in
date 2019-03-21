@@ -35,15 +35,25 @@
 
     {% if page.image %}
     {% assign imageRelativeToRoot = page.image | split: '/' %}
-    <meta data-rh="true" property="og:image" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
-    <meta data-rh="true" property="og:image:secure_url" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
-    <meta data-rh="true" name="twitter:image:src" content="{% if page.image contains "://" %}{{ page.image }}{% elsif imageRelativeToRoot[0] != "" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+    <meta data-rh="true" property="og:image" content="{% if page.image contains " ://" %}{{ page.image }}{% elsif
+        imageRelativeToRoot[0] !="" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image |
+        absolute_url }}{% endif %}" />
+    <meta data-rh="true" property="og:image:secure_url" content="{% if page.image contains " ://" %}{{ page.image }}{%
+        elsif imageRelativeToRoot[0] !="" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image
+        | absolute_url }}{% endif %}" />
+    <meta data-rh="true" name="twitter:image:src" content="{% if page.image contains " ://" %}{{ page.image }}{% elsif
+        imageRelativeToRoot[0] !="" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image |
+        absolute_url }}{% endif %}" />
+    {% else %}
+    <meta data-rh="true" property="og:image" content="{{ '/assets/images/article-placeholder-optimized.svg' | absolute_url }}" />
+    <meta data-rh="true" property="og:image:secure_url" content="{{ '/assets/images/article-placeholder-optimized.svg' | absolute_url }}" />
+    <meta data-rh="true" name="twitter:image:src" content="{{ '/assets/images/article-placeholder-optimized.svg' | absolute_url }}" />
     {% endif %}
 
     {% if page.type == 'profile' %}
-    <meta data-rh="true" property="fb:profile_id" content="{{site.facebook_profile_id}}"/>
-    <meta data-rh="true" property="profile:username" content="{{site.facebook_profile_username}}"/>
-    <meta data-rh="true" name="twitter:card" content="summary"/>
+    <meta data-rh="true" property="fb:profile_id" content="{{site.facebook_profile_id}}" />
+    <meta data-rh="true" property="profile:username" content="{{site.facebook_profile_username}}" />
+    <meta data-rh="true" name="twitter:card" content="summary" />
     {% elsif page.type == 'article' %}
     <meta property="author" content="{{site.name}}">
     <meta name="twitter:card" content="summary_large_image">
@@ -220,6 +230,22 @@
     <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
     <script src="{{ site.baseurl }}/assets/js/mediumish.js?{{site.time | date: '%s%N'}}"></script>
+
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css"
+        integrity="sha256-tAflq+ymku3Khs+I/WcAneIlafYgDiOQ9stIHH985Wo=" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/googlecode.min.css"
+        integrity="sha256-arq4LfC7imzesljdi/Th/9Sws1lwfF/iq5a+A7oycTg=" crossorigin="anonymous" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js" integrity="sha256-RyOs5MjQ+Ef9DQrPHp4QGr2tcNjxLh6mCkkW+sS4doU="
+        crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $('pre code').each(function (i, block) {
+                hljs.highlightBlock(block);
+            });
+        });
+    </script>
 </body>
 
 </html>

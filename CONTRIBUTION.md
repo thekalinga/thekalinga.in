@@ -9,6 +9,12 @@
 
 # Local testing steps
 
-1. Install [rvm](https://rvm.io/)
-2. Run `bundle exec jekyll serve` from the cloned directory
-3. Access local files at [http://localhost:4000](http://localhost:4000)
+* Install [rvm](https://rvm.io/)
+* Create a copy of an existing post & paste it in `_drafts` folder
+* Run `bundle exec jekyll serve --verbose --drafts` from the cloned directory which starts jekyll server with drafts enabled
+* Access local server at [http://localhost:4000](http://localhost:4000)
+
+# Going to production
+
+* Once development is done, move the draft from `_drafts` to `_posts`
+* Run `bundle exec jekyll serve`
