@@ -125,7 +125,7 @@ Compensation guarantees order status to be consistent with the business rules **
 Depending on how soon we want this reconciliation, we can implement reconciliation in the following three stages
 
 1. Startup reconciliation: Orders abandoned before the instance is started are guaranteed to be consistent once the instance is up (optional)
-2. On demand reconciliation: Orders requested by client are guaranteed to be consistent thru on demand reconciliation once the request is processed successfully (optional)
+2. On demand reconciliation: Orders requested by client are guaranteed to be consistent once the request is processed successfully (optional)
 3. Scheduled reconciliation: Orders that are abandoned before the scheduler ran are guaranteed to be consistent once scheduler runs successfully (mandatory)
 
 The guarantees each of the above three reconcilers provides are only valid for those orders for which they can acquire exclusive lock. If some other instance's reconciler is doing compensation for any given order, the current reconciler just skips over them
