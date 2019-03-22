@@ -198,7 +198,7 @@ We looked at three types of reconciliations
 * On demand reconciliation
 * Scheduled reconciliation
 
-It is important to note that each application must have Scheduled reconciler as thier guarantees regular reconciliation & is not dependent on external actors. The other two types of reconciliations are optional but preferred
+It is important to note that each application must have Scheduled reconciler as this guarantees regular reconciliation & is not dependent on external actors. The other two types of reconciliations are optional but preferred
 
 In a typical application, you would have all three reconcilers to reduce the amount of time the system will be in inconsistent state in case of unexpected failures
 
