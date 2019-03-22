@@ -118,7 +118,7 @@ We will use this aspect to make sure that we dont interfere with the transaction
 
 Now back to the crash issue in `order-service`
 
-Since crash leaves our data inconsistent state, `order-service` will have to explicitly **reconcile**/**compensate** for these failures at the application level by fetching the latest status of the order from `inventory-service` for abandoned orders. This is why its called `Compensating Transaction`
+Since crash leaves our data in inconsistent state, `order-service` will have to explicitly **reconcile**/**compensate** for these failures at the application level by fetching the latest status of the order from `inventory-service` for abandoned orders. This is why its called `Compensating Transaction`
 
 Compensation guarantees order status to be consistent with the business rules **EVENTUALLY**, not not immediately
 
