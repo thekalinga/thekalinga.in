@@ -4,6 +4,7 @@ sudo: false
 rvm: 2.5
 
 install:
+- gem update --system
 - gem install bundler
 - bundle install
 
