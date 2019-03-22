@@ -4,6 +4,7 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 Version: 1.0.22 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -87,7 +88,7 @@ section.recent-posts {
 }
 
 .nav-link {
-  text-align: center;
+    text-align: center;
 }
 
 @media (min-width:576px) {
@@ -836,48 +837,94 @@ iframe {
 }
 
 .anchor-container {
-  padding-top: 1.2rem;
+    padding-top: 1.2rem;
 }
 
 .anchor-container .link {
-  display: none;
-  margin-left: -27px;
+    display: none;
+    margin-left: -27px;
 }
 
 .anchor-container:hover .link {
-  display: inline-block;
+    display: inline-block;
 }
 
 @media (max-width: 768px) {
-  .footer .social-links {
-    margin-top: 12px;
-  }
+    .footer .social-links {
+        margin-top: 12px;
+    }
 }
 
 @media (min-width: 768px) {
-  .footer .copyright-message {
-    display: flex;
-    align-items: center;
-  }
+    .footer .copyright-message {
+        display: flex;
+        align-items: center;
+    }
 }
 
 .footer .social-links .link {
-  text-align: center;
-  padding: .5rem 1rem;
+    text-align: center;
+    padding: .5rem 1rem;
 }
 
 .google-color {
-  color: #e0483a;
+    color: #e0483a;
 }
 
 .facebook-color {
-  color: #3B5998;
+    color: #3B5998;
 }
 
 .twitter-color {
-  color: #1DA1F2;
+    color: #1DA1F2;
 }
 
 .linkedin-color {
-  color: #0077B5;
+    color: #0077B5;
+}
+
+.black-color {
+    color: #000000;
+}
+
+.orange-color {
+    color: #FF5A01;
+}
+
+.blue-color {
+    color: #45b8de;
+}
+
+/*
+TODO: Remove FiraCode artifacts and add google fonts once thsi font is migrated there
+https://github.com/google/fonts/issues/1460
+*/
+@font-face {
+    font-family: 'Fira Code';
+    src: url('/assets/fonts/FiraCode-Light.eot');
+    src: url('/assets/fonts/FiraCode-Light.eot') format('embedded-opentype'),
+        url('/assets/fonts/FiraCode-Light.woff2') format('woff2'),
+        url('/assets/fonts/FiraCode-Light.woff') format('woff'),
+        url('/assets/fonts/FiraCode-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+code {
+    font: 87% "Fira Code";
+    font-feature-settings: "calt"1;
+    /* Enable ligatures for IE 10+, Edge */
+    text-rendering: optimizeLegibility;
+    /* Force ligatures for Webkit, Blink, Gecko */
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+
+code.hljs {
+    background: transparent;
+    font: 14px/1.5em "Fira Code";
+}
+
+.margin-auto {
+  margin: auto;
 }

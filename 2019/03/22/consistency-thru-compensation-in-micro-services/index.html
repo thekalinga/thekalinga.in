@@ -1,22 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Ashok Koyi</title>
-    <description>Founder @ 1Ton Technologies</description>
-    <link>https://thekalinga.in/</link>
-    <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Mar 2019 14:55:04 +0530</pubDate>
-    <lastBuildDate>Fri, 22 Mar 2019 14:55:04 +0530</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow">
+
+    <link rel="icon" href="/favicon.ico">
+
+    <!-- Search engine & social media metadata -->
+    <meta data-rh="true" property="og:site_name" content="Ashok Koyi" />
+
+    <meta data-rh="true" property="og:type" content="article" />
+    <meta data-rh="true" property="og:locale" content="en">
+
+    <title>Consistency thru compensation in micro services&nbsp;|&nbsp;Ashok Koyi</title>
+    <meta name="title" content="Consistency thru compensation in micro services&nbsp;|&nbsp;Ashok Koyi">
+    <meta data-rh="true" property="og:title" content="Consistency thru compensation in micro services&nbsp;|&nbsp;Ashok Koyi" />
+    <meta property="twitter:title" content="Consistency thru compensation in micro services&nbsp;|&nbsp;Ashok Koyi">
+
     
-      <item>
-        <title>Consistency thru compensation in micro services</title>
-        <description>
-          
-          
-          <![CDATA[
-            <img src="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" alt="Consistency thru compensation in micro services" >
-            <p><img src="consistency-failures.jpg" alt="Consistency thru compensation in micro services" class="featured-image img-fluid margin-auto" /></p>
+    <meta name="description" content="Compensating transactions is a way to resolve inconsistency in the face of failures in a micro services environment">
+    <meta data-rh="true" property="og:description" content="Compensating transactions is a way to resolve inconsistency in the face of failures in a micro services environment" />
+    <meta data-rh="true" property="twitter:description" content="Compensating transactions is a way to resolve inconsistency in the face of failures in a micro services environment" />
+    
+
+    <link rel="canonical" href="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/">
+    <meta data-rh="true" property="og:url" content="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/" />
+
+    
+    
+    <meta data-rh="true" property="og:image" content="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" />
+    <meta data-rh="true" property="og:image:secure_url" content="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" />
+    <meta data-rh="true" name="twitter:image:src" content="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" />
+    
+
+    
+    <meta property="author" content="Ashok Koyi">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="publisher" href="https://thekalinga.in/about">
+    <link rel="author" href="https://thekalinga.in/about">
+    <meta property="article:publisher" content="https://thekalinga.in/about">
+    <meta property="article:author" content="https://thekalinga.in/about">
+    <meta name="twitter:creator" content="@thekalinga">
+    <meta property="article:published_time" content="2019-03-22T00:00:00+05:30">
+    <meta property="article:modified_time" content="2019-03-22T14:54:04+05:30">
+    
+    
+    <meta content="Micro Services" property="article:section">
+    
+    
+
+    
+    
+    <meta property="article:tag" content="DDD">
+    
+    <meta property="article:tag" content="Distributed Systems">
+    
+    <meta property="article:tag" content="Domain Driven Design">
+    
+    <meta property="article:tag" content="Micro Services">
+    
+    
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+        crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link href="/assets/css/screen.css?1553246704098300654" rel="stylesheet">
+    <link href="/assets/css/main.css?1553246704098300654" rel="stylesheet">
+</head>
+
+
+
+
+
+<body class="layout-post">
+
+
+    <!-- Begin Menu Navigation
+================================================== -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+        <div class="container pr-0">
+
+            <!-- Begin Logo -->
+            <a class="navbar-brand" href="/">
+                
+                <h1 class="sitetitle"><i class="fas fa-home"></i></h1>
+                
+            </a>
+            <!-- End Logo -->
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+
+            <div class="collapse navbar-collapse" id="navbarMediumish">
+
+                <!-- Begin Menu -->
+
+                <ul class="navbar-nav ml-auto">
+
+                    
+                    <li class="nav-item">
+                        
+                        <a class="nav-link" href="/categories">Categories</a>
+                    </li>
+
+                    
+                    <li class="nav-item">
+                        
+                        <a class="nav-link" href="/tags">Tags</a>
+                    </li>
+
+                    
+                    <li class="nav-item">
+                        
+                        <a class="nav-link" href="/about">About</a>
+                    </li>
+                </ul>
+
+                <!-- End Menu -->
+
+            </div>
+
+        </div>
+    </nav>
+    <!-- End Navigation
+================================================== -->
+
+    <div class="site-content">
+        <div class="container">
+            <!-- Content
+================================================== -->
+            <div class="main-content">
+                <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post -->
+        <div class="col-md-12 flex-first flex-md-unordered">
+
+            <div class="mainheading">
+                <!-- Post Title -->
+                <h1 class="posttitle">Consistency thru compensation in micro services</h1>
+                <!-- Post Date -->
+                <p class="posttitle">
+                    <small>
+                        <span class="post-date">
+                            Posted under
+                            <a href="/categories#micro-services" class="post-tag">Micro Services</a>
+                            on
+                            <time class="post-date" datetime="2019-03-22">22 Mar 2019</time>
+                        </span>
+                        
+                    </small>
+                </p>
+            </div>
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <p><img src="consistency-failures.jpg" alt="Consistency thru compensation in micro services" class="featured-image img-fluid margin-auto" /></p>
 
 <p>This article addresses the consistency aspect in micro services environment where a transaction need to span more than one micro service</p>
 
@@ -224,70 +374,196 @@
 
 <p>If you have any queries/suggestions let me know in the comments section</p>
 
-          ]]>
-          
-        </description>
-        
-        
-        <media:content medium="image" url="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" />
-        
-        <pubDate>Fri, 22 Mar 2019 00:00:00 +0530</pubDate>
-        <link>https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/</link>
-        <guid isPermaLink="true">https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/</guid>
-        
-        <category>DDD</category>
-        
-        <category>Domain Driven Design</category>
-        
-        <category>Micro Services</category>
-        
-        <category>Distributed Systems</category>
-        
-        
-        <category>Micro Services</category>
-        
-      </item>
-    
-      <item>
-        <title>Inkscape Iconset: Pipes and Valves</title>
-        <description>
-          
-          
-          <![CDATA[
-            <img src="https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/pipes-and-valves.svg" alt="Inkscape Iconset: Pipes and Valves" >
-            <p><img src="pipes-and-valves.svg" alt="Inkscape Iconset: Pipes and Valves" class="featured-image img-fluid" /></p>
+            </div>
 
-<p>Pipe &amp; Valve Iconset created using <a href="https://inkscape.org/en/">Inkscape</a></p>
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a href="/tags#ddd">DDD</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/tags#distributed-systems">Distributed Systems</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/tags#domain-driven-design">Domain Driven Design</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/tags#micro-services">Micro Services</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
 
-<p>You can download them <a href="pipes-and-valves.svg">here</a></p>
+            <div class="row">
+                <!-- Post Share -->
+                <div class="share">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-3 mr-3">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Consistency thru compensation in micro services&url=https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/"
+                onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+                <i class="fab fa-lg fa-twitter"></i>
+            </a>
+        </li>
 
-<p>Licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain Dedication</a></p>
+        <li class="ml-3 mr-3">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-lg fa-facebook-f"></i>
+            </a>
+        </li>
 
-          ]]>
-          
-        </description>
-        
-        
-        <media:content medium="image" url="https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/pipes-and-valves.svg" />
-        
-        <pubDate>Thu, 04 Oct 2018 00:00:00 +0530</pubDate>
-        <link>https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/</link>
-        <guid isPermaLink="true">https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/</guid>
-        
-        <category>Icon</category>
-        
-        <category>Inkscape</category>
-        
-        <category>CC0</category>
-        
-        <category>Pipe</category>
-        
-        <category>Valve</category>
-        
-        
-        <category>Icons</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+        <li class="ml-3 mr-3">
+            <a target="_blank" href="https://plus.google.com/share?url=https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/" onclick="window.open(this.href, 'facebook-google', 'width=550,height=631');return false;">
+                <i class="fab fa-lg fa-google"></i>
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+            </div>
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+                
+                <a class="prev d-block col-md-6" href="https://thekalinga.in/2018/10/04/iconset-inkscape-pipes-and-valves/"> &laquo;
+                    Inkscape Iconset: Pipes and Valves</a>
+                
+                
+                <div class="clearfix"></div>
+            </div>
+            <!-- End Categories -->
+
+        </div>
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+
+
+<!-- Begin Comments
+================================================== -->
+
+<div class="container">
+    <div id="comments" class="row justify-content-center mb-5">
+        <div class="col-md-12">
+            
+
+<div id="gh-comments">
+  <br>
+  <h4>Comments</h4>
+  <div id="gh-comments-list"></div>
+</div>
+
+<script src="/assets/js/jquery.min.js"></script>
+
+<script src="/assets/js/github-comments.js"></script>
+
+<script type="text/javascript">
+  DoGithubComments(
+    "thekalinga/thekalinga.github.io-comments",
+    "5"
+  );
+</script>
+
+<noscript>Please enable JavaScript to view comments.</noscript>
+
+
+        </div>
+    </div>
+</div>
+
+<!--End Comments
+================================================== -->
+
+            </div>
+
+            <!-- Bottom Alert Bar
+================================================== -->
+            <div class="alertbar">
+                <div class="container text-center">
+                    <span>Want to get notified on new <b>post</b>s? Subscribe to newsletter</span>
+                    <form action="https://eepurl.com/dIHLhL" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate"
+                        target="_blank" novalidate>
+                        <div class="mc-field-group">
+                            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL"
+                                autocomplete="on" required>
+                            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container>
+
+        <!-- Begin Footer
+================================================== -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 text-center text-md-left copyright-message">
+                        Copyright © 2019 Ashok Koyi
+                    </div>
+                    <div class="col-md-6 col-sm-6 text-center text-md-right social-links">
+                        <a target="_blank" class="link" href="https://plus.google.com/111348232504336031712"><i class="fab fa-google-plus fa-lg google-color"></i></a>
+                        <a target="_blank" class="link" href="https://facebook.com/thekalinga"><i class="fab fa-facebook-f fa-lg facebook-color"></i></a>
+                        <a target="_blank" class="link" href="https://twitter.com/thekalinga"><i class="fab fa-twitter fa-lg twitter-color"></i></a>
+                        <a target="_blank" class="link" href="https://linkedin.com/in/thekalinga"><i class="fab fa-linkedin fa-lg linkedin-color"></i></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer
+================================================== -->
+
+
+    </div>
+    <!-- /.site-content>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="/assets/js/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+
+    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="/assets/js/mediumish.js?1553246704098300654"></script>
+
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css"
+        integrity="sha256-tAflq+ymku3Khs+I/WcAneIlafYgDiOQ9stIHH985Wo=" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/googlecode.min.css"
+        integrity="sha256-arq4LfC7imzesljdi/Th/9Sws1lwfF/iq5a+A7oycTg=" crossorigin="anonymous" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/java.min.js" integrity="sha256-RyOs5MjQ+Ef9DQrPHp4QGr2tcNjxLh6mCkkW+sS4doU="
+        crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $('pre code').each(function (i, block) {
+                hljs.highlightBlock(block);
+            });
+        });
+    </script>
+</body>
+
+</html>
