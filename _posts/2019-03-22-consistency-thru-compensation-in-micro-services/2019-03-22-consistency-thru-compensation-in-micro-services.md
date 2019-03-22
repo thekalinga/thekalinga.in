@@ -162,7 +162,7 @@ The way this works is, as soon as we receive a request for order status
 5. `order-service` will request `inventory-service` about the latest status of the stock consumed by the given `<order id>`
 6. `inventory-service` will return latest status, which `order-service` will use to update in its own database & release exclusive row level lock
 
-Suppose that we have two instances of `order-service` & the 1st instance is handling the order request & the server crashed midway just like before. When the client resends order status request (clients are expected to do this on a best effort basis), it will be received by the second instance, at which point, we can do compensation logic for the abandoned order as part of this request. This way client does not have to wait till the scheduled reconciliation for get the latest status (next section)
+Suppose that we have two instances of `order-service` & the 1st instance is handling the order request & the server crashed midway just like before. When the client resends order status request (clients are expected to do this on a best effort basis), it will be received by the second instance, at which point, we can do compensation logic for the abandoned order as part of this request. This way client does not have to wait till the scheduled reconciliation to get the latest status (next section)
 
 ![Diagram: Sibling reconciliation](svg-optimized/sibling-reconciliation.svg){:.featured-image.img-fluid.margin-auto}
 
