@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 00:19:53 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 00:19:53 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:31:58 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:31:58 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -18,7 +18,7 @@
             <img src="https://thekalinga.in/2019/03/22/consistency-thru-compensation-in-micro-services/consistency-failures.jpg" alt="Consistency thru compensation in micro services" >
             <p><img src="consistency-failures.jpg" alt="Consistency thru compensation in micro services" class="featured-image img-fluid margin-auto" /></p>
 
-<p>This article addresses the consistency aspect in micro services environment where a transaction need to span more than one micro service</p>
+<p>This article addresses the eventual consistency aspect of transactions in micro services environment where a transaction spans more than one micro service &amp; transaction failure midway is imminent</p>
 
 <h2 id="existing-business-usecase">Existing business usecase</h2>
 
