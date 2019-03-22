@@ -170,7 +170,7 @@ Suppose that we have two instances of `order-service` & the 1st instance is hand
 
 This type of reconciliation guarantees that all the orders that were abandoned before the start of the current run of scheduler are guaranteed to be consistent once scheduler run is complete
 
-Since relying on client to reconcile all orders that were failed midway is not a good idea as the client might never be able to contact the server due to network issue or some other reason, we want a mechanism within the application itself that does auto reconciliation at regular interval. This is where scheduled reconciliation comes in
+Since relying on client to reconcile all orders that failed midway is not a good idea as the client might never be able to contact the server due to network issue or some other reason, we want a mechanism within the application itself that does auto reconciliation at regular interval. This is where scheduled reconciliation comes in
 
 At regular interval we have to [schedule a task](https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#scheduling) to be run within our application that does the reconciliation
 
