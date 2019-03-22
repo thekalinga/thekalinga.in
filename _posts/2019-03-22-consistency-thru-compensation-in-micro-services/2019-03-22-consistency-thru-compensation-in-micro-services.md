@@ -128,7 +128,7 @@ Depending on how soon we want this reconciliation, we can implement reconciliati
 2. On demand reconciliation: Orders requested by client are guaranteed to be consistent once the request is processed successfully (optional)
 3. Scheduled reconciliation: Orders that are abandoned before the scheduler ran are guaranteed to be consistent once scheduler runs successfully (mandatory)
 
-The guarantees each of the above three reconcilers provides are only valid for those orders for which they can acquire exclusive lock. If some other instance's reconciler is doing compensation for any given order, the current reconciler just skips over them
+The guarantees each of the above three reconcilers provides are only valid for those orders for which the reconciler can acquire exclusive lock. If some other instance's reconciler is doing compensation for any given order, the current reconciler just skips over them
 
 Now lets look at each one of these options & how the reconcilation/compensation works
 
