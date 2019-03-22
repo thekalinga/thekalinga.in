@@ -45,7 +45,7 @@
     <meta property="article:author" content="https://thekalinga.in/about">
     <meta name="twitter:creator" content="@thekalinga">
     <meta property="article:published_time" content="2019-03-22T00:00:00+05:30">
-    <meta property="article:modified_time" content="2019-03-22T14:54:04+05:30">
+    <meta property="article:modified_time" content="2019-03-22T20:41:59+05:30">
     
     
     <meta content="Micro Services" property="article:section">
@@ -69,8 +69,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
         crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link href="/assets/css/screen.css?1553246704098300654" rel="stylesheet">
-    <link href="/assets/css/main.css?1553246704098300654" rel="stylesheet">
+    <link href="/assets/css/screen.css?1553267584131540645" rel="stylesheet">
+    <link href="/assets/css/main.css?1553267584131540645" rel="stylesheet">
 </head>
 
 
@@ -179,23 +179,27 @@
 <p>Our business expects us to give them the following guarantees</p>
 
 <ol>
-  <li><strong>Never accept an order if the inventory does not have enough quantity in the stock</strong></li>
+  <li><strong>Never accept an order if the inventory does not have enough stock</strong></li>
   <li><strong>Every item in the inventory is either assigned to an order (or) available for further purchases by customer within a reasonable amount of time</strong></li>
 </ol>
 
 <p>As every seasoned developer knows, Monolith is a heaven for systems that want consistency because of RDBMS &amp; the ACID guarantees it provides. But this comes at the cost of autonomy &amp; scalability</p>
 
-<p>Because of ACID guarantees, when we update both order &amp; inventory tables, either the transaction succeeds (or) fails atomically. We will never have a situation where the amount of stock left in inventory &amp; the quantity used up by previous orders does not equal total inventory</p>
-
-<p>In essence, its relatively easy to fulfill this requirement in our monolith world when working against a single database</p>
+<p>Because of ACID guarantees, when we update both order &amp; inventory tables, either the transaction succeeds (or) fails atomically. Because of this, it is easy to ensure</p>
 
 <blockquote>
-  <p>Please note that most of the businesses will be OK even if we sell oversell items even when we don’t have corresponding quantity of stock in the inventory. This is because once the order is placed, the business can ask vendors to send it more stock of the oversold items &amp; still fulfill our customer’s order. The point this article addresses is “can the technology live within business constraints”?. Suppose our business does not permit overselling because we are selling rare items, say classic paintings/some other exclusive items, which means we cant oversell as no other vendor can supply additional quantity of any of items in our inventory</p>
+  <p><strong>Total inventory</strong> = <strong>Amount of stock left in inventory</strong> + <strong>quantity used up by previous orders</strong></p>
+</blockquote>
+
+<p>In essence, its relatively easy to fulfill this requirement in our monolithic world since we will be working against a single database</p>
+
+<blockquote>
+  <p>Please note that most of the businesses will be OK even if we sell oversell items even when we don’t have corresponding stock in the inventory. This is because once the order is placed, the business can ask vendors to send it more stock of the oversold items &amp; still fulfill our customer’s order. The point this article addresses is “can the technology live within business constraints”?. Suppose our business does not permit overselling because we are selling rare items, say classic paintings/some other exclusive items, which means we cant oversell as no other vendor can supply additional stock of all items in our inventory</p>
 </blockquote>
 
 <h2 id="breaking-monolith">Breaking monolith</h2>
 
-<p>Suppose we chose micro services for achieving autonomy in terms of scalability/development velocity/release schedule, e.t.c, it follows that we can’t share a single database across all of these micro services. Sharing database across micro services forces each team to coordinate with other team as soon as any database schema change needs to be made, which defeats the whole point of micro services</p>
+<p>Suppose we chose micro services for achieving autonomy in terms of scalability/development velocity/release schedule, e.t.c, it follows that we can’t share a single database across all of these micro services. Sharing database across micro services forces each team to coordinate with other team as soon as database schema needs to change, which defeats the whole purpose of micro services</p>
 
 <p>Each type of micro service (can have any number of instances) will have to have its own private datastore. In other words, multiple instances of the same service type share a single database, but this database is never shared across micro services</p>
 
@@ -210,7 +214,7 @@
 
 <p>At first glance, fulfilling this business requirements in micro services does not look that hard</p>
 
-<p>We can make <code>order-service</code> call to <code>inventory-service</code> to check if sufficient stock exists to fulfil the order. If stock is available, reduce the given quantity from the stock &amp; permit the order to go thru. If not, deny the order</p>
+<p>We can make <code>order-service</code> call to <code>inventory-service</code> to check if sufficient stock exists to fulfil the order. If stock is available, reduce the given quantity of stock &amp; permit the order to go thru. If not, deny the order</p>
 
 <p><img src="svg-optimized/order-placement-sequence-diagram.svg" alt="Diagram: Order placement sequence" class="featured-image img-fluid margin-auto" /></p>
 
@@ -218,11 +222,11 @@
 
 <h2 id="problem-with-concurrent-transactions">Problem with concurrent transactions</h2>
 
-<p>Suppose two different users try purchasing the same item simultaneously when not enough stock exists to fulfill both the orders. If proper care is not taken at <code>inventory-service</code> level, we allow both orders to succeed, even tho we don’t have enough stock to fulfill both</p>
+<p>Suppose two different users try purchasing the same item simultaneously when not enough stock exists to fulfill both the orders. If proper care is not taken at <code>inventory-service</code> level, we might allow both orders to succeed, even tho we don’t have enough stock to fulfill both</p>
 
 <p><img src="svg-optimized/inventory-overdraw.svg" alt="Diagram: Inventory overdraw" class="featured-image img-fluid margin-auto" /></p>
 
-<p>As any one who is familiar with concurrency control will tell us, why doesn’t <code>inventory-service</code> reject the second request &amp; work against its own data store by utilizing <a href="https://www.wikiwand.com/en/Optimistic_concurrency_control">optimistic concurrency control</a> (or) <a href="https://blogs.msdn.microsoft.com/marcelolr/2010/07/16/optimistic-and-pessimistic-concurrency-a-simple-explanation/">pessimistic concurrency control</a></p>
+<p>As any one who is familiar with concurrency control will tell us, why doesn’t <code>inventory-service</code> reject the second request by utilizing <a href="https://www.wikiwand.com/en/Optimistic_concurrency_control">optimistic concurrency control</a> (or) <a href="https://blogs.msdn.microsoft.com/marcelolr/2010/07/16/optimistic-and-pessimistic-concurrency-a-simple-explanation/">pessimistic concurrency control</a></p>
 
 <p>Once we apply this fix, if two users attempt simultaneous purchase only one of them would succeed if fulfilling both orders results in stock becoming negative</p>
 
@@ -232,13 +236,13 @@
 
 <p>Even with the above solution, we are still left with a problem</p>
 
-<p>When it comes to servers on which our application runs, no one can guarantees that the application will be up all the time &amp; server failure is a given. Every application must keep this in mind &amp; should be resilient to these failures</p>
+<p>When it comes to servers on which our application runs, no one can guarantee that the hardware never fails. So server failure is a given. Every application must keep this in mind &amp; should be resilient to these failures</p>
 
 <p>What if <code>inventory-service</code> reduced the quantity in its database &amp; <code>order-service</code> dies before it commits to its database?</p>
 
 <p><img src="svg-optimized/order-server-fail-sequence-diagram.svg" alt="Diagram: Inventory server dies before local commit after inventory is reduced" class="featured-image img-fluid margin-auto" /></p>
 
-<p>Now we are left with an interesting situation we have inventory which does not exist in the inventory system, but it is not allocated to any order. Welcome to <strong>DATA INCONSISTENCY</strong></p>
+<p>Now we are left with an interesting situation where we have missing inventory from the system because the server crashed. Welcome to <strong>DATA INCONSISTENCY</strong></p>
 
 <h2 id="going-back-to-drawing-board">Going back to drawing board</h2>
 
@@ -246,16 +250,17 @@
 
 <p>There are multiple ways this problem can be addressed. In this article I will present one way of addressing this</p>
 
-<p>In the previous approach, order is in either <code>confirmed</code>/<code>rejected</code> state &amp; also the client is stateless</p>
+<p>In the previous approach, <code>order</code> will be either in <code>confirmed</code>/<code>rejected</code> state &amp; the client is stateless</p>
 
 <p>But in our new approach</p>
 
 <ol>
   <li>Order will have three states namely <code>initialized</code>, <code>confirmed</code> &amp; <code>rejected</code></li>
-  <li>Stateful client &amp; also the client to follow <a href="https://www.theserverside.com/news/1365146/Redirect-After-Post">Redirect after POST</a> pattern</li>
+  <li>And our client would be Stateful</li>
+  <li>In addition, the client will follow <a href="https://www.theserverside.com/news/1365146/Redirect-After-Post">Redirect after POST</a> pattern</li>
 </ol>
 
-<p>The reason for this redirect is because when the failure like the one in previous scenario happens, we don’t want the client to retry and place multiple orders for the same cart when user refreshes his browser. The previous patern describes in detail why this is required</p>
+<p>The reason for this redirect is because when client encounters a failure like the one in previous scenario, we don’t want the client to retry the operation &amp; place multiple orders for the same cart because user refreshed his browser. The previous pattern avoids this situation completely</p>
 
 <p>Given that, here is our new approach</p>
 
@@ -265,7 +270,7 @@
   <li><code>order-service</code> responds to the client with HTTP <code>202 Accepted</code> (if API based client)/<code>302 Found</code> (if browser) response with a link to check the status of the order thru http <code>Location</code> header</li>
   <li>If background order placement succeeds, <code>order-service</code> will update the status of the order to <code>confirmed</code> &amp; releases row level lock on the order</li>
   <li>If not, <code>order-service</code> will update the status of the order to <code>rejected</code> &amp; releases row level lock on the order</li>
-  <li>Once client sees above <code>202</code>/<code>302</code> response, it will redirect the user to order status page (incase of browser) so that refreshes does not cause duplicate orders. Its a best practice to show loading screen while the order is being processed</li>
+  <li>Once client sees above <code>202</code>/<code>302</code> response, it will redirect the user to order status page (incase of browser) so that browser refreshes does not cause duplicate orders. Its a best practice to show loading screen while the order is being processed</li>
   <li>Finally, <code>order-service</code> would respond to the order status request with <code>initialized</code>/<code>confirmed</code>/<code>rejected</code> status</li>
   <li>If the order is not yet concluded, latest status can be obtained by client using polling/server can implement <a href="https://www.wikiwand.com/en/Push_technology">long polling</a> to avoid client putting too much polling load</li>
 </ol>
@@ -278,7 +283,7 @@
 
 <p>Now back to the crash issue in <code>order-service</code></p>
 
-<p>Since crash leaves our data inconsistent state, <code>order-service</code> will have to explicitly <strong>reconcile</strong>/<strong>compensate</strong> for these failures at the application level by fetching the latest status of the the order from <code>inventory-service</code>. This is why its called <code>Compensating Transaction</code></p>
+<p>Since crash leaves our data inconsistent state, <code>order-service</code> will have to explicitly <strong>reconcile</strong>/<strong>compensate</strong> for these failures at the application level by fetching the latest status of the order from <code>inventory-service</code> for abandoned orders. This is why its called <code>Compensating Transaction</code></p>
 
 <p>Compensation guarantees order status to be consistent with the business rules <strong>EVENTUALLY</strong>, not not immediately</p>
 
@@ -328,7 +333,7 @@
   <li><code>inventory-service</code> will return latest status, which <code>order-service</code> will use to update in its own database &amp; release exclusive row level lock</li>
 </ol>
 
-<p>Suppose that we have two instances of <code>order-service</code> &amp; the 1st instance handling the order request failing midway. When the client resends order status request, it will be received by the second instance, at which point, we can do compensation logic for the as part of current request. This way client does not have to wait till the scheduled reconciliation (next section)</p>
+<p>Suppose that we have two instances of <code>order-service</code> &amp; the 1st instance is handling the order request &amp; the server crashed midway just like before. When the client resends order status request (clients are expected to do this on a best effort basis), it will be received by the second instance, at which point, we can do compensation logic for the abandoned order as part of this request. This way client does not have to wait till the scheduled reconciliation for get the latest status (next section)</p>
 
 <p><img src="svg-optimized/sibling-reconciliation.svg" alt="Diagram: Sibling reconciliation" class="featured-image img-fluid margin-auto" /></p>
 
@@ -336,11 +341,11 @@
 
 <p>This type of reconciliation guarantees that all the orders that were abandoned before the start of the current run of scheduler are guaranteed to be consistent once scheduler run is complete</p>
 
-<p>Since relying on client to reconcile all orders is not a good idea as the client can have network issue &amp; never reconcile an order. So, irrespective of whether the client does the reconsiliation (or) not, we want a mechanism within the application itself that does auto reoncilation at regular intervals. This is where scheduled reconcilation comes in</p>
+<p>Since relying on client to reconcile all orders that were failed midway is not a good idea as the client might never be able to contact the server due to network issue or some other reason, we want a mechanism within the application itself that does auto reconciliation at regular interval. This is where scheduled reconciliation comes in</p>
 
 <p>At regular interval we have to <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#scheduling">schedule a task</a> to be run within our application that does the reconciliation</p>
 
-<p>For each run of the scheduled tasks run, this is what the reconciler does</p>
+<p>For each run of the scheduled task, this is what the reconciler does</p>
 
 <ul>
   <li><code>order-service</code> will fetch all orders that are in <code>initialized</code> state</li>
@@ -362,15 +367,17 @@
   <li>Compensating transactions/Reconcilers at various levels</li>
 </ol>
 
-<p>We looked at three types of</p>
+<p>We looked at three types of reconciliations</p>
 
 <ul>
   <li>Startup reconciliation</li>
-  <li>On demand (sibling) reconciliation</li>
+  <li>On demand reconciliation</li>
   <li>Scheduled reconciliation</li>
 </ul>
 
-<p>It is important to note that each application must have self reconciliation using Scheduled reconciler while rest are optional. But typically in an application, you would all three reconcilers to reduce the amount of time the system will be in inconsistent state</p>
+<p>It is important to note that each application must have Scheduled reconciler as thier guarantees regular reconciliation &amp; is not dependent on external actors. The other two types of reconciliations are optional but preferred</p>
+
+<p>In a typical application, you would have all three reconcilers to reduce the amount of time the system will be in inconsistent state in case of unexpected failures</p>
 
 <p>If you have any queries/suggestions let me know in the comments section</p>
 
@@ -547,7 +554,7 @@
 
     <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
 
-    <script src="/assets/js/mediumish.js?1553246704098300654"></script>
+    <script src="/assets/js/mediumish.js?1553267584131540645"></script>
 
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css"
         integrity="sha256-tAflq+ymku3Khs+I/WcAneIlafYgDiOQ9stIHH985Wo=" crossorigin="anonymous" /> -->
