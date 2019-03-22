@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 00:18:37 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 00:18:37 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:19:53 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:19:53 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -191,7 +191,7 @@
 
 <p>This type of reconciliation guarantees that all the orders that were abandoned before the start of the current run of scheduler are guaranteed to be consistent once scheduler run is complete</p>
 
-<p>Since relying on client to reconcile all orders that were failed midway is not a good idea as the client might never be able to contact the server due to network issue or some other reason, we want a mechanism within the application itself that does auto reconciliation at regular interval. This is where scheduled reconciliation comes in</p>
+<p>Since relying on client to reconcile all orders that failed midway is not a good idea as the client might never be able to contact the server due to network issue or some other reason, we want a mechanism within the application itself that does auto reconciliation at regular interval. This is where scheduled reconciliation comes in</p>
 
 <p>At regular interval we have to <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#scheduling">schedule a task</a> to be run within our application that does the reconciliation</p>
 
