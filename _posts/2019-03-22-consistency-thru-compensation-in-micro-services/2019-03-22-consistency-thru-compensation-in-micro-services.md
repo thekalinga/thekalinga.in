@@ -143,7 +143,7 @@ Here is what we should do as part of `order-service` startup to meet above guara
 * `order-service` have to check if there are any orders in `initialized` state
 * Attempt to acquire exclusive row level lock on each of the above orders. If lock cannot be acquired, just skip over it as this order is current being processed by some other instance
 * For each of the above order on which lock can be acquired, `order-service` will request `inventory-service` about the latest status of the stock consumed by the given `<order id>`
-* `inventory-service` will return latest status, which `order-service` will use to update in its own database
+* `inventory-service` will return latest status, which `order-service` will use to update in its own database & release exclusive row level lock
 
 This way, `order-service` guarantees all orders that were abandoned before the startup will be consistent after startup
 
