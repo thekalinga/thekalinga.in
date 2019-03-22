@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Mar 2019 23:59:59 +0530</pubDate>
-    <lastBuildDate>Fri, 22 Mar 2019 23:59:59 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:00:59 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:59 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -135,7 +135,7 @@
 
 <p>Since crash leaves our data in inconsistent state, <code>order-service</code> will have to explicitly <strong>reconcile</strong>/<strong>compensate</strong> for these failures at the application level by fetching the latest status of the order from <code>inventory-service</code> for abandoned orders. This is why its called <code>Compensating Transaction</code></p>
 
-<p>Compensation guarantees order status to be consistent with the business rules <strong>EVENTUALLY</strong>, not not immediately</p>
+<p>Compensation guarantees order status to be consistent with the business rules <strong>EVENTUALLY</strong>, but not immediately</p>
 
 <p>Depending on how soon we want this reconciliation, we can implement reconciliation in the following three stages</p>
 
