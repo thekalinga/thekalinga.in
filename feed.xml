@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 00:00:59 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 00:00:59 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:01:44 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:01:44 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -141,7 +141,7 @@
 
 <ol>
   <li>Startup reconciliation: Orders abandoned before the instance is started are guaranteed to be consistent once the instance is up (optional)</li>
-  <li>On demand reconciliation: Orders requested by client is guaranteed to be consistent thru on demand reconciliation once the request is processed successfully (optional)</li>
+  <li>On demand reconciliation: Orders requested by client are guaranteed to be consistent thru on demand reconciliation once the request is processed successfully (optional)</li>
   <li>Scheduled reconciliation: Orders that are abandoned before the scheduler ran are guaranteed to be consistent once scheduler runs successfully (mandatory)</li>
 </ol>
 
