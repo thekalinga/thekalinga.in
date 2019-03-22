@@ -45,7 +45,7 @@
     <meta property="article:author" content="https://thekalinga.in/about">
     <meta name="twitter:creator" content="@thekalinga">
     <meta property="article:published_time" content="2019-03-22T00:00:00+05:30">
-    <meta property="article:modified_time" content="2019-03-23T00:03:30+05:30">
+    <meta property="article:modified_time" content="2019-03-23T00:10:55+05:30">
     
     
     <meta content="Micro Services" property="article:section">
@@ -69,8 +69,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
         crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-    <link href="/assets/css/screen.css?1553279674358274961" rel="stylesheet">
-    <link href="/assets/css/main.css?1553279674358274961" rel="stylesheet">
+    <link href="/assets/css/screen.css?1553280121621855334" rel="stylesheet">
+    <link href="/assets/css/main.css?1553280121621855334" rel="stylesheet">
 </head>
 
 
@@ -311,7 +311,7 @@
   <li><code>order-service</code> have to check if there are any orders in <code>initialized</code> state</li>
   <li>Attempt to acquire exclusive row level lock on each of the above orders. If lock cannot be acquired, just skip over it as this order is current being processed by some other instance</li>
   <li>For each of the above order on which lock can be acquired, <code>order-service</code> will request <code>inventory-service</code> about the latest status of the stock consumed by the given <code>&lt;order id&gt;</code></li>
-  <li><code>inventory-service</code> will return latest status, which <code>order-service</code> will use to update in its own database</li>
+  <li><code>inventory-service</code> will return latest status, which <code>order-service</code> will use to update in its own database &amp; release exclusive row level lock</li>
 </ul>
 
 <p>This way, <code>order-service</code> guarantees all orders that were abandoned before the startup will be consistent after startup</p>
@@ -554,7 +554,7 @@
 
     <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
 
-    <script src="/assets/js/mediumish.js?1553279674358274961"></script>
+    <script src="/assets/js/mediumish.js?1553280121621855334"></script>
 
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css"
         integrity="sha256-tAflq+ymku3Khs+I/WcAneIlafYgDiOQ9stIHH985Wo=" crossorigin="anonymous" /> -->

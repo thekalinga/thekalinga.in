@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 00:04:34 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 00:04:34 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:12:01 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:12:01 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -161,7 +161,7 @@
   <li><code>order-service</code> have to check if there are any orders in <code>initialized</code> state</li>
   <li>Attempt to acquire exclusive row level lock on each of the above orders. If lock cannot be acquired, just skip over it as this order is current being processed by some other instance</li>
   <li>For each of the above order on which lock can be acquired, <code>order-service</code> will request <code>inventory-service</code> about the latest status of the stock consumed by the given <code>&lt;order id&gt;</code></li>
-  <li><code>inventory-service</code> will return latest status, which <code>order-service</code> will use to update in its own database</li>
+  <li><code>inventory-service</code> will return latest status, which <code>order-service</code> will use to update in its own database &amp; release exclusive row level lock</li>
 </ul>
 
 <p>This way, <code>order-service</code> guarantees all orders that were abandoned before the startup will be consistent after startup</p>
