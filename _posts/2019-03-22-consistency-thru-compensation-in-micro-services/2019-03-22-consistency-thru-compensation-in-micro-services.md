@@ -15,7 +15,7 @@ github_comments_issueid: 5
 
 ![{{page.title}}](consistency-failures.jpg){:.featured-image.img-fluid.margin-auto}
 
-This article addresses the consistency aspect in micro services environment where a transaction need to span more than one micro service
+This article addresses the eventual consistency aspect of transactions in micro services environment where a transaction spans more than one micro service & transaction failure midway is imminent
 
 ## Existing business usecase
 
