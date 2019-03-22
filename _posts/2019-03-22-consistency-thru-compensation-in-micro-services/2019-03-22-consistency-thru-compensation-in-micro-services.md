@@ -36,7 +36,7 @@ Because of ACID guarantees, when we update both order & inventory tables, either
 
 In essence, its relatively easy to fulfill this requirement in our monolithic world since we will be working against a single database
 
-> Please note that most of the businesses will be OK even if we sell oversell items even when we don't have corresponding stock in the inventory. This is because once the order is placed, the business can ask vendors to send it more stock of the oversold items & still fulfill our customer's order. The point this article addresses is "can the technology live within business constraints"?. Suppose our business does not permit overselling because we are selling rare items, say classic paintings/some other exclusive items, which means we cant oversell as no other vendor can supply additional stock of all items in our inventory
+> Please note that most of the businesses will be OK if we oversell items even when we don't have corresponding stock in the inventory. This is because once the order is placed, the business can ask vendors to send it more stock of the oversold items & still fulfill our customer's order. The point this article addresses is "can the technology live within business constraints"?. Suppose our business does not permit overselling because we are selling rare items, say classic paintings/some other exclusive items, which means we cant oversell as no other vendor can supply additional stock of all items in our inventory
 
 ## Breaking monolith
 
