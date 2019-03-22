@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 00:02:50 +0530</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 00:02:50 +0530</lastBuildDate>
+    <pubDate>Sat, 23 Mar 2019 00:04:34 +0530</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:04:34 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -145,7 +145,7 @@
   <li>Scheduled reconciliation: Orders that are abandoned before the scheduler ran are guaranteed to be consistent once scheduler runs successfully (mandatory)</li>
 </ol>
 
-<p>The guarantees each of the above three reconcilers provides are only valid for those orders for which they can acquire exclusive lock. If some other instance’s reconciler is doing compensation for any given order, the current reconciler just skips over them</p>
+<p>The guarantees each of the above three reconcilers provides are only valid for those orders for which the reconciler can acquire exclusive lock. If some other instance’s reconciler is doing compensation for any given order, the current reconciler just skips over them</p>
 
 <p>Now lets look at each one of these options &amp; how the reconcilation/compensation works</p>
 
