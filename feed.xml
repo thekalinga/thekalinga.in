@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Mar 2019 20:43:04 +0530</pubDate>
-    <lastBuildDate>Fri, 22 Mar 2019 20:43:04 +0530</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2019 20:50:33 +0530</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2019 20:50:33 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -225,7 +225,7 @@
   <li>Scheduled reconciliation</li>
 </ul>
 
-<p>It is important to note that each application must have Scheduled reconciler as thier guarantees regular reconciliation &amp; is not dependent on external actors. The other two types of reconciliations are optional but preferred</p>
+<p>It is important to note that each application must have Scheduled reconciler as this guarantees regular reconciliation &amp; is not dependent on external actors. The other two types of reconciliations are optional but preferred</p>
 
 <p>In a typical application, you would have all three reconcilers to reduce the amount of time the system will be in inconsistent state in case of unexpected failures</p>
 
