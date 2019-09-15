@@ -5,8 +5,8 @@
     <description>Founder @ 1Ton Technologies</description>
     <link>https://thekalinga.in/</link>
     <atom:link href="https://thekalinga.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Sep 2019 18:16:20 +0530</pubDate>
-    <lastBuildDate>Sun, 15 Sep 2019 18:16:20 +0530</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2019 19:31:52 +0530</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2019 19:31:52 +0530</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -29,8 +29,8 @@
 <p>Our business expects us to give them the following guarantees</p>
 
 <ol>
-  <li><strong>Never accept an order if the inventory does not have enough stock</strong></li>
-  <li><strong>Every item in the inventory is either assigned to an order (or) available for further purchases by customer within a reasonable amount of time</strong></li>
+  <li>Never accept an order if the inventory does not have enough stock</li>
+  <li>Every item in the inventory is either assigned to an order (or) available for further purchases by customer within a reasonable amount of time</li>
 </ol>
 
 <p>As every seasoned developer knows, Monolith is a heaven for systems that want consistency because of RDBMS &amp; the ACID guarantees it provides. But this comes at the cost of autonomy &amp; scalability</p>
