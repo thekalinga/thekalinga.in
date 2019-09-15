@@ -25,8 +25,8 @@ Suppose that we currently have a monolithic order management system that is back
 
 Our business expects us to give them the following guarantees
 
-1. **Never accept an order if the inventory does not have enough stock**
-2. **Every item in the inventory is either assigned to an order (or) available for further purchases by customer within a reasonable amount of time**
+1. Never accept an order if the inventory does not have enough stock
+2. Every item in the inventory is either assigned to an order (or) available for further purchases by customer within a reasonable amount of time
 
 As every seasoned developer knows, Monolith is a heaven for systems that want consistency because of RDBMS & the ACID guarantees it provides. But this comes at the cost of autonomy & scalability
 
