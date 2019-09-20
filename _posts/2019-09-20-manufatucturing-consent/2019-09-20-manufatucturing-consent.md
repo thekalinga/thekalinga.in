@@ -126,7 +126,7 @@ When you look at the people behind the organization, what you get are a set of a
 
 Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll in a scientific manner
 
-So, lets look at the methodology of the organization that conducted this so called "poll"
+So, lets look at the pollster & the polling methodology he employed to arrive at the recent so called "poll"
 
 ## Uncovering the pollster
 
