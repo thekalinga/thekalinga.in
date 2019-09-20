@@ -93,6 +93,8 @@ He also has expertise in *paid media strategy* & *public opinion-research* while
 He was ex-Bill Clinton staffer & also ran *Paid Media and Research to the Obama for America Campaign* — specifically — *he coordinated all paid media and polling in 25 states*.
 He also ran political campaigns in *Ukraine* & *Hungary*
 
+[![Diagram: Jeff Link - Link strategies](images/jeff-link-strategies-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.linkstrategies.com/our-team/jeff-link/){:target="\_blank"}
+
 The same post also mentions another person who holds the post of chair in *FORA*, namely **Patty Judge** who also happens to be *Past Lt. Governor and Secretary of Agriculture* for Iowa
 
 [![Diagram: Patty Judge is the Chair of FORA](images/patty-in-fora-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2019/09/18/september-2019-poll-results/){:target="\_blank"}
