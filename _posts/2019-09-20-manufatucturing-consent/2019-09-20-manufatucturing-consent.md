@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Manufacturing Consent — How Democratic operatives are undermining Bernie Sanders 2020 Candidacy
-description: A deeper look at a polling organization called Focus on Rural America that produces polls which undercuts Bernie Sanders while pushing his opponents like Warren
+title: Manufacturing Consent — How Democratic operatives are undermining Bernie Sanders 2020 candidacy
+description: A deeper look at a non-profit called Focus on Rural America that publishes polls that undercuts Bernie Sanders while pushing his opponents like Warren
 author: thekalinga
 category: Politics
 tags: [Politics, Bernie Sanders, Democratic Party, Focus on Rural America, Fake polls, Manufacturing consent]
