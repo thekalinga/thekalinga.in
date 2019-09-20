@@ -112,18 +112,18 @@ A post dating back to May 2017 lists a man named **Sam Roecker** as an Advisor.
 
 [![Diagram: Sam Roecker in FORA](images/sam-roecker-in-fora-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2017/05/30/new-nonprofit-seeks-boost-progressive-causes-rural-america/){:target="\_blank"}
 
-His twitter profile says he worked as the state director for **John Hickenlooper**
-the same man who was after Bernie in the recent presidential polls before [dropping out]((https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440),)
+His twitter profile says he worked as the state director for **John Hickenlooper** —
+the same Hickenlooper who was after Bernie in the recent presidential polls before [dropping out]((https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440),)
 
 [![Diagram: Sam Roecker in Twitter](images/sam-roecker-twitter-highlight.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/SamRoecker){:target="\_blank"}
 
-When you look at the people behind the organization, what you get are a set of actors
+In summary, here are the people people behind *FORA*
  
 1. A co-founder, who worked for the Democratic establishment in the past; Clinton, Obama & more
 2. An advisor, who worked for primary opponent of Bernie (Hickenlooper)
 3. A chairman, who praises Warren (another opponent of Bernie) & hangs around with her during the current primary campaign
 
-Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll in a scientific manner
+Even with all the establishment actors running the show, its possible that the poll published by them might still be a *credible* one — if the pollster conducted the poll in a scientific manner with a well defined methodology
 
 So, lets look at the pollster & the polling methodology he employed to arrive at the recent so called "poll"
 
@@ -135,7 +135,7 @@ We will get back to the pollster lil later
 
 [![Diagram: Sam Roecker in Twitter](images/fora-methodology-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf){:target="\_blank"}
 
-When you look at the report, you dont get any idea about what questions were actually posed to the voters & what their answers were.
+When you look at the complete [poll report](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf), you dont get any idea about what questions were actually posed to the voters & what their answers were.
 You are told vague things like
 
 1. Percent with Positive Opinion
@@ -173,15 +173,19 @@ in the upcoming democratic primary election
 
 ## Conclusion
 
-An organization called *Focus on Rural America* run by ex-dem staffers/leaders,
-who worked for Bill Clinton, ran paid campaigns for  Obama,
-who worked as State directors for Bernie's primary opponents,
-who has apparent allegiance to current Democratic primary runners like Elizabeth Warren,
-publish so called "poll"s where Bernie is getting lower vote share than *Pete Buttigieg* —
-conducted by an ex-Obama staffer which is apparently based on someone's *feelings* —
-publish polls that have no substance & are complete outliers —
-which are then pickedup by mainstream media for pushing free propaganda for Warren & other corporate dems — 
-morning till night, everyday, till this propaganda becomes reality in the minds of undecided voters
+An organization called *Focus on Rural America* run by ex-dem staffers/leaders —
+that's founded by someone who worked for Bill Clinton, ran paid campaigns for  Obama —
+that's advised by someone who worked as State director for Hickenlooper —
+that's chiared by someone who has apparent allegiance to current Democratic primary runner Elizabeth Warren —
+publish so called "poll"s where Bernie is getting lower vote share than *Pete Buttigieg*.
+
+
+These so called "poll"s are conducted by an ex-Obama staffer —
+who deploys unconventional *fellings* based methodology —
+with no information on the methodology/demographic breakdown —
+publish polls that are complete outliers —
+which then are picked-up by mainstream media for pushing free propaganda for Warren & other corporate dems —
+till this propaganda becomes reality in the minds of undecided voters.
 
 What else do you call this other than *Manufacturing Consent* by democratic establishment
 in connivance with their toadies in the mainstream media to push a corporate democratic candidate?
