@@ -520,6 +520,7 @@ ul.tags {
 ul.tags li {
     display: inline-block;
     font-size: 0.9rem;
+    margin-bottom: 4px;
 }
 
 ul.tags li a {
@@ -527,6 +528,7 @@ ul.tags li a {
     color: rgba(0, 0, 0, .6);
     border-radius: 3px;
     padding: 10px 10px;
+    display: block;
 }
 
 ul.tags li a:hover {
