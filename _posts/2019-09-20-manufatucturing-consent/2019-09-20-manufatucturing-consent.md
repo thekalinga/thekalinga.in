@@ -229,3 +229,10 @@ are commissioned by people who are currently batting for Warren, a candidate in 
 What else do you call this other than *Manufacturing Consent* by democratic establishment —
 in connivance with their toadies in the mainstream media —
 to push a corporate democratic candidate?
+
+## Credits
+
+Thanks to for sharing few references used in this article
+
+* [Greg C](https://twitter.com/greg06897) 
+* [Clark](https://twitter.com/Clarknt67) 
