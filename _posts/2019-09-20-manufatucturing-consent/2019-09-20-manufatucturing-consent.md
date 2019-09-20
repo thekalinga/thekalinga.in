@@ -57,7 +57,13 @@ Here are some of the media outlets that picked the poll put out by *FORA*
 
 There are lot more outlets that picked up this. To see all of them go [here](https://www.google.com/search?q="focus+on+rural+america"&tbm=nws){:target="\_blank"}
 
+And some political commentators have already picked this stuff & spreading it among their followers
+
+[![Diagram: David Axelrod sharing FORA poll](images/david-axelrod.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/davidaxelrod/status/1174299432692719616){:target="\_blank"}
+
 I am told by others that mainstream TV outlets like MSNBC ran multiple segments based on this specific poll. I will update this post when I gets access to the footage
+
+Since many legitimate media outlets & TV talking heads are taking this poll seriously to push an agenda, lets take a close look at the organization
 
 ## Uncovering the actors
 
