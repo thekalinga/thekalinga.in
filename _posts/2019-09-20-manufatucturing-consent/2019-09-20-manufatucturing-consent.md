@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manufacturing Consent — How Democratic operatives are undermining Bernie Sanders 2020
+title: Manufacturing Consent — How Democratic operatives are undermining Bernie Sanders 2020 Candidacy
 description: A deeper look at a polling organization called Focus on Rural America that produces polls which undercuts Bernie Sanders while pushing his opponents like Warren
 author: thekalinga
 category: Politics
@@ -19,18 +19,28 @@ github_comments_issueid: 6
 > 
 > — Anonymous
 
-Manufacturing consent has been the modern means by which the *few powerful* gets to control the *many powerless*.
+*Manufacturing consent* has been the modern means by which the *few powerful* gets to control the *many powerless*.
 Since *the many* won't give up their power so easily, the powerful must find new ways in convincing *the many*
 that the candidate of their choice does not enjoy as much support
 
 In this article, I will convince you with publicly available data that
-Democratic party insiders are trying manufacture consent in 2020 Democratic primary
-season. Specially, they are trying to prop up the candidate of their choice — Elizabeth Warren — while
-undermining Bernie Sander's candidacy thru so called "polls" which are highly questionable at best, outright corrupt at worst
+Democratic party insiders are trying manufacture consent in the current 2020 Democratic primary
+season. Specially, they are trying to prop up the candidates of their choice — Joe Biden, Elizabeth Warren & Pete Buttigieg — while
+undermining the candidates like Bernie Sander's candidacy thru this "poll" route
+
+Many of the pollsters publish their polling methodology, sampled demographics, which they then publish along with the results.
+Sure, we might disagree with the methodology (or) the demographic selection, but we atleast have these details before commenting on
+whether the poll is legitimate or not
+
+We now have a new phenomenon where a pollster that neither publishes their methodology, nor demographics,
+but publishes the outcome of which candidates gets what percentage of votes which media picks-up to run
+non-stop propaganda
+
+This is the story of one such establishment pollster who publishes polls that are highly questionable at best, outright corrupt at worst
 
 ## Background
 
-If you notice the news lately, you would notice media telling everyone that *Bernie is losing steam* while *Warren is surging*
+If you paid attention to news lately, you would notice media telling everyone that *Bernie is losing steam* while *Warren is surging*
 
 To this end, I would like to focus on one of the recent polling published by an organization called **Focus on Rural America**. I'll refer to this organization as *FORA* from now on
 
@@ -51,13 +61,17 @@ I am told by others that mainstream TV outlets like MSNBC ran multiple segments 
 
 ## Uncovering the actors
 
-Lets now analyze the credibility of this poll publisher *FORA*; specifically, who are behind it & what polling methodology does it use
+Lets start with analyzing the credibility of this poll publisher *FORA*; specifically,
+
+1. Who are behind it
+2. Which pollster do they use
+3. What polling methodology does the pollster use
 
 If you go to the link, You would notice that the poll is published by someone named *Jeff Link*
 
 [![Diagram: Focus on America Summary page](images/iowa-voter-survey-summary-page-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/){:target="\_blank"}
 
-When you click on the link, you get *The page you requested could not be found.*
+When you click on the Author's link, you get *The page you requested could not be found.*
 
 [![Diagram: Jeff does not exists](images/jeff-not-found-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/author/jeff/){:target="\_blank"}
 
