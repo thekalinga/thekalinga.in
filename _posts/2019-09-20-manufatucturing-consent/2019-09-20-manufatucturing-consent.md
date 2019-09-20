@@ -175,13 +175,14 @@ in the upcoming democratic primary election
 ## Conclusion
 
 An organization called *Focus on Rural America* run by ex-dem staffers/leaders,
-who ran paid campaigns for Bill Clinton & Obama, who worked as State directors for Bernie's primary opponents,
-who has apparent allegiance to current Democratic primary runners like Elizabeth Warren
-publish so called "poll"s where Bernie is even below *Pete Buttigieg* —
+who worked for Bill Clinton, ran paid campaigns for  Obama,
+who worked as State directors for Bernie's primary opponents,
+who has apparent allegiance to current Democratic primary runners like Elizabeth Warren,
+publish so called "poll"s where Bernie is getting lower vote share than *Pete Buttigieg* —
 conducted by an ex-Obama staffer which is apparently based on someone's *feelings* —
-publish polls that have no substance & are complete outlier polls —
+publish polls that have no substance & are complete outliers —
 which are then pickedup by mainstream media for pushing free propaganda for Warren & other corporate dems — 
-morning till night everyday till this propaganda becomes reality in the minds of undecided voters
+morning till night, everyday, till this propaganda becomes reality in the minds of undecided voters
 
 What else do you call this other than *Manufacturing Consent* by democratic establishment
 in connivance with their toadies in the mainstream media to push a corporate democratic candidate?
