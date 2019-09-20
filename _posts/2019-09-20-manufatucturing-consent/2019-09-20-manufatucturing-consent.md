@@ -63,7 +63,7 @@ Here are some of the media outlets that picked the poll put out by *FORA*
 
 There are lot more outlets that picked up this poll. To see all of them go [here](https://www.google.com/search?q="focus+on+rural+america"&tbm=nws){:target="\_blank"}
 
-And some political commentators have already picked this stuff & spreading it among their followers
+And some political commentators have already picked this stuff & are spreading it among their followers
 
 [![Diagram: David Axelrod sharing FORA poll](images/david-axelrod.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/davidaxelrod/status/1174299432692719616){:target="\_blank"}
 
