@@ -87,7 +87,7 @@ Lets start with analyzing the credibility of this poll publisher *FORA*; specifi
 2. Which pollster do they use
 3. What polling methodology does the pollster use
 
-If you go to the link, You would notice that the poll is published by someone named *Jeff Link*
+If you go to [this link](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/), You would notice that the poll is published by someone named *Jeff Link*
 
 [![Diagram: Focus on America Summary page](images/iowa-voter-survey-summary-page-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/){:target="\_blank"}
 
