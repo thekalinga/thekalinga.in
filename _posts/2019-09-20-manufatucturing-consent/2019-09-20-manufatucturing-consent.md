@@ -61,7 +61,7 @@ Here are some of the media outlets that picked the poll put out by *FORA*
 5. [Presidential candidate Amy Klobuchar in Detroit hoping to build on Midwest momentum](https://www.fox2detroit.com/news/presidential-candidate-amy-klobuchar-in-detroit-hoping-to-build-on-midwest-momentum){:target="\_blank"}
 6. [Dems fear another rural wipeout will reelect Trump](https://www.politico.com/story/2019/08/20/democratic-primary-rural-outreach-1469005){:target="\_blank"}
 
-There are lot more outlets that picked up this. To see all of them go [here](https://www.google.com/search?q="focus+on+rural+america"&tbm=nws){:target="\_blank"}
+There are lot more outlets that picked up this poll. To see all of them go [here](https://www.google.com/search?q="focus+on+rural+america"&tbm=nws){:target="\_blank"}
 
 And some political commentators have already picked this stuff & spreading it among their followers
 
