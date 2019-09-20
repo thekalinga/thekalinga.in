@@ -35,9 +35,9 @@ demographic selection, but we atleast have these details before commenting on
 whether the poll is legitimate or not
 
 We now have a new phenomenon where a pollster that neither publishes their methodology,
-nor demographics, but publishes just the summary/memo of which candidate
-gets what percentage of votes which media picks-up to run non-stop propaganda
-with no questions about the credibility of the poll
+nor demographics, but publishes just the summary/memo of — which candidate
+gets what percentage of votes — which is then picked-up by mainstream media to run
+non-stop propaganda with no questions about the credibility of the poll
 
 This is the story of one such establishment pollster who publishes
 polls that are highly questionable at best, outright corrupt at worst
