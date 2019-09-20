@@ -67,7 +67,7 @@ And some political commentators have already picked this stuff & spreading it am
 
 [![Diagram: David Axelrod sharing FORA poll](images/david-axelrod.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/davidaxelrod/status/1174299432692719616){:target="\_blank"}
 
-Also, polling pundits like *Nate Silver* have used this poll as a base to downplay Bernie
+Also, polling pundits like *Nate Silver* have used this poll as a base to undermine Bernie's popularity while singing priases of the *chosen one*, Elizabeth Warren
 
 [![Diagram: Nate Silver downplaying Bernie in Iowa](images/nates-liver-digg-highlight.png){:.featured-image.img-fluid.margin-auto}](https://fivethirtyeight.com/features/theres-a-better-case-for-a-top-2-than-a-top-3/){:target="\_blank"}
 
