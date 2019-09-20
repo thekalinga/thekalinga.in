@@ -21,7 +21,8 @@ github_comments_issueid: 6
 
 *Manufacturing consent* has been the modern means by which the *few powerful* gets to control the *many powerless*.
 Since *the many* won't give up their power so easily, the powerful must find new ways of convincing *the many* —
-that the candidate of their choice does not enjoy as much support
+that the candidate of their choice does not enjoy popular support — so they must pick a more *reasonable choice*
+to rule over them
 
 In this article, I will attempt to convince you with publicly available data that
 Democratic party insiders are trying manufacture consent in the current 2020 Democratic primary
@@ -68,7 +69,7 @@ And some political commentators have already picked this stuff & spreading it am
 
 Also, polling pundits like *Nate Silver* have used this poll as a base to downplay Bernie
 
-[![Diagram: Nate Silver downplaying Bernie in Iowa](images/nates-liver-digg-highlight.png){:.featured-image.img-fluid.margin-auto}](https://fivethirtyeight.com/features/theres-a-better-case-for-a-top-2-than-a-top-3/amp/?__twitter_impression=true){:target="\_blank"}
+[![Diagram: Nate Silver downplaying Bernie in Iowa](images/nates-liver-digg-highlight.png){:.featured-image.img-fluid.margin-auto}](https://fivethirtyeight.com/features/theres-a-better-case-for-a-top-2-than-a-top-3/){:target="\_blank"}
 
 Mainstream TV outlets like MSNBC already used these polls to draw inference about electability, drumming up propaganda
 
