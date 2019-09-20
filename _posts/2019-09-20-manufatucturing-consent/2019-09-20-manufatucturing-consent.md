@@ -118,11 +118,11 @@ the same man who was after Bernie in the recent presidential polls before [dropp
 
 [![Diagram: Sam Roecker in Twitter](images/sam-roecker-twitter-highlight.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/SamRoecker){:target="\_blank"}
 
-When you look at the people behind the organization, what you get are a set of actors who
+When you look at the people behind the organization, what you get are a set of actors
  
-1. Worked for the Democratic establishment in the past; Clinton, Obama & more
-2. Worked for primary opponent of Bernie (Hickenlooper)
-3. Who praise Warren (another opponent of Bernie) & hang around with her during primary campaign
+1. A co-founder, who worked for the Democratic establishment in the past; Clinton, Obama & more
+2. An advisor, who worked for primary opponent of Bernie (Hickenlooper)
+3. A chairman, who praises Warren (another opponent of Bernie) & hangs around with her during the current primary campaign
 
 Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll is a scientific manner
 
