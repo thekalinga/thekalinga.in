@@ -9,7 +9,10 @@ install:
 - bundle install
 
 script:
-- JEKYLL_ENV=production bundle exec jekyll build
+- bundle exec jekyll build
+
+env:
+  - JEKYLL_ENV=production
 
 after_success:
 - touch ./_site/.nojekyll
