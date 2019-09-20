@@ -103,7 +103,7 @@ The same post also mentions another person who holds the post of chair in *FORA*
 
 [![Diagram: Patty Judge praising Warren](images/patty-praising-warren-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.macleans.ca/politics/washington/elizabeth-warren-haunted-by-ghosts-of-sexism-past/){:target="\_blank"}
 
-Not just that, as recently as Jul 2019, she hung around warren during her visit an ethanol factory in Iowa
+Not just that, as recently as Jun 2019, she hung around warren during her visit an ethanol factory in Iowa
 
 [![Diagram: Patty Judge accompanying Warren](images/warren-and-patty-on-field-trip-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2019/06/13/warren-judge-tour-ethanol-plant/){:target="\_blank"}
 
