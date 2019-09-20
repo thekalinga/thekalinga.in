@@ -66,7 +66,15 @@ And some political commentators have already picked this stuff & spreading it am
 
 [![Diagram: David Axelrod sharing FORA poll](images/david-axelrod.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/davidaxelrod/status/1174299432692719616){:target="\_blank"}
 
-I am told by others that mainstream TV outlets like MSNBC ran multiple segments based on this specific poll. I will update this post when I gets access to the footage
+Also, polling pundits like *Nate Silver* have used this poll as a base to downplay Bernie
+
+[![Diagram: Nate Silver downplaying Bernie in Iowa](images/nates-liver-digg-highlight.png){:.featured-image.img-fluid.margin-auto}](https://fivethirtyeight.com/features/theres-a-better-case-for-a-top-2-than-a-top-3/amp/?__twitter_impression=true){:target="\_blank"}
+
+Mainstream TV outlets like MSNBC already used these polls to draw inference about electability, drumming up propaganda
+
+<p><iframe width="800" height="600" class="featured-image margin-auto" src="https://streamable.com/uz9a4" frameborder="0" allowfullscreen></iframe></p>
+
+I am told by others that mainstream TV outlets also ran multiple segments based on this specific poll. I will update this post when I gets access to the footage
 
 Since many legitimate media outlets & TV talking heads are taking this poll seriously to push an agenda, lets take a close look at the organization
 
