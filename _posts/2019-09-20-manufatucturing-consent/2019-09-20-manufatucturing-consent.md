@@ -89,9 +89,8 @@ A different page on the website explains that *Jeff Link* is the co-founder of *
 
 Navigating the website does not give you anymore information about who this man is.
 If you google for his name, you will notice interesting things about him.
-He also has expertise in *paid media strategy* & *public opinion-research* while being a democratic operative.
+He has expertise in *paid media strategy* & *public opinion-research* while being a democratic operative.
 He was ex-Bill Clinton staffer & also ran *Paid Media and Research to the Obama for America Campaign* — specifically — *he coordinated all paid media and polling in 25 states*.
-He also ran political campaigns in *Ukraine* & *Hungary*
 
 [![Diagram: Jeff Link - Link strategies](images/jeff-link-strategies-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.linkstrategies.com/our-team/jeff-link/){:target="\_blank"}
 
