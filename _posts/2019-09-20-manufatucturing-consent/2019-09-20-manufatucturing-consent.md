@@ -206,24 +206,25 @@ He is the son of *David Axelrod*, who happen to be the chief strategist for Obam
 
 ## Conclusion
 
-An organization called *Focus on Rural America* run by ex-dem staffers/leaders —
+An organization called *Focus on Rural America* —
 that's founded by someone who worked for Bill Clinton, ran paid campaigns for  Obama —
 that's advised by someone who worked as State director for Hickenlooper —
 that's chaired by someone who has apparent allegiance to one of the Democratic primary candidates —
 specifically — Elizabeth Warren — publish just memo of the poll where Bernie is getting lower vote share than *Pete Buttigieg*.
 
-These polls are conducted by an ex-Obama pollster —
+These polls are conducted by ex-Obama pollster —
 with a staff member whose father worked for Obama as chief strategist —
 publishes just memo of the poll —
 with numbers that are complete outliers —
 with no information on the methodology/demographic breakdown —
 which then are picked-up by mainstream media —
 use this poll to push free propaganda for Warren & other corporate dems —
+while undermining Bernie's campaign —
 till this propaganda becomes reality in the minds of undecided voters.
 
-Most of the outlets that reported these finding don't mention that the
+Most outlets that reported these finding did not mention that the
 polling is done by people who worked for corporate democrats in the past &
-are commissioned by people who are batting for Warren, a candidate in the current democratic primary
+are commissioned by people who are currently batting for Warren, a candidate in the current democratic primary
 
 What else do you call this other than *Manufacturing Consent* by democratic establishment —
 in connivance with their toadies in the mainstream media —
