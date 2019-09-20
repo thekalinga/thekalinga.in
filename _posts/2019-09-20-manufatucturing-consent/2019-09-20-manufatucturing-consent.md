@@ -124,7 +124,7 @@ When you look at the people behind the organization, what you get are a set of a
 2. An advisor, who worked for primary opponent of Bernie (Hickenlooper)
 3. A chairman, who praises Warren (another opponent of Bernie) & hangs around with her during the current primary campaign
 
-Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll is a scientific manner
+Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll in a scientific manner
 
 So, lets look at the methodology of the organization that conducted this so called "poll"
 
