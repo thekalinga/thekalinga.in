@@ -148,7 +148,7 @@ Nothing. You get no details about these important factors
 
 They simply have a four page document which has tables that says this is what we found.
 Most bad polls atleast give made-up numbers, made up criteria, but this one does not even bother with that foreplay.
-It just jumps into the conclusions on what percentage of votes each of democratic primary candidate will get
+It just jumps into the conclusions on what percentage of votes each of democratic primary candidate will get in Iowa
 
 Now lets get back to finding who is behind *David Binder Research*
 
