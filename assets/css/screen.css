@@ -359,6 +359,7 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
+    border: 1px solid lightgray;
 }
 
 .share {
