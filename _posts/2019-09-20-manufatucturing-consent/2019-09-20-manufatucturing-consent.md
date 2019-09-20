@@ -143,7 +143,8 @@ You are told vague things like
 2. Ruled Out *vs* Actively Considering
 
 They dont tell us how these voters are selected, what their demographics are, white/black/asian/native american,
-men/women, rich/middle class/working poor, old/middle aged/young. Nothing. You get no details about these important factors
+men/women, rich/middle class/working poor, old/middle aged/young, what percentage of the potential voters were contacted over landline vs mobile.
+Nothing. You get no details about these important factors
 
 They simply have a four page document which has tables that says this is what we found.
 Most bad polls atleast give made-up numbers, made up criteria, but this one does not even bother with that foreplay.
