@@ -87,7 +87,7 @@ Lets start with analyzing the credibility of this poll publisher *FORA*; specifi
 2. Which pollster do they use
 3. What polling methodology does the pollster use
 
-If you go to [this link](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/), You would notice that the poll is published by someone named *Jeff Link*
+If you go to [this link](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/){:target="\_blank"}, You would notice that the poll is published by someone named *Jeff Link*
 
 [![Diagram: Focus on America Summary page](images/iowa-voter-survey-summary-page-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/190914-iowa-voter-survey-memo/){:target="\_blank"}
 
@@ -95,14 +95,14 @@ When you click on the Author's link, you get *The page you requested could not b
 
 [![Diagram: Jeff does not exists](images/jeff-not-found-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/author/jeff/){:target="\_blank"}
 
-[About](http://www.focusonruralamerica.com/about/) & [Contact](http://www.focusonruralamerica.com/contact-us/) page does not help us either
+[About](http://www.focusonruralamerica.com/about/){:target="\_blank"} & [Contact](http://www.focusonruralamerica.com/contact-us/){:target="\_blank"} page does not help us either
 
 A different page on the website explains that *Jeff Link* is the co-founder of *FORA*
 
 [![Diagram: Jeff Link is the co-founder of FORA](images/jeff-mention-in-fora-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2019/09/18/september-2019-poll-results/){:target="\_blank"}
 
 Navigating the website does not give you anymore information about who this man is.
-If you google for his name, you will find another website called [Link strategies](http://www.linkstrategies.com/our-team/jeff-link/).
+If you google for his name, you will find another website called [Link strategies](http://www.linkstrategies.com/our-team/jeff-link/){:target="\_blank"}.
 
 It describes him as someone with expertise in *paid media strategy* & *public opinion-research*.
 He was *ex-Bill Clinton* staffer & also ran *Paid Media and Research to the Obama for America Campaign* —
@@ -129,8 +129,8 @@ A post dating back to May 2017 lists a man named **Sam Roecker** as an Advisor.
 [![Diagram: Sam Roecker in FORA](images/sam-roecker-in-fora-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2017/05/30/new-nonprofit-seeks-boost-progressive-causes-rural-america/){:target="\_blank"}
 
 His twitter profile says he worked as the state director for **John Hickenlooper** —
-the same [*throw your hands up* Hickenlooper](https://edition.cnn.com/videos/politics/2019/07/30/cnn-democratic-debate-bernie-sanders-john-hickenlooper-trump-vpx.cnn)
-who was after Bernie in the recent presidential polls before [dropping out]((https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440),)
+the same [*throw your hands up* Hickenlooper](https://edition.cnn.com/videos/politics/2019/07/30/cnn-democratic-debate-bernie-sanders-john-hickenlooper-trump-vpx.cnn){:target="\_blank"}
+who was after Bernie in the recent presidential polls before [dropping out](https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440){:target="\_blank"},
 
 [![Diagram: Sam Roecker in Twitter](images/sam-roecker-twitter-highlight.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/SamRoecker){:target="\_blank"}
 
@@ -146,13 +146,13 @@ So, lets look at the pollster & the polling methodology he employed to arrive at
 
 ## Uncovering the pollster
 
-On the last page of the [memo](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf),
+On the last page of the [memo](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf){:target="\_blank"},
 it is mentioned that a pollster named **David Binder Research** has conducted these polls.
 We will get back to the pollster lil later
 
 [![Diagram: Sam Roecker in Twitter](images/fora-methodology-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf){:target="\_blank"}
 
-We are only given access to the [memo](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf) of the poll —
+We are only given access to the [memo](http://www.focusonruralamerica.com/wp-content/uploads/2019/09/190914-Iowa-Voter-Survey-memo.pdf){:target="\_blank"} of the poll —
 from which — it is hard to get any idea about what questions were actually posed to the voters & what their answers were.
 
 You are told vague things like
@@ -175,7 +175,7 @@ It just shares the conclusions on what percentage of votes each of democratic pr
 
 Now lets get back to finding who is behind *David Binder Research*
 
-As per [Real clear politics](https://www.realclearpolitics.com/lists/hispanic_pollsters/david_binder.html), *David Binder Research* is run by a guy
+As per [Real clear politics](https://www.realclearpolitics.com/lists/hispanic_pollsters/david_binder.html){:target="\_blank"}, *David Binder Research* is run by a guy
 named *David Binder*, who worked as an *in-house pollster for the Obama campaign in 2008 and 2012*
 
 [![Diagram: David Binder in RCP](images/david-binder-on-rcp-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.realclearpolitics.com/lists/hispanic_pollsters/david_binder.html){:target="\_blank"}
@@ -234,5 +234,5 @@ to push a corporate democratic candidate?
 
 Thanks to the following people for sharing some of the references used in this article
 
-* [Greg C](https://twitter.com/greg06897) 
-* [Clark](https://twitter.com/Clarknt67) 
+* [Greg C](https://twitter.com/greg06897){:target="\_blank"}
+* [Clark](https://twitter.com/Clarknt67){:target="\_blank"}
