@@ -121,7 +121,7 @@ the same man who was after Bernie in the recent presidential polls before [dropp
 When you look at the people behind the organization, what you get are a set of actors who
  
 1. Worked for the Democratic establishment in the past; Clinton, Obama & more
-2. Worked for recent primary opponent (Hickenlooper) of Bernie
+2. Worked for primary opponent of Bernie (Hickenlooper)
 3. Who praise Warren (another opponent of Bernie) & hang around with her during primary campaign
 
 Even with all the establishment actors running the show, its possible that the poll might still be a **credible** one — if the pollster conducted the poll is a scientific manner
