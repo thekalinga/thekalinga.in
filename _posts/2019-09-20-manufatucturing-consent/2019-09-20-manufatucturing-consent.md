@@ -232,7 +232,7 @@ to push a corporate democratic candidate?
 
 ## Credits
 
-Thanks to for sharing few references used in this article
+Thanks to the following fellow members for sharing some of the references used in this article
 
 * [Greg C](https://twitter.com/greg06897) 
 * [Clark](https://twitter.com/Clarknt67) 
