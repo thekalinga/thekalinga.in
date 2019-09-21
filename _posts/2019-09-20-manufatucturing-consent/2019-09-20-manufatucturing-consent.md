@@ -187,7 +187,7 @@ The most important aspect being
 
 To me, all this word salad means only one thing.
 He *mind-reads* potential voters when conducting his polling.
-In simple terms the polls capture *his fellings* of *voter's feelings* about politicians
+In simple terms, his polls capture *his fellings* about *voter's feelings* about politicians
 
 I have never heard a worse way to describe a pollster than this.
 Given that only the memo is published without the underlying dataset,
