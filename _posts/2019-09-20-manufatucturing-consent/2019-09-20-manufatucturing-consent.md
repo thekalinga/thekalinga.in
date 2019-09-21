@@ -26,8 +26,8 @@ to rule over them
 
 In this article, I will attempt to convince you with publicly available data that
 Democratic party insiders are trying manufacture consent in the current 2020 Democratic primary
-season. Specifically, they are trying to prop up the candidates of their choice — Joe Biden, Elizabeth Warren & Pete Buttigieg — while
-undermining the candidates like Bernie Sander's candidacy thru self-serving "poll"s
+season. Specifically, they are trying to prop up the candidates of their choice — Joe Biden, Elizabeth Warren & Pete Buttigieg —
+while undermining Bernie Sander's candidacy thru self-serving "poll"s
 
 Many of the pollsters publish their polling methodology, sampled demographics,
 which they then publish along with the results. We might disagree with the methodology (or) the
