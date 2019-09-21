@@ -186,7 +186,7 @@ The most important aspect being
 > His focus is on assessing **subjective factors** such as **language**, **emotion**, and **attitudes**
 
 To me, all this word salad means only one thing.
-It means he *mind-reads* potential voters when conducting his polling.
+He *mind-reads* potential voters when conducting his polling.
 In simple terms the polls capture *his fellings* of *voter's feelings* about politicians
 
 I have never heard a worse way to describe a pollster than this.
