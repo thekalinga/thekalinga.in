@@ -9,11 +9,11 @@ comments: false
 
 ![Photo]({{site.baseurl}}/assets/images/me.png){: .shadow}
 
-Hi, I am Ashok Koyi
+Hi, I am Ashok Koyi. I live in Bangalore, India.
 
-I am the founder of [1Ton Technologies](https://1ton.in){:target="\_blank"}. I am also a [Java](https://java.com) Programmer with about 12 years of experience with major chunk of experience in Server side programming
+I am the founder of [1Ton Technologies](https://1ton.in){:target="\_blank"}. I am also a [Java](https://java.com) Programmer with about 12 years of experience with major chunk of experience in Server side programming.
 
-This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society, economy & corruption. You are welcome to criticize my views/opinions with facts
+This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society, economy & corruption. You are welcome to criticize my views/opinions with facts.
 
 I have built production grade applications using
 
@@ -26,7 +26,7 @@ I have built production grade applications using
 - [TypeScript](https://www.typescriptlang.org) and
 - [Angular](https://angular.io)
 
-I am a contributor to open source community too. Here are some of my contributions
+I am a contributor to open source community too. Here are some of my contributions.
 
 #### Open source contributions
 
