@@ -29,14 +29,14 @@ Democratic party insiders are trying manufacture consent in the current 2020 Dem
 season. Specifically, they are trying to prop up the candidates of their choice — Joe Biden, Elizabeth Warren & Pete Buttigieg —
 while undermining Bernie Sander's candidacy thru self-serving "poll"s
 
-Many of the pollsters publish their polling methodology, sampled demographics,
+Many of the pollsters use a statistically sound polling methodology,
 which they then publish along with the results. We might disagree with the methodology (or) the
-demographic selection, but we atleast have these details before commenting on
+demographic selection, but we atleast have these details before taking commenting on
 whether the poll is legitimate or not
 
 We now have a new phenomenon where a pollster that neither publishes their methodology,
-nor demographics, but publishes just the summary/memo of — which candidate
-gets what percentage of votes — which is then picked-up by mainstream media to run
+nor demographics, but publishes just the summary/memo of which candidate
+gets what percentage of votes. This memo is then picked-up by mainstream media to run
 non-stop propaganda with no questions about the credibility of the poll
 
 This is the story of one such establishment pollster who publishes
