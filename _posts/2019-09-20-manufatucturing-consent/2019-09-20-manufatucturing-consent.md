@@ -39,8 +39,8 @@ nor demographics, but publishes just the summary/memo of which candidate
 gets what percentage of votes. This memo is then picked-up by mainstream media to run
 non-stop propaganda with no questions about the credibility of the poll
 
-This is the story of one such dubious organization who publishes
-polls that are highly questionable at best, outright corrupt at worst
+This is the story of one such dubious organization — which is packed with establishment operatives —
+that publishes polls that are highly questionable at best, outright corrupt at worst
 
 ## Background
 
