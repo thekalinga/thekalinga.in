@@ -200,7 +200,7 @@ His name is *Ethan Axelrod*
 
 [![Diagram: Ethan Axelrod in DBR](images/ethan-axelrod-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.db-research.com/#team){:target="\_blank"}
 
-He is the son of *David Axelrod*, who happen to be the chief strategist for Obama's presidential campaigns
+He is the son of *David Axelrod*, who happen to be the *chief strategist for Obama's presidential campaigns*
 
 [![Diagram: Ethan Axelrod parentage](images/ethan-axelrod-parentage-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.google.com/search?q=David+Axelrod+children){:target="\_blank"}
 
