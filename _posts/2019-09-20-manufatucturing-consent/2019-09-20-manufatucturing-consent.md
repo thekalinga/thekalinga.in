@@ -200,7 +200,7 @@ His name is *Ethan Axelrod*
 
 [![Diagram: Ethan Axelrod in DBR](images/ethan-axelrod-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.db-research.com/#team){:target="\_blank"}
 
-He is the son of *David Axelrod*, who happen to be the [*chief strategist for Obama's presidential campaigns* &](https://harris.uchicago.edu/directory/david-axelrod)
+He is the son of *David Axelrod*, who happen to be the [*chief strategist for Obama's presidential campaigns*](https://harris.uchicago.edu/directory/david-axelrod) &
 is a Senior Political Commentator of CNN. He is also the host of a show called [The Axe Files with David Axelrod](https://edition.cnn.com/shows/axe-files-david-axelrod) on CNN
 
 [![Diagram: Ethan Axelrod parentage](images/ethan-axelrod-parentage-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.google.com/search?q=David+Axelrod+children){:target="\_blank"}
