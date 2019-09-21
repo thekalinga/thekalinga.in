@@ -114,7 +114,7 @@ The same post also mentions another person who holds the post of chair in *FORA*
 
 [![Diagram: Patty Judge is the Chair of FORA](images/patty-in-fora-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2019/09/18/september-2019-poll-results/){:target="\_blank"}
 
-*Patty Judge* gave glowing views of *Elizabeth Warren* in Jan 2019 — a month after warren announced her candidacy to enter Democratic primary
+*Patty Judge* gave glowing views of *Elizabeth Warren* in Jan 2019 — a month after warren announced her candidacy for Democratic primary
 
 [![Diagram: Patty Judge praising Warren](images/patty-praising-warren-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.macleans.ca/politics/washington/elizabeth-warren-haunted-by-ghosts-of-sexism-past/){:target="\_blank"}
 
