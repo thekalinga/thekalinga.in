@@ -168,7 +168,7 @@ what percentage of the potential voters were contacted over landline vs mobile.
 Nothing. You get no details about these important factors
 
 They simply have a four page memo, which has tables that says this is what we found.
-Almost all polls atleast give detailed breakdown, voter criteria,
+Almost all polls atleast give detailed breakdown, sampling criteria,
 but this one does not even bother giving you that information.
 
 It just shares the conclusions on what percentage of votes each of democratic primary candidate will get in Iowa
