@@ -118,7 +118,7 @@ The same post also mentions another person who holds the post of chair in *FORA*
 
 [![Diagram: Patty Judge praising Warren](images/patty-praising-warren-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.macleans.ca/politics/washington/elizabeth-warren-haunted-by-ghosts-of-sexism-past/){:target="\_blank"}
 
-Not just that, as recently as Jun 2019, she hung around warren during her visit an ethanol factory in Iowa
+Not just that, as recently as Jun 2019, she hung around warren during her visit to an ethanol factory in Iowa
 
 [![Diagram: Patty Judge accompanying Warren](images/warren-and-patty-on-field-trip-highlight.png){:.featured-image.img-fluid.margin-auto}](http://www.focusonruralamerica.com/2019/06/13/warren-judge-tour-ethanol-plant/){:target="\_blank"}
 
@@ -130,11 +130,11 @@ A post dating back to May 2017 lists a man named **Sam Roecker** as an Advisor.
 
 His twitter profile says he worked as the state director for **John Hickenlooper** —
 the same [*throw your hands up* Hickenlooper](https://edition.cnn.com/videos/politics/2019/07/30/cnn-democratic-debate-bernie-sanders-john-hickenlooper-trump-vpx.cnn){:target="\_blank"}
-who was after Bernie in the recent presidential polls before [dropping out](https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440){:target="\_blank"},
+who was after Bernie in the recent presidential polls before [dropping out](https://www.newsweek.com/john-hickenlooper-withdraw-2020-presidential-race-1454440){:target="\_blank"}
 
 [![Diagram: Sam Roecker in Twitter](images/sam-roecker-twitter-highlight.png){:.featured-image.img-fluid.margin-auto}](https://twitter.com/SamRoecker){:target="\_blank"}
 
-In summary, here are the people people behind *FORA*
+In summary, here are the people behind *FORA*
  
 1. A co-founder, who worked for many Democratic establishment candidates in the past — Clinton, Obama & more
 2. An advisor, who in the past worked for primary opponent of Bernie (Hickenlooper)
