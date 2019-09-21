@@ -195,7 +195,7 @@ I am assuming that this poll is based on the **feelings** of *David Binder* staf
 about which democratic candidate gets what percentage of votes in Iowa
 in the upcoming democratic primary election
 
-Also, when you look at the staff page of *David Binder Research*, one of the name caught my eye.
+Also, when I looked at the staff page of *David Binder Research*, one of the name caught my eye.
 His name is *Ethan Axelrod*
 
 [![Diagram: Ethan Axelrod in DBR](images/ethan-axelrod-highlight.png){:.featured-image.img-fluid.margin-auto}](https://www.db-research.com/#team){:target="\_blank"}
