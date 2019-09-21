@@ -223,9 +223,10 @@ use this poll to push free propaganda for Warren & other corporate dems —
 while undermining Bernie's campaign —
 till this propaganda becomes reality in the minds of undecided voters.
 
-Most outlets that reported on this poll did not mention that the
-polling is done by people who worked for corporate democrats in the past &
-are commissioned by people who are currently batting for Warren, a candidate in the current democratic primary
+Most outlets that reported on this poll did not mention that — the
+polling is done by people who worked for corporate democrats in the past —
+is commissioned by people who are currently batting for Warren —
+a candidate in the current democratic primary
 
 What else do you call this other than *Manufacturing Consent* by democratic establishment —
 in connivance with their toadies in the mainstream media —
