@@ -17,7 +17,7 @@ github_comments_issueid: 6
 
 > If voting could change anything it would be made illegal!
 > 
-> — Anonymous
+> — Robert S. Borden
 
 *Manufacturing consent* has been the modern means by which the *few powerful* gets to control the *many powerless*.
 Since *the many* won't give up their power so easily, the powerful must find new ways of convincing *the many* —
