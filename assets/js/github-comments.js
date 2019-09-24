@@ -22,11 +22,11 @@ function ShowComments(repo_name, comment_id, page_id) {
 
         var date = new Date(comment.created_at);
 
-        var t = "<div id='gh-comment'><div class='gh-comment-header'>";
-        t += "<img src='" + comment.user.avatar_url + "' width='44px'>";
-        t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
+        var t = "<div class='gh-comment'><div class='gh-comment-header'>";
+        t += "<a href='" + comment.user.html_url + "'><img src='" + comment.user.avatar_url + "' width='44px'>";
+        t += "<b>" + comment.user.login + "</b></a>";
         t += " posted at ";
-        t += "<em>" + date.toUTCString() + "</em></div><div id='gh-comment-hr'></div>";
+        t += "<a href='" + comment.html_url + "'><em>" + date.toUTCString() + "</em></a></div><div id='gh-comment-hr'></div>";
         t += "<div class='gh-comment-body'>";
         t += comment.body_html;
         t += "</div></div>";
