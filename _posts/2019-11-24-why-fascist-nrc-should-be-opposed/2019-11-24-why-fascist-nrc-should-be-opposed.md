@@ -119,7 +119,7 @@ We should never let that happen.
 Hundreds died [needless death](https://www.forbes.com/sites/timworstall/2016/12/08/indias-demonetisation-kills-100-people-apparently-this-is-not-an-important-number/) standing in queues when the terror of Destination 1.0 was unleashed.
 Many committed [suicide in Assam](https://www.ndtv.com/india-news/man-declared-foreigner-dies-in-assam-family-refuses-to-accept-body-2116629) because of NRC.
 
-Why should our citizens pay the ultimate price because of Modern Tughlaq sitting in PM seat?
+Why should our citizens pay the ultimate price because Modern Tughlaq is sitting in PM seat?
 
 ## 6. Ploy to distract from every other important issues
 
