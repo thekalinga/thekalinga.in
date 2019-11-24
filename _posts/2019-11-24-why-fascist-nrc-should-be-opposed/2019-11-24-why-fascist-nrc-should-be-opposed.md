@@ -125,7 +125,7 @@ Why should our citizens pay the ultimate price because Modern Tughlaq is sitting
 
 Shock & Awe is the tactic of fascists.
 They unleash unimaginable pain on people (Shock) & while we are struggling to recover from that shock (Awe), they unleash another shock.
-Kashmir is imposed on every one & while we people struggle to get justice for that, they are pushing one more cruel thing onto us.
+Kashmir is imposed on every one & while people struggle to get justice on that front, they are pushing one more cruel thing onto us.
 
 When we are completely distracted with needless but life changing distractions, we will stop worrying about real important things & start worrying about these madeup crises.
 
