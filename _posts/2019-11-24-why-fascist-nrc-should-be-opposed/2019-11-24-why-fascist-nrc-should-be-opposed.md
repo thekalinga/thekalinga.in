@@ -15,7 +15,7 @@ github_comments_issueid: 7
 
 ![{{page.title}}](indian-farmer.jpeg){:.featured-image.img-fluid.margin-auto}
 
-**ADVISORY**: Article contains strong language because it came from the heart, not from the lips
+**ADVISORY**: Article contains strong language
 
 Indian Govt led by fascist BJP is planning to conduct a country wide hunt for ["alleged"](https://theprint.in/opinion/with-assam-nrc-the-truth-is-also-out-it-was-a-pointless-exercise-all-along/284929/) illegal immigrants with the unspecified intent of punishing the poor, illiterate & most importantly [Muslims](https://www.news18.com/news/politics/bjp-vows-to-strip-muslim-immigrants-of-vote-in-assam-1214700.html).
 The primary goal is show people that they being in Govt can do whatever the hell they want to do to push the country towards [anti-secular](https://www.thehindu.com/news/national/karnataka/hegde-kicks-up-a-fresh-row-with-remarks-on-secularism/article22271584.ece?homepage=true) [Goonish Hindu state](https://hinduexistence.org/2017/05/18/remove-secular-from-constitution-to-make-bharat-as-hindu-state-togadia/) & we all can do nothing about it.
