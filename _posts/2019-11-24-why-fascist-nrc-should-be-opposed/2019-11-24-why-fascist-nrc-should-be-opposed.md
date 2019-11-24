@@ -95,7 +95,8 @@ The whole lie of BJP fell on its face.
 
 When their lie is fully exposed, sore losers of BJP wants to impose one more round of NRC on Assamese & also want all of us to prove that we are not illegals.
 Why should we?
-These fascists lied about [crores of illegal immigrants](https://www.outlookindia.com/magazine/story/india-news-even-hindus-are-illegal-immigrants-in-assams-ambitious-national-register-of-citizens-bjp-on-backfoot/302099).
+These fascists lied that there were [crores of illegal immigrants](https://www.outlookindia.com/magazine/story/india-news-even-hindus-are-illegal-immigrants-in-assams-ambitious-national-register-of-citizens-bjp-on-backfoot/302099).
+Now its a proven lie.
 
 Most of these people who are not yet in the register are yet to exhaust all their legal options.
 Many of these people are not yet in the system because our system is so flawed.
