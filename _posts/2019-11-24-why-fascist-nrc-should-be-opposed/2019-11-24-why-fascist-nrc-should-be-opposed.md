@@ -96,7 +96,7 @@ No good reason is provided to prove that India is overwhelmed with illegal immig
 I am from a village background & my village is not in a remote place in India.
 Even then, I never had any documentation other than my 10th and 12th certificate as evidence of my existence even when I went to pursue my masters degree (I am an Engineer mind you).
 
-Somehow now have to assume that the poor Poor & Illiterate somehow have documentary evidence dating as far back as 1980s, ~40years back to prove they were here before that?
+Somehow now have to assume that the Poor & Illiterate somehow have documentary evidence dating as far back as 1980s, ~40years back to prove they were here before that?
 Why? For what? Because a Hindu fascists want to use this as a wedge to further their bigotry & cruelty?
 
 Most rich people have documentation from quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
