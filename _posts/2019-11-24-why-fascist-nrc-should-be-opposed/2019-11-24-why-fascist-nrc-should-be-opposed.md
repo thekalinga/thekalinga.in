@@ -5,7 +5,7 @@ description: Why National Register of Citizens (NRC) thats being planned by Govt
 author: thekalinga
 category: Politics
 tags: [Politics, Democracy, NRC, India]
-image: indian-farmer-cropped.jpeg
+image: indian-farmer.jpeg
 featured: false
 hidden: false
 type: article
@@ -13,7 +13,7 @@ type: article
 github_comments_issueid: 7
 ---
 
-![{{page.title}}](indian-farmer-cropped.jpeg){:.featured-image.img-fluid.margin-auto}
+![{{page.title}}](indian-farmer.jpeg){:.featured-image.img-fluid.margin-auto}
 
 Indian Govt led by fascist BJP is planning to conduct a country wide hunt for "alleged" illegal immigrants with the unspecified intent of punishing the poor, illiterate & most importantly [Muslims](https://www.news18.com/news/politics/bjp-vows-to-strip-muslim-immigrants-of-vote-in-assam-1214700.html).
 The primary goal is show people that they being in Govt can do whatever the hell they want to do to push the country towards anti-secular Goonish Hindu state & we all can do nothing about it.
