@@ -90,7 +90,7 @@ Only in fascist kafkaesque unjust societies do everyone needs to prove that they
 ## 2. Its based on a proven lie
 
 BJP & the poisonous tree from which its born, RSS have insisted Assam is overflowing with illegal [Bangladeshi Muslim immigrants](https://www.economist.com/leaders/2019/07/11/indias-hunt-for-illegal-immigrants-is-aimed-at-muslims).
-Now, that Assam NRC is over, it has come about [the number of Hindus who forged documents is much higher than Muslims](https://thewire.in/government/hindus-muslims-forged-documents-nrc).
+Now, that Assam NRC is over, it has come about that the [number of Hindus who forged documents is much higher than Muslims](https://thewire.in/government/hindus-muslims-forged-documents-nrc).
 The whole lie of BJP fell on its face.
 
 When their lie is fully exposed, sore losers of BJP wants to impose one more round of NRC on Assamese & also want all of us to prove that we are not illegals.
