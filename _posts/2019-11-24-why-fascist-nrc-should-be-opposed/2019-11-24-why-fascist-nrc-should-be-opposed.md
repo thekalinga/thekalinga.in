@@ -103,7 +103,7 @@ Most rich people have documentation from quite a long time because they had land
 Most people in cities will have documentation when compared to villagers because villages operate on the principle of trust, does not require & dont use as much documentation.
 
 This whole exercise is a ploy to punish poor, illiterate, slum dwellers, villagers, landless peasants, vagabonds, merchants, beggars, people who ran away from house, abandoned kids & more.
-This exercise is to inflict needless misery on every one, especially the poorest amongst us.
+This exercise will inflict needless misery on every one, especially the poorest amongst us.
 
 ## 5. NRC = Demonetisation 2.0
 
