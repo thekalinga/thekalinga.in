@@ -24,7 +24,18 @@ The whole exercise of [National Register of Citizens (NRC)](https://indianexpres
 I'll explain everything I said here with sufficient documentory evidence in this article.
 I will also give you evidence based reasons as to why we should oppose this fascistic move tooth & nail.
 
-TLDR: I will boycott this fascist NRC & will not submit my documents for verification. You all should do the same & join street protests to oppose this. If enough of us boycott it, there is nothing they can do about it.
+**TLDR:**
+I will boycott this fascist NRC & will not submit my documents for verification. You all should do the same & join street protests to oppose this. If enough of us boycott it, there is nothing they can do about it.
+
+Here are the list of reasons (each point explained later in detail)
+
+1. Its plain unjust
+2. Its based on a proven lie
+3. Its a fascist wedge to humiliate Muslims, take over their property & make them stateless
+4. Needless misery of the most vulnerable
+5. NRC = Demonetisation 2.0
+6. Ploy to distract from every other important issue
+7. Cost of implementation
 
 ## Background
 
