@@ -81,7 +81,7 @@ This is the law of despots who dont care for the suffering they inflict on other
 Its the opposite of justice.
 
 Why should a whole country needs to prove they are not criminals?
-This is a unreasonable & cruel standard & [Supreme Court of India enabled](https://www.telegraphindia.com/india/everything-you-want-to-know-about-the-nrc/cid/1352646) this cruelty.
+This is a unreasonable & cruel standard & [Supreme Court of India was the enabler](https://www.telegraphindia.com/india/everything-you-want-to-know-about-the-nrc/cid/1352646) of this cruelty.
 
 >If a rape happens in a city, you dont ask all male members to come and prove they are not the rapists, rather Govt has the burden to go, find and ultimately prove who the actual guilty party is—with evidence—in the court of law.
 
