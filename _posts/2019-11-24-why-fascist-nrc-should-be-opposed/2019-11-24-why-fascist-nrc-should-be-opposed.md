@@ -149,7 +149,7 @@ Thats the real plan.
 
 Assam is a smaller state & there in order to conduct this moronic exercise of NRC, more than [~8000 crores was spent](https://nagalandtoday.in/editorial/2019/11/people-left-out-of-nrc-in-assam-spent-rs-7836-crore-for-hearings-rights-body-survey/), 65000 people workers were utilized & the whole state of Assam were forced to travel, collect documentation & forced to go thru miserable avoidable suffering.
 What about the lost productivity of all those who have to travel, wait in lines to prove they are not illegals?
-Many of the people worker who verified the documents are teachers, yes, [teachers were asked to verify documents](https://twitter.com/RuhulAlam72/status/1197808864583802880) instead of teaching kids.
+Many of the people were deployed to verify these documents are teachers, yes, [teachers were asked to verify documents](https://twitter.com/RuhulAlam72/status/1197808864583802880) instead of teaching kids.
 
 Now the Goons sitting in Delhi wants to conduct one more round of NRC in Assam along with rest of India.
 What about all the money that was spent in Assam?
