@@ -124,7 +124,7 @@ Why? For what? Because a Hindu fascists want to use this as a wedge to further t
 Most rich people have documentation for quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
 Most people in cities will have documentation when compared to villagers because villages operate on the principle of trust, does not require & dont use as much documentation.
 
-This whole exercise is a ploy to punish poor, illiterate, slum dwellers, villagers, landless peasants, vagabonds, merchants, beggars, people who ran away from house, abandoned kids & more.
+This whole exercise is a ploy to punish poor, illiterate, slum dwellers, villagers, landless peasants, Dalits, vagabonds, merchants, beggars, people who ran away from house, abandoned kids & more.
 This exercise will inflict needless misery on every one, especially the poorest & the most vulnerable (minorities) amongst us.
 
 ## 5. NRC = Demonetisation 2.0
