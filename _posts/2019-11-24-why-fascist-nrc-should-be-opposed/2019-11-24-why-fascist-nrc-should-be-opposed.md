@@ -121,7 +121,7 @@ Even then, I never had any documentation other than my 10th and 12th certificate
 Now we somehow have to pretend all poor & illiterate have documentary evidence dating as far back as 1980s, i.e ~40years back to prove they were here before that?
 Why? For what? Because a Hindu fascists want to use this as a wedge to further their bigotry & cruelty?
 
-Most rich people have documentation from quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
+Most rich people have documentation for quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
 Most people in cities will have documentation when compared to villagers because villages operate on the principle of trust, does not require & dont use as much documentation.
 
 This whole exercise is a ploy to punish poor, illiterate, slum dwellers, villagers, landless peasants, vagabonds, merchants, beggars, people who ran away from house, abandoned kids & more.
