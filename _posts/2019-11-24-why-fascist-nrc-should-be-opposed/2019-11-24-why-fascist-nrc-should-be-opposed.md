@@ -136,7 +136,7 @@ The farmer's lives are miserable.
 Now, [profit making companies like BPCL](https://www.thehindu.com/news/cities/mumbai/bpcl-employees-to-protest-privatisation/article29685122.ece) will be sold to his friends Ambani/Adani.
 Why should profit making companies be sold?
 Do Ambani needs to build one more billion dollar house instead of us getting basic needs taken care of?
-When out schools are so bad, when our roads are awful, when people go bankrupt if they have any serious illness because of hospital costs, when Govt have no money to build new hospitals, whats the needs to give money to Ambani even more richer by selling him BPCL?
+When out schools are so bad, when our roads are awful, when people go bankrupt if they have any serious illness because of hospital costs, when Govt have no money to build new hospitals, whats the need to give money to Ambani even more richer by selling him BPCL?
 
 When we are distracted with this needless misery, these fascists can complete the transformation this country into a fascist shit hole.
 When we are distracted with useless shit like this, we dont worry about the fact that we are being fucked from behind.
