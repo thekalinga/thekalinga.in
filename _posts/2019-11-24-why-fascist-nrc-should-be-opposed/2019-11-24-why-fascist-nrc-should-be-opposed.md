@@ -163,7 +163,7 @@ Do Ambani needs to build one more billion dollar house instead of us getting bas
 When our schools are so bad, when our roads are awful, when people go bankrupt if they have any serious illness because of hospital costs, when Govt have no money to build new hospitals, whats the need to give our money to Ambani & make him even more richer by selling him BPCL?
 
 When we are distracted with this needless misery of NRC, these fascists can complete the transformation this country into a fascist shit hole.
-When we are distracted with useless shit like this, we dont worry about the fact that we are being fucked from behind.
+When we are distracted with deliberate cruelty like this, we dont worry about the fact that we are being fucked from behind.
 
 Thats the real plan.
 
