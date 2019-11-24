@@ -112,7 +112,7 @@ This Tughlaq have no right to impose one more Tughlaqi decision & unleash this l
 
 > Demonetization 1.0 destroyed financial fabric of this country, Demonetization 2.0 (NRC) will destroy the social fabric of this country & impose state terror into everyone's heart.
 
-These Goons ate doing everything they can to destroy the social fabric by inciting communal violence in UP, Rajastan & everywhere they rule.
+These Goons are doing everything they can to destroy the social fabric by inciting communal violence in UP, Rajastan & everywhere they rule.
 
 NRC is a ploy to tell all of us that the Servant (Govt) is stronger than the Master (democracy, we all) & the master should be afraid of the servant.
 We should never let that happen.
