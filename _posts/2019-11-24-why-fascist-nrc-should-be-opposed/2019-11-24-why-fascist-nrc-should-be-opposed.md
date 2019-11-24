@@ -34,12 +34,14 @@ These spineless cowards [praised](https://www.telegraphindia.com/india/aap-hails
 
 Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
 
-Fuck them.
+There is nothing we can expect from either the cowardly & opportunistic opposition (or) the so-called courts of this country.
+Injustice is the exception in our country, its the rule.
 
-None of the parties (or) the courts have any thought leaders.
-They are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
-They are collaborators in the sinister majoritarian Hindutva anti-secular game played by the thugs of BJP, while looking the other way.
-These parties ask people to vote for them in the name of Secularism by pointing at the Goon (BJP) saying he is really Bad, instead of protesting on street & forcing the fascists to backdown.
+Both of them are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
+They are passive collaborators in the sinister majoritarian Hindutva anti-secular game played by the thugs of BJP.
+Anytime a serious issue of principle is involved, they immediately run into hiding.
+This is what enabled the thugs of BJP to abuse the system this openly & brazenly.
+These parties ask people to vote for them in the name of Secularism by scaring everyone that the Goon (BJP) is really bad, instead of protesting on street & forcing the fascists to backdown.
 We have seen this Good Cop, Bad Cop nonsense for long enough.
 
 Gandhi taught us how to fight foreign invaders thru non violence & non cooperation.
@@ -103,7 +105,7 @@ No good reason is provided to prove that India is overwhelmed with illegal immig
 I am from a village background & my village is not in a remote place in India.
 Even then, I never had any documentation other than my 10th and 12th certificate as evidence of my existence even when I went to pursue my masters degree (I am an Engineer mind you).
 
-Somehow now have to assume that the Poor & Illiterate somehow have documentary evidence dating as far back as 1980s, ~40years back to prove they were here before that?
+Now we somehow have to pretend all Poor & Illiterate have documentary evidence dating as far back as 1980s, i.e ~40years back to prove they were here before that?
 Why? For what? Because a Hindu fascists want to use this as a wedge to further their bigotry & cruelty?
 
 Most rich people have documentation from quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
