@@ -30,7 +30,7 @@ Indian Courts are fully compromised & these unaccountable black gowns of Supreme
 Congress, AAP & most of Indian opposition parties lost their balls long back & have no fighting spirit in them.
 They are in no mood to fight for their own turf, let alone fighting for you, me & our Muslims brothers and sisters.
 None of them have thought leaders.
-They are collaborators in the sinister majoritarian Hindutva anti-secular game played by the Thugs of BJP by looking the other way & using people in the name of secularism rather than protesting on street & forcing the fascists to back down.
+They are collaborators in the sinister majoritarian Hindutva anti-secular game played by the Thugs of BJP by looking the other way & asking people to vote for them in the name of secularism by telling the goon is Bad, instead of protesting on street & forcing the fascists to back down.
 
 Gandhi taught us how to fight foreign invaders thru non violence & non cooperation.
 Its not that hard to fight these domestic fascist bullies who are children of Godse. 
