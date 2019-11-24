@@ -39,7 +39,7 @@ The more you let a bully win, the more pain he inflicts on us all.
 Our compliance & silence emboldens the bully even more.
 Lets disabuse ourselves for once by telling the bully he can only bully us when we are divided, not when we are united.
 
-Prime Goon aka Conman aka Modi is a Coward.
+Prime Goon aka Conman aka Modi is a [Coward](https://thewire.in/media/narendra-modi-press-conference).
 He cant even take an [unscripted question](https://www.youtube.com/watch?v=NbOQa8p080A), cries like a baby when confronted by any real journalist & needs to [drink water](https://www.youtube.com/watch?v=G3PKuc9Nsb4) when anyone asks an unscripted question.
 Just like his Guru Savarkar aka [Traitor](https://thewire.in/history/bhagat-singh-and-savarkar-a-tale-of-two-petitions) aka Coward the Great, these bullies are the most coward bunch you can ever encounter.
 The more we sit silent, the more they do whatever the hell they want to do.
