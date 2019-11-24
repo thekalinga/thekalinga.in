@@ -170,4 +170,4 @@ Time for laughing at the jokes aimed at cowardly cruel criminal fascistic poison
 If we laugh at them even now, the joke is on us for letting Tughlaq implement this fascist NRC.
 Lets follow Gandhi's footsteps & hit the streets to protest these fascist cowards.
 
-If you have any suggestion, feel free to post it in the comment.
+If you have any suggestion/comment/criticism, feel free to post it in the comment.
