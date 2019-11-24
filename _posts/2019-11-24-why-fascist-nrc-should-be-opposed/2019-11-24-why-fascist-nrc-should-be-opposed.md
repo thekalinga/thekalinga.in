@@ -151,7 +151,7 @@ Illegal Kashmir annexation & the subsequent [unaccountable military terror](http
 
 When we are completely distracted with needless but life changing cruel acts, we will stop worrying about real important things & start worrying about these madeup crises.
 
-Lakhs of crores of our money in Banks is looted & Prime Goon has forgave all these crooks by [writing off](https://indianexpress.com/article/india/india-news-india/bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-1140000000000-bad-debts-the-great-govt-bank-write-off/) all these amount without any serious implications to those who screwed us.
+Lakhs of crores of our money in Banks is looted & Prime Goon forgave all these crooks by [writing off](https://indianexpress.com/article/india/india-news-india/bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-1140000000000-bad-debts-the-great-govt-bank-write-off/) all the amount without any serious implications to those who screwed us.
 The [unemployment is unprecedented](https://www.indiatoday.in/business/story/india-unemployment-rate-6-1-per-cent-45-year-high-nsso-report-1539580-2019-05-31).
 The [farmer's lives](https://www.indiatoday.in/india/story/maharashtra-farmer-suicide-1553467-2019-06-21) are miserable.
 
