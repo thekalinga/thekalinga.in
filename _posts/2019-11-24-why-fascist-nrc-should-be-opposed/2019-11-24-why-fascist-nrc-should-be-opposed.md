@@ -41,7 +41,7 @@ Lets disabuse ourselves for once by telling the bully he can only bully us when 
 
 Prime Goon aka Conman aka Modi is a [Coward](https://thewire.in/media/narendra-modi-press-conference).
 He cant even take an [unscripted question](https://www.youtube.com/watch?v=NbOQa8p080A), cries like a baby when confronted by any real journalist & needs to [drink water](https://www.youtube.com/watch?v=G3PKuc9Nsb4) when anyone asks an unscripted question.
-Just like his Guru Savarkar aka [Traitor](https://thewire.in/history/bhagat-singh-and-savarkar-a-tale-of-two-petitions) aka Coward the Great, these bullies are the most coward bunch you can ever encounter.
+Just like his Guru Savarkar aka [Traitor](https://thewire.in/history/bhagat-singh-and-savarkar-a-tale-of-two-petitions) aka Coward the Great, these bullies are the most cowardly bunch you can ever encounter.
 The more we sit silent, the more they do whatever the hell they want to do.
 
 This is my call to all of you to hit the streets and oppose these fascist snakes that spew venomous communal poison on day to day basis, which are born in that snake pit RSS.
