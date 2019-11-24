@@ -100,7 +100,7 @@ Now its a proven lie.
 
 Most of these people who are not yet in the register are yet to exhaust all their legal options.
 Many of these people are not yet in the system because our system is so flawed.
-Many of these people are Indians still because, very few people prior to 1980s have documentary evidence as we are not documentation based society historically.
+Many of these people are still Indians because very few people prior to 1980s have documentary evidence as we are not documentation based society historically, especially in villages.
 
 ## 3. Its a fascist wedge to humiliate Muslims, take over their property & make them stateless
 
