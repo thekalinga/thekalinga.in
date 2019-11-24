@@ -27,9 +27,10 @@ TLDR: I will boycott this fascist NRC & will not submit my documents for verific
 ## Background
 
 Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
+
 Congress, AAP & most of Indian opposition parties lost their balls long back & have no fighting spirit in them.
 They are in no mood to fight for their own turf, let alone fighting for you, me & our Muslims brothers and sisters (or) any just cause.
-None of them have thought leaders.
+None of them have any thought leaders.
 They are nothing more than power brokers who are interested in their power & none of the responsibilities that come with.
 They are collaborators in the sinister majoritarian Hindutva anti-secular game played by the thugs of BJP, while looking the other way.
 They ask people to vote for them in the name of Secularism by pointing at the Goon (BJP) is really Bad, instead of protesting on street & forcing the fascists to backdown.
