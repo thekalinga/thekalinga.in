@@ -41,12 +41,12 @@ Lets disabuse ourselves for once by telling the bully he can only bully us when 
 
 Prime Goon aka Conman aka Modi is a Coward.
 He cant even take an unscripted question, cries like a baby when confronted by any real journalist & needs to drink water when anyone asks an unscripted question.
-Just like his Guru Savrakar aka [Traitor](https://thewire.in/history/bhagat-singh-and-savarkar-a-tale-of-two-petitions) aka Coward the Great, these bullies are the most coward bunch you can ever encounter.
+Just like his Guru Savarkar aka [Traitor](https://thewire.in/history/bhagat-singh-and-savarkar-a-tale-of-two-petitions) aka Coward the Great, these bullies are the most coward bunch you can ever encounter.
 The more we sit silent, the more they do whatever the hell they want to do.
 
 This is my call to all of you to hit the streets and oppose these fascist snakes that spew venomous communal poison on day to day basis, which are born in that snake pit RSS.
 
-Here are the reasons why we all should oppose it everywhere. Online & offline. Most importantly offline, by hitting the streets.
+Here are the reasons why we all should oppose NRC everywhere. Both Online & offline. Most importantly offline, by hitting the streets.
 
 ## 1. Its plain unjust
 
@@ -76,7 +76,7 @@ These fascists lied about [crores of illegal immigrants](https://www.outlookindi
 
 Most of these people who are not yet in the register are yet to exhaust all their legal options.
 Many of these people are not yet in the system because our system is so flawed.
-Many of these people are Indians still because, very few prior to 1980s have documentary evidence as we are not documentation based society historically.
+Many of these people are Indians still because, very few people prior to 1980s have documentary evidence as we are not documentation based society historically.
 
 ## 3. Its a fascist wedge to humiliate Muslims, take over their property & make them stateless
 
