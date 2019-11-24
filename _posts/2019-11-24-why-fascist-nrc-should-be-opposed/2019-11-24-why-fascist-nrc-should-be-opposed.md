@@ -26,7 +26,7 @@ TLDR: I will boycott this fascist NRC & will not submit my documents for verific
 
 ## Background
 
-Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam.
+Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
 Congress, AAP & most of Indian opposition parties lost their balls long back & have no fighting spirit in them.
 They are in no mood to fight for their own turf, let alone fighting for you, me & our Muslims brothers and sisters.
 None of them have thought leaders.
