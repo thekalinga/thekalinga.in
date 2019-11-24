@@ -22,7 +22,7 @@ The whole exercise of National Register of Citizens (NRC) is a ploy to intimidat
 I'll explain everything I said here with sufficient documentory evidence in this article.
 I will also give you evidence based reasons as to why we should oppose this fascistic move tooth & nail.
 
-TLDR: I will boycott this fascist NRC & will not submit my documents for verification. You all should do the same & join street protests to oppose this. If enough of us boycott it, here is nothing they can do about it.
+TLDR: I will boycott this fascist NRC & will not submit my documents for verification. You all should do the same & join street protests to oppose this. If enough of us boycott it, there is nothing they can do about it.
 
 ## Background
 
