@@ -100,7 +100,7 @@ Somehow now have to assume that the Poor & Illiterate somehow have documentary e
 Why? For what? Because a Hindu fascists want to use this as a wedge to further their bigotry & cruelty?
 
 Most rich people have documentation from quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
-Most people in cities will have documentation when compared to villagers because villages operate on the principle of trust & does not require as much documentation.
+Most people in cities will have documentation when compared to villagers because villages operate on the principle of trust, does not require & dont use as much documentation.
 
 This whole exercise is a ploy to punish poor, illiterate, slum dwellers, villagers, landless peasants, vagabonds, merchants, beggars, people who ran away from house, abandoned kids & more.
 This exercise is to inflict needless misery on every one, especially the poorest amongst us.
