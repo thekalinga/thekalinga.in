@@ -135,7 +135,7 @@ Lakhs of crores of our money in Banks is looted & Prime Goon has forgave all the
 The [unemployment is unprecedented](https://www.indiatoday.in/business/story/india-unemployment-rate-6-1-per-cent-45-year-high-nsso-report-1539580-2019-05-31).
 The [farmer's lives](https://www.indiatoday.in/india/story/maharashtra-farmer-suicide-1553467-2019-06-21) are miserable.
 
-Now, [profit making companies like BPCL](https://www.thehindu.com/news/cities/mumbai/bpcl-employees-to-protest-privatisation/article29685122.ece) will be sold to his friends Ambani/Adani.
+Now, [profit making Govt. companies like BPCL](https://www.thehindu.com/news/cities/mumbai/bpcl-employees-to-protest-privatisation/article29685122.ece) will be sold to his friends Ambani/Adani.
 Why should profit making companies be sold?
 Do Ambani needs to build one more billion dollar house instead of us getting basic needs taken care of?
 When out schools are so bad, when our roads are awful, when people go bankrupt if they have any serious illness because of hospital costs, when Govt have no money to build new hospitals, whats the need to give our money to Ambani & make him even mroe richer by selling him BPCL?
