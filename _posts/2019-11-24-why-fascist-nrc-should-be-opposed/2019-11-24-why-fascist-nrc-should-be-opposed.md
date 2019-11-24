@@ -48,7 +48,7 @@ Indian Courts are fully compromised & these unaccountable black gowns of Supreme
 There is nothing we can expect from the cowardly & opportunistic opposition (or) the "so called" courts of this country.
 Injustice is *not* the exception in our country, its the rule.
 
-Both of them are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
+Both opposition & courts are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
 They are passive collaborators in the sinister majoritarian Hindutva anti-secular game played by the thugs of BJP.
 Anytime a serious issue of principle is involved, they immediately run into hiding.
 This is what enabled the thugs of BJP to abuse the system this openly & brazenly.
