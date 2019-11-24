@@ -155,20 +155,23 @@ Now the Goons sitting in Delhi wants to conduct one more round of NRC in Assam a
 What about all the money that was spent in Assam?
 Who cares?
 
-The goal of fascists is replaying the game until they win, no matter the consequences to rest of the society.
+> The goal of fascists is forcing a game replay until they win, no matter the consequences to rest of the society.
+
 Assam is a small state with a population of [~35 million people](https://indiapopulation2019.com/population-of-assam-2019.html) & they spent roughly 8000 crores in aggregate.
 How many crores will we need to spend on this cruel, unnecessary & immoral exercise across the whole country with a population of [~1353 Million](https://indiapopulation2019.com/)?
 
 3 lakh crores?
 
+What about lost productivity because everyone now have to perform a useless work of proving they are Indian citizens?
+
 For what?
-So that Modern Tughlaq and this fascist regime can use us as pawn in their fascistic political calculations?
+So that Modern Tughlaq and his fascist regime can use us as pawn in their fascistic political games?
 
 Can we even begin to put a number on the misery of everyone who has to suffer thru this?
 
 ## Conclusion
 
-Time for laughing at the jokes aimed at cowardly cruel criminal fascistic poisonous fools is over.
+Time for laughing at the jokes aimed at cowardly, cruel, criminal, fascistic, poisonous fools is over.
 If we laugh at them even now, the joke is on us for letting Tughlaq implement this fascist NRC.
 Lets follow Gandhi's footsteps & hit the streets to protest these fascist cowards.
 
