@@ -85,7 +85,7 @@ This is a unreasonable & cruel standard & [Supreme Court of India was the enable
 
 >If a rape happens in a city, you dont ask all male members to come and prove they are not the rapists, rather Govt has the burden to go, find and ultimately prove who the actual guilty party is—with evidence—in the court of law.
 
-Only in fascist unjust societies (kafkaesque) do everyone needs to prove that they not guilty of the crimes they did not commit
+Only in fascist kafkaesque unjust societies do everyone needs to prove that they not guilty of the crimes they did not commit
 
 ## 2. Its based on a proven lie
 
