@@ -30,7 +30,7 @@ TLDR: I will boycott this fascist NRC & will not submit my documents for verific
 
 Congress, AAP & most of Indian opposition parties lost their balls long back & have no fighting spirit in them.
 They are in no mood to fight for their own turf, let alone fighting for you, me & our Muslims brothers and sisters (or) any just cause for that matter.
-These spineless cowards praised the illegal annexation of Kashmir in an unconstitutional coup by Goons sitting in Delhi by sending military terror hoping terror can replace Agency of millions of people.
+These spineless cowards [praised](https://www.telegraphindia.com/india/aap-hails-scrapping-of-article-370-supports-bill-on-bifurcation-of-j-k/cid/1695887) the illegal annexation of Kashmir in an unconstitutional coup by Goons sitting in Delhi by sending military terror hoping terror can replace Agency of millions of people.
 
 Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
 
