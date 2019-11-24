@@ -34,7 +34,7 @@ These spineless cowards [praised](https://www.telegraphindia.com/india/aap-hails
 
 Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
 
-There is nothing we can expect from either the cowardly & opportunistic opposition (or) the so-called courts of this country.
+There is nothing we can expect from the cowardly & opportunistic opposition (or) the "so called" courts of this country.
 Injustice is *not* the exception in our country, its the rule.
 
 Both of them are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
