@@ -37,7 +37,7 @@ Indian Courts are fully compromised & these unaccountable black gowns of Supreme
 Fuck them.
 
 None of the parties (or) the courts have any thought leaders.
-They are nothing more than power brokers who are interested in their power & none of the responsibilities that come with.
+They are nothing more than power brokers who are interested in their power & none of the responsibilities that come with it.
 They are collaborators in the sinister majoritarian Hindutva anti-secular game played by the thugs of BJP, while looking the other way.
 These parties ask people to vote for them in the name of Secularism by pointing at the Goon (BJP) saying he is really Bad, instead of protesting on street & forcing the fascists to backdown.
 We have seen this Good Cop, Bad Cop nonsense for long enough.
