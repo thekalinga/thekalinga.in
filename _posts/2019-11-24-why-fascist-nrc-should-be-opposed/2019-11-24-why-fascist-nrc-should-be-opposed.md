@@ -193,7 +193,7 @@ Can we even begin to put a number on the misery of everyone who has to suffer th
 
 ## Conclusion
 
-Time for laughing at the jokes aimed at cowardly, cruel, criminal, fascistic, poisonous fools is over.
+Time for laughing at the jokes aimed at cowardly, cruel, criminal, fascistic & poisonous fools is over.
 If we laugh at them even now, the joke is on us for letting Neo Tughlaq implement this fascist NRC.
 Lets follow Gandhi's footsteps & hit the streets to protest these fascist cowards.
 
