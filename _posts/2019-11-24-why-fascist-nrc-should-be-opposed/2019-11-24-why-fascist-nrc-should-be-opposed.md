@@ -147,7 +147,7 @@ Why should our citizens pay the ultimate price because of the fantasises of Mode
 
 Shock & Awe is the tactic of fascists.
 They unleash unimaginable pain on people (Shock) & while we are surprised (Awe) & struggle to recover from that shock, they unleash another cruel shock.
-Kashmir is imposed on every one & while people struggle to get justice on that front, they are pushing one more cruel thing onto us.
+Illegal Kashmir annexation & the subsequent [unaccountable military terror](https://www.spiegel.de/international/world/deathly-silence-an-inside-look-at-kashmir-a-1296450-amp.html) (Shock) & while people are shocked (Awe) and struggle to get justice on that front, these goons are planning to push one more cruel thing onto us rest of the country.
 
 When we are completely distracted with needless but life changing cruel distractions, we will stop worrying about real important things & start worrying about these madeup crises.
 
