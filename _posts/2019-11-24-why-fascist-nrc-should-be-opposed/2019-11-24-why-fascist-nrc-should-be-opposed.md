@@ -73,7 +73,7 @@ Here are the reasons why we all should oppose NRC everywhere. Both online & offl
 
 ## 1. Its plain unjust
 
-Jurisprudence is found on the basic principle that the person is [innocent until proven guilty](https://en.wikipedia.org/wiki/Presumption_of_innocence).
+Jurisprudence is found on the basic principle that everyone is [innocent until proven guilty](https://en.wikipedia.org/wiki/Presumption_of_innocence).
 In case of NRC, everyone is guilty until proven innocent.
 This is the reversal of the role of burden of proof.
 Instead of Govt proving someone is guilty, we all have to prove we are all innocent of the crimes we did not commit.
