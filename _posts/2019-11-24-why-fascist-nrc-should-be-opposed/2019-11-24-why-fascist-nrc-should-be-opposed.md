@@ -162,7 +162,7 @@ How many crores will we need to spend on this cruel, unnecessary & immoral exerc
 For what?
 So that the Tughlaq and this fascist regime can use us as pawn in their fascist political calculations?
 
-Can we even begin to put the cost of misery to everyone who has to go thru this?
+Can we even begin to put a number on the misery of everyone who has to suffer thru this?
 
 ## Conclusion
 
