@@ -132,8 +132,8 @@ Kashmir is imposed on every one & while people struggle to get justice on that f
 When we are completely distracted with needless but life changing cruel distractions, we will stop worrying about real important things & start worrying about these madeup crises.
 
 Lakhs of crores of our money in Banks is looted & Prime Goon has forgave all these crooks by [writing off](https://indianexpress.com/article/india/india-news-india/bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-1140000000000-bad-debts-the-great-govt-bank-write-off/) all these amount without any serious implications to those who screwed us.
-The unemployment is unprecedented.
-The farmer's lives are miserable.
+The [unemployment is unprecedented](https://www.indiatoday.in/business/story/india-unemployment-rate-6-1-per-cent-45-year-high-nsso-report-1539580-2019-05-31).
+The [farmer's lives](https://www.indiatoday.in/india/story/maharashtra-farmer-suicide-1553467-2019-06-21) are miserable.
 
 Now, [profit making companies like BPCL](https://www.thehindu.com/news/cities/mumbai/bpcl-employees-to-protest-privatisation/article29685122.ece) will be sold to his friends Ambani/Adani.
 Why should profit making companies be sold?
