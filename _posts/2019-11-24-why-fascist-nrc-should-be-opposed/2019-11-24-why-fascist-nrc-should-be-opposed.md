@@ -177,7 +177,7 @@ Now the Goons sitting in Delhi wants to conduct one more round of NRC in Assam a
 What about all the money that was spent in Assam?
 Who cares?
 
-> The goal of fascists is forcing a game replay until they win, no matter the consequences to rest of the society.
+> The goal of fascists is forcing a game rematches until they win, no matter the consequences to rest of the society.
 
 Assam is a small state with a population of [~35 million people](https://indiapopulation2019.com/population-of-assam-2019.html) & they spent roughly 8000 crores in aggregate.
 How many crores will we need to be spent on this cruel, unnecessary & immoral exercise across the whole country with a population of [~1353 million](https://indiapopulation2019.com/)?
