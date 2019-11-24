@@ -15,7 +15,7 @@ github_comments_issueid: 7
 
 ![{{page.title}}](indian-farmer.jpeg){:.featured-image.img-fluid.margin-auto}
 
-Indian Govt led by fascist BJP is planning to conduct a country wide hunt for "alleged" illegal immigrants with the unspecified intent of punishing the poor, illiterate & most importantly [Muslims](https://www.news18.com/news/politics/bjp-vows-to-strip-muslim-immigrants-of-vote-in-assam-1214700.html).
+Indian Govt led by fascist BJP is planning to conduct a country wide hunt for ["alleged"](https://theprint.in/opinion/with-assam-nrc-the-truth-is-also-out-it-was-a-pointless-exercise-all-along/284929/) illegal immigrants with the unspecified intent of punishing the poor, illiterate & most importantly [Muslims](https://www.news18.com/news/politics/bjp-vows-to-strip-muslim-immigrants-of-vote-in-assam-1214700.html).
 The primary goal is show people that they being in Govt can do whatever the hell they want to do to push the country towards anti-secular Goonish Hindu state & we all can do nothing about it.
 The whole exercise of National Register of Citizens (NRC) is a ploy to intimidate, discriminate, punish, steal the property of Muslims & the ultimate humiliation of making them stateless.
 
