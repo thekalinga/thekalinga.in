@@ -123,7 +123,7 @@ Many committed [suicide in Assam](https://www.ndtv.com/india-news/man-declared-f
 
 Why should our citizens pay the ultimate price because of the fantasises of Modern Tughlaq who is holding PM seat?
 
-## 6. Ploy to distract from every other important issues
+## 6. Ploy to distract from every other important issue
 
 Shock & Awe is the tactic of fascists.
 They unleash unimaginable pain on people (Shock) & while we are struggling to recover from that shock (Awe), they unleash another shock.
