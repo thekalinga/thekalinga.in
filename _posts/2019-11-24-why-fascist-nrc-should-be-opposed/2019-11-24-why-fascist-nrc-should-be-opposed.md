@@ -167,7 +167,7 @@ Thats the real plan.
 
 ## 7. Cost of implementation
 
-Assam is a smaller state & there in order to conduct this moronic exercise of NRC, more than [~8000 crores was spent](https://nagalandtoday.in/editorial/2019/11/people-left-out-of-nrc-in-assam-spent-rs-7836-crore-for-hearings-rights-body-survey/), 65000 people workers were utilized & the whole state of Assam were forced to travel, collect documentation & forced to go thru miserable avoidable suffering.
+Assam is a smaller state & there in order to conduct this moronic exercise of NRC, more than [~8000 crores (~1100 crores Govt + Rest spent by people) was spent](https://nagalandtoday.in/editorial/2019/11/people-left-out-of-nrc-in-assam-spent-rs-7836-crore-for-hearings-rights-body-survey/), 65000 people workers were utilized & the whole state of Assam were forced to travel, collect documentation & forced to go thru miserable avoidable suffering.
 What about the lost productivity of all those who have to travel, wait in lines to prove they are not illegals?
 Many of the people were deployed to verify these documents are teachers, yes, [teachers were asked to verify documents](https://twitter.com/RuhulAlam72/status/1197808864583802880) instead of teaching kids.
 
@@ -180,7 +180,7 @@ Who cares?
 Assam is a small state with a population of [~35 million people](https://indiapopulation2019.com/population-of-assam-2019.html) & they spent roughly 8000 crores in aggregate.
 How many crores will we need to spend on this cruel, unnecessary & immoral exercise across the whole country with a population of [~1353 Million](https://indiapopulation2019.com/)?
 
-3 lakh crores?
+(1353÷35) × 8000 crores = ~3 lakh crores?
 
 What about lost productivity because everyone now have to perform a useless work of proving they are Indian citizens?
 
