@@ -178,7 +178,7 @@ Who cares?
 > The goal of fascists is forcing a game replay until they win, no matter the consequences to rest of the society.
 
 Assam is a small state with a population of [~35 million people](https://indiapopulation2019.com/population-of-assam-2019.html) & they spent roughly 8000 crores in aggregate.
-How many crores will we need to spend on this cruel, unnecessary & immoral exercise across the whole country with a population of [~1353 Million](https://indiapopulation2019.com/)?
+How many crores will we need to be spent on this cruel, unnecessary & immoral exercise across the whole country with a population of [~1353 Million](https://indiapopulation2019.com/)?
 
 (1353÷35) × 8000 crores = ~3 lakh crores?
 
