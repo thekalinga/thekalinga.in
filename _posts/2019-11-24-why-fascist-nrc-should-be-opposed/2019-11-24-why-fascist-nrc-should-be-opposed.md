@@ -129,7 +129,7 @@ Shock & Awe is the tactic of fascists.
 They unleash unimaginable pain on people (Shock) & while we are struggling to recover from that shock (Awe), they unleash another shock.
 Kashmir is imposed on every one & while people struggle to get justice on that front, they are pushing one more cruel thing onto us.
 
-When we are completely distracted with needless but life changing distractions, we will stop worrying about real important things & start worrying about these madeup crises.
+When we are completely distracted with needless but life changing cruel distractions, we will stop worrying about real important things & start worrying about these madeup crises.
 
 Lakhs of crores of our money in Banks is looted & Prime Goon has forgave all these crooks by [writing off](https://indianexpress.com/article/india/india-news-india/bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-bad-loan-financial-year-rti-rbi-bank-loan-raghuram-rajan-1140000000000-bad-debts-the-great-govt-bank-write-off/) all these amount without any serious implications to those who screwed us.
 The unemployment is unprecedented.
