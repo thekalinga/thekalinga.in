@@ -25,7 +25,7 @@ I'll explain everything I said here with sufficient documentory evidence in this
 I will also give you evidence based reasons as to why we should oppose this fascistic move tooth & nail.
 
 **TLDR:**
-I will boycott this fascist NRC & will not submit my documents for verification. You all should do the same & join street protests to oppose this. If enough of us boycott it, there is nothing they can do about it.
+I will boycott this fascist NRC & will not submit my documents for verification. I have no reason to prove to these Goons that I am an Indian. You all should do the same & join street protests to oppose this. If enough of us boycott it, there is nothing they can do about it.
 
 Here are the list of reasons (each point explained later in detail)
 
