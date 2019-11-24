@@ -69,7 +69,7 @@ The more we sit silent, the more they do whatever the hell they want to do.
 
 This is my call to all of you to hit the streets and oppose these fascist snakes that spew venomous communal poison on day to day basis, which are born in that snake pit RSS.
 
-Here are the reasons why we all should oppose NRC everywhere. Both Online & offline. Most importantly offline, by hitting the streets.
+Here are the reasons why we all should oppose NRC everywhere. Both online & offline. Most importantly offline, by hitting the streets.
 
 ## 1. Its plain unjust
 
