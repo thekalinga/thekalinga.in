@@ -1,69 +1,55 @@
 jQuery(document).ready(function($){
+    var offset = 1250;
+    var duration = 200;
 
-    var offset = 1250; 
-    var duration = 800; 
-    jQuery(window).scroll(function() { 
-        if (jQuery(this).scrollTop() > offset) { 
-        jQuery('.back-to-top').fadeIn(duration); 
-        } else { 
-        jQuery('.back-to-top').fadeOut(duration); 
-        }
-    });
-    jQuery('.back-to-top').click(function(event) { 
-    event.preventDefault(); 
-    jQuery('html, body').animate({scrollTop: 0}, duration); 
-    return false; 
-    })
+    if ($(document).width() <= 999) {
+      $('.alertbar').slideDown(duration); // lets keep it visible if its < 999 px as it will be at the bottom of the screen as per css
+    }
 
-
-    // alertbar later
-    $(document).scroll(function () {
-        var y = $(this).scrollTop();
-        if (y > 280) {
-            $('.alertbar').fadeIn();
-        } else {
-            $('.alertbar').fadeOut();
-        }
+    $(window).on('resize', function() {
+      if ($(document).width() <= 999) {
+        $('.alertbar').slideDown(duration); // lets keep it visible if its < 999 px as it will be at the bottom of the screen as per css
+      } else {
+        $('.alertbar').slideUp(duration);
+      }
     });
 
-
-        // Smooth scroll to an anchor
-        $('a.smoothscroll[href*="#"]')
-          // Remove links that don't actually link to anything
-          .not('[href="#"]')
-          .not('[href="#0"]')
-          .click(function(event) {
-            // On-page links
-            if (
-              location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-              &&
-              location.hostname == this.hostname
-            ) {
-              // Figure out element to scroll to
-              var target = $(this.hash);
-              target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-              // Does a scroll target exist?
-              if (target.length) {
-                // Only prevent default if animation is actually gonna happen
-                event.preventDefault();
-                $('html, body').animate({
-                  scrollTop: target.offset().top
-                }, 1000, function() {
-                  // Callback after animation
-                  // Must change focus!
-                  var $target = $(target);
-                  $target.focus();
-                  if ($target.is(":focus")) { // Checking if the target was focused
-                    return false;
-                  } else {
-                    $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-                    $target.focus(); // Set focus again
-                  };
-                });
-              }
-            }
-          });
-    
+    // Smooth scroll to an anchor
+    $('a.smoothscroll[href*="#"]')
+      // Remove links that don't actually link to anything
+      .not('[href="#"]')
+      .not('[href="#0"]')
+      .click(function(event) {
+        // On-page links
+        if (
+          location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+          &&
+          location.hostname == this.hostname
+        ) {
+          // Figure out element to scroll to
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+          // Does a scroll target exist?
+          if (target.length) {
+            // Only prevent default if animation is actually gonna happen
+            event.preventDefault();
+            $('html, body').animate({
+              scrollTop: target.offset().top
+            }, 1000, function() {
+              // Callback after animation
+              // Must change focus!
+              var $target = $(target);
+              $target.focus();
+              if ($target.is(":focus")) { // Checking if the target was focused
+                return false;
+              } else {
+                $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+                $target.focus(); // Set focus again
+              };
+            });
+          }
+        }
+      });
     
     // Hide Header on on scroll down
     var didScroll = true; // since using html fragments of categories & tags pages are not triggering `scroll()` even though page is shown in scrolled condition, lets just force an explcit check on load
@@ -85,32 +71,37 @@ jQuery(document).ready(function($){
     function hasScrolled() {
         var st = $(this).scrollTop();
         var brandrow = $('.brandrow').css("height");
-        
+        var canSubscribeBarVisiblityChange = $(document).width() > 999;
+
         // Make sure they scroll more than delta
         if(Math.abs(lastScrollTop - st) <= delta)
             return;
 
         // If they scrolled down and are past the navbar, add class .nav-up.
         // This is necessary so you never see what is "behind" the navbar.
-        if (st > lastScrollTop && st > navbarHeight){
-            // Scroll Down            
-            $('nav').removeClass('nav-down').addClass('nav-up'); 
-            $('.nav-up').css('top', - $('nav').outerHeight() + 'px');
-           
+        if (st > lastScrollTop) {
+            // Scroll Down
+            if (canSubscribeBarVisiblityChange) {
+              $('.alertbar').slideUp(duration);
+            }
+            // hide navbar only if scrolling is past navbar height
+            if (st > navbarHeight) {
+              $('nav').removeClass('nav-down').addClass('nav-up');
+              $('.nav-up').css('top', - $('nav').outerHeight() + 'px');
+            }
         } else {
             // Scroll Up
-            if(st + $(window).height() < $(document).height()) {               
+            if (canSubscribeBarVisiblityChange) {
+                $('.alertbar').slideDown(duration);
+            }
+            if(st + $(window).height() < $(document).height()) {
                 $('nav').removeClass('nav-up').addClass('nav-down');
-                $('.nav-up, .nav-down').css('top', '0px');             
+                $('.nav-up, .nav-down').css('top', '0px');
             }
         }
 
         lastScrollTop = st;
     }
-    
-    
+
     $('.site-content').css('margin-top', $('header').outerHeight() + 'px');
-
-
-
 });
