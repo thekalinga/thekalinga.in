@@ -100,6 +100,7 @@ One way to achieve this is by using a simple `merge`
 final int bufferSize;
 final int maxFlushInternal;
 DateTime lastReceived;
+
 Flux<T> upstream = ...;
 T ping // initialize dummy T that represents ping
 upstream
