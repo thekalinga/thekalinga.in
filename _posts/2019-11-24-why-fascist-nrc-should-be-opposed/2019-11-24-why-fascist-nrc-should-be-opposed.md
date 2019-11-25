@@ -136,7 +136,7 @@ Neo Tughlaq even went so far as to [suppress this data](https://www.thehindu.com
 We are currently on our way to [economic depression](https://www.cgdev.org/blog/if-india-stopped-growing-would-imf-and-world-bank-say-so).
 This Tughlaq have no right to impose one more Tughlaqi decision & unleash this level of cruelty on us all once again.
 
-> Demonetization 1.0 destroyed financial fabric of this country, Demonetization 2.0 (NRC) will destroy the social fabric of this country & impose state terror into everyone's heart.
+> Demonetization 1.0 destroyed economic fabric of this country, Demonetization 2.0 (NRC) will destroy the social fabric of this country & impose state terror into everyone's heart.
 
 These Goons are doing everything they can to destroy the social fabric by inciting communal violence in UP, Rajastan & everywhere they rule.
 
