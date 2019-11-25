@@ -41,7 +41,8 @@ Here are the list of reasons (each point explained later in detail)
 
 Congress, AAP & most of Indian opposition parties have self castrated themselves long back & have no fighting spirit in them.
 They are in no mood to fight for their own turf, let alone fighting for you (or) for me (or) for our Muslims brothers and sisters (or) any just cause for that matter.
-These spineless cowards [praised](https://www.telegraphindia.com/india/aap-hails-scrapping-of-article-370-supports-bill-on-bifurcation-of-j-k/cid/1695887) the illegal annexation of Kashmir in an unconstitutional coup while Goons sitting in Delhi sent military terror under the lie of [major terrorist threat](https://thewire.in/politics/bjp-kashmir-terrorist-threat-lie-article-370) hoping thru brute terror, they can supress the aspirations of millions of Kashmiris.
+These spineless cowards even [praised](https://www.telegraphindia.com/india/aap-hails-scrapping-of-article-370-supports-bill-on-bifurcation-of-j-k/cid/1695887) the illegal annexation of Kashmir in an unconstitutional manner by Goons sitting in Delhi.
+They supported it despite knowing it to be unconstitutional, immoral & illegal while also knowing the whole annexation happened under the pretence of a [lie](https://thewire.in/politics/bjp-kashmir-terrorist-threat-lie-article-370) thru [military terror](https://www.bbc.com/news/world-asia-india-49481180) in the hopes that thru brute terror these goons can suppress the legitimate aspirations of millions of Kashmiris.
 
 Indian Courts are fully compromised & these unaccountable black gowns of Supreme Court are the ones who imposed this cruel NRC on Assam & sat idle for more than 100 days while the [fundamental rights of Kashmiries are violated](https://www.livelaw.in/top-stories/kashmir-internet-shutdown-for-over-100-days-a-violation-of-right-to-life-submits-dushyant-dave-149949) thru military terror.
 
