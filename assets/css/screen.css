@@ -339,7 +339,7 @@ h1.sitetitle {
 .article-post {
     font-family: "Crimson Pro";
     font-size: 1.8rem;
-    font-weight: lighter;
+    font-weight: 300;
     line-height: 38px;
     color: rgba(0, 0, 0, .8);
 }
