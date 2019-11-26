@@ -151,7 +151,7 @@ Why should we as citizens pay the ultimate price for the fascistic fantasises of
 
 Shock & Awe is the tactic of fascists.
 They unleash unimaginable pain on people (Shock) & while we are surprised (Awe) & struggle to recover from that shock, they unleash another cruel shock.
-Illegal Kashmir annexation & the subsequent [unaccountable military terror](https://www.spiegel.de/international/world/deathly-silence-an-inside-look-at-kashmir-a-1296450-amp.html) (Shock) & while people are shocked (Awe) and struggle to get justice on that front, these goons are planning to push one more cruel thing onto us rest of the country.
+Illegal Kashmir annexation & the subsequent [unaccountable military terror](https://www.spiegel.de/international/world/deathly-silence-an-inside-look-at-kashmir-a-1296450-amp.html) (Shock) & while people are shocked (Awe) and struggle to get justice on that front, these goons are planning to push one more cruel thing onto rest of the country.
 
 When we are completely distracted with needless but life changing cruel acts, we will stop worrying about real important things & start worrying about these madeup crises.
 
