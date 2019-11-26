@@ -186,7 +186,7 @@ How many crores will we need to spend on this cruel, unnecessary & immoral exerc
 
 (1353÷35) × 8000 crores = ~3 lakh crores?
 
-What about lost productivity because everyone now have to perform a useless work of proving they are Indian citizens?
+What about lost productivity because everyone now have to perform a useless task of proving they are Indian citizens?
 
 For what?
 So that Modern Tughlaq and his fascist regime can use us as pawn in their fascistic political games?
