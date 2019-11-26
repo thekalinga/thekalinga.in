@@ -176,10 +176,10 @@ What about the lost productivity of all those who have to travel, wait in lines 
 Many of the people who were deployed to verify these documents are teachers, yes, [teachers were asked to verify documents](https://twitter.com/RuhulAlam72/status/1197808864583802880) instead of teaching kids.
 
 Now the Goons sitting in Delhi wants to conduct one more round of NRC in Assam along with rest of India.
-What about all the money that was spent in Assam?
+What about all that 8000 crores that Govt + people just spent in Assam?
 Who cares?
 
-> The goal of fascists is forcing a game rematches until they win, no matter the consequences to rest of the society.
+> When they lose a game, the goal of fascists is forcing a rematch until they win, no matter the consequences to rest of the society.
 
 Assam is a small state with a population of [~35 million people](https://indiapopulation2019.com/population-of-assam-2019.html) & they spent roughly 8000 crores in aggregate.
 How many crores will we need to spend on this cruel, unnecessary & immoral exercise across a country with a population of [~1353 million](https://indiapopulation2019.com/)?
