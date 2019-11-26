@@ -28,6 +28,33 @@ a:hover {
     text-decoration: none;
 }
 
+.article-post a {
+    color: rgba(0, 0, 0, .8);
+    -webkit-box-shadow: #00ab6b 0px -2px 0px inset;
+    -moz-box-shadow: #00ab6b 0px -2px 0px inset;
+    box-shadow: #00ab6b 0px -2px 0px inset;
+    transition: all 0.2s;
+    text-decoration: none;
+}
+
+.article-post a:hover, .article-post a:focus {
+    color: #00ab6b;
+}
+
+.article-post a:active {
+    color: #00643f;
+}
+
+.article-post a:visited {
+    color: #0056b3;
+    /* not working for whatever reason*/
+    /*
+    -webkit-box-shadow: #0056b3 0px -2px 0px inset;
+    -moz-box-shadow: #0056b3 0px -2px 0px inset;
+    box-shadow: #0056b3 0px -2px 0px inset;
+    */
+}
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
