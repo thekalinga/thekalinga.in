@@ -110,7 +110,7 @@ Soon after becoming Chancellor, Hitler passed [citizen laws](https://encyclopedi
 All those who could not prove they are with 100% documentary evidence & 100% blood lines were declared illegals.
 They were subjected to violence, humiliation, sent to concentration camps, made stateless, their properties taken over by the fascist Germans & millions of jews finally paid the ultimate price with life.
 
-The poisonous snakes of RSS who spout the most venomous communal poison on day to basis are founded by those who consider [Hitler to be a great man](https://www.thehindubusinessline.com/news/national/golwalkar-drew-lessons-from-hitlers-germany/article7924161.ece) & [Nazism to be a great philosophy](https://thewire.in/world/german-ambassador-walter-lindner-rss-headquarters).
+The poisonous snakes of RSS who spout the most venomous communal poison on day to day basis are founded by those who consider [Hitler to be a great man](https://www.thehindubusinessline.com/news/national/golwalkar-drew-lessons-from-hitlers-germany/article7924161.ece) & [Nazism to be a great philosophy](https://thewire.in/world/german-ambassador-walter-lindner-rss-headquarters).
 These goons now want to do the same with Muslims & other minorities.
 We should never sit idle & tolerate while these fascists impose this level of cruelty on our fellow citizens.
 
