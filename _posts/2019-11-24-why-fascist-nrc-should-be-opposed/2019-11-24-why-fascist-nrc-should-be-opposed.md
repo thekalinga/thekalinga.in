@@ -44,7 +44,7 @@ Here are the list of reasons (each point explained later in detail)
 ## Background
 
 Congress, AAP & most of Indian opposition parties have self castrated themselves long back & have no fighting spirit in them.
-They are in no mood to fight for their own turf, let alone fighting for you (or) for me (or) for our Muslims brothers and sisters (or) any just cause for that matter.
+They are in no mood to fight for their own turf, let alone fighting for you (or) for me (or) for our Muslim brothers and sisters (or) any just cause for that matter.
 These spineless cowards even [praised](https://www.telegraphindia.com/india/aap-hails-scrapping-of-article-370-supports-bill-on-bifurcation-of-j-k/cid/1695887) the illegal annexation of Kashmir in an unconstitutional manner by Goons sitting in Delhi.
 They supported it despite knowing it to be unconstitutional, immoral & illegal while also knowing the whole annexation happened under the pretence of a [lie](https://thewire.in/politics/bjp-kashmir-terrorist-threat-lie-article-370), thru [military terror](https://www.bbc.com/news/world-asia-india-49481180), in the hopes that thru brute terror legitimate aspirations of millions of Kashmiris can be suppressed.
 
