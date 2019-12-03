@@ -35,3 +35,4 @@ I am a contributor to open source community too. Here are some of my contributio
 - [Angular Material 2, Flex layout 1, Teradata Covalent 1 & Material icon live templates](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material){:target="\_blank"} Visual Studio Code plugin
 - [Bootstrap 4 & Font awesome](https://plugins.jetbrains.com/plugin/9341-bootstrap-4--font-awesome){:target="\_blank"} IntelliJ plugin
 - [Angular Material 2, Flex layout 1, Teradata Covalent 1 & Material icon live templates](https://plugins.jetbrains.com/plugin/9490-angular-material-2-flex-layout-1-teradata-covalent-1--material-icon-live-templates){:target="\_blank"} IntelliJ plugin
+- [Lexico word definition lookup](https://chrome.google.com/webstore/detail/lexico-word-definition-lo/afhfgocoemlagldkalfgobmbkhljkemo) Chrome extension
