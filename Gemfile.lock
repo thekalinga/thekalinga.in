@@ -9,8 +9,10 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-java)
     eventmachine (1.2.7-x64-mingw32)
+    ffi (1.9.25)
     ffi (1.9.25-java)
     ffi (1.9.25-x64-mingw32)
     forwardable-extended (2.6.0)
@@ -68,6 +70,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -78,7 +81,7 @@ DEPENDENCIES
   jekyll-sitemap
 
 RUBY VERSION
-   ruby 2.3.0p0 (jruby 9.1.1.0)
+   ruby 2.7.0p0
 
 BUNDLED WITH
-   1.16.5
+   2.1.4

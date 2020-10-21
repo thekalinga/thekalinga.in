@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler
 sudo: false
-rvm: 2.5
+rvm: 2.7
 
 install:
 - gem update --system

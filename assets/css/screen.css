@@ -37,6 +37,16 @@ a:hover {
     text-decoration: none;
 }
 
+/*
+Don't add underline to super scripts
+*/
+.article-post sup a {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  color: #00ab6b;
+}
+
 .article-post a:hover, .article-post a:focus {
     color: #00ab6b;
 }

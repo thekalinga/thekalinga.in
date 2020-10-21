@@ -193,9 +193,9 @@ How many crores will we need to spend on this cruel, unnecessary & immoral exerc
 What about lost productivity because everyone now have to perform a useless task of proving they are Indian citizens?
 
 For what?
-So that Modern Tughlaq and his fascist regime can use us as pawn in their fascistic political games?
+So that Modern Tughlaq and his fascist regime can use Indians as pawn to satisfy thier fascistic thirst?
 
-Can we even begin to put a number on the misery of everyone who has to suffer thru this?
+Can we even begin to put a number on the misery of everyone who has to suffer thru this needless but deliberate cruelty?
 
 ## Conclusion
 
