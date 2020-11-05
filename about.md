@@ -26,7 +26,7 @@ I have built production grade applications using
 - [TypeScript](https://www.typescriptlang.org) and
 - [Angular](https://angular.io)
 
-I am a contributor to open source community too. Here are some of my contributions.
+I am an open source contributor. Here are some of my contributions.
 
 #### Open source contributions
 

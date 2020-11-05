@@ -122,9 +122,9 @@ Its immoral to sit idle while these fascists impose this level of cruelty on our
 
 No good reason is provided to prove that India is overwhelmed with illegal immigrants & all evidence point in the opposite direction, i.e spite to punish Muslims.
 I am from a village background & my village is not in a remote place in India.
-Even then when I went to pursue my master of engineering degree (out of state), I never had any documentation—other than my education certificates—as evidence of my existence (not even voter id as I dint apply for one back then).
+Even then when I went to pursue my master of engineering degree (out of state, which I dropped out of), I never had any documentation—other than my education certificates—as evidence of my existence (not even voter id as I dint apply for one back then).
 
-If a person like me who atleast has some level of education had nothing much to show for other than my education certificates (& my parent's documentation assuming thier name is spelled correctly & there is no translation mismatch between thier names in my mother tongue & English) to prove my existence, because of this fascist NRC, we somehow have to pretend all poor & illiterate have documentary evidence dating as far back as 1980s, i.e ~40years back to prove they were here in India before that?
+If a person like me who atleast has some level of education had nothing much to show for other than my education certificates (& my parent's documentation assuming thier name is spelled correctly & there is no translation mismatch between thier names in my mother tongue & English in older documents) to prove my existence, because of this fascist NRC, we somehow have to pretend all poor & illiterate have documentary evidence dating as far back as 1980s, i.e ~40years back to prove they were here in India before that?
 For what? To satisfy a small group of Hindu fascists who lied & [murdered thier way](https://en.wikipedia.org/wiki/2002_Gujarat_riots) to the top political position in the country & want to use NRC as a wedge to further their bigotry & state sponsored cruelty?
 
 Most rich people will have documentation for quite a long time because they had land & so held decent amount of documentation, but what about all those vulnerable people who live in slums without much documentation?
@@ -138,7 +138,7 @@ This exercise will inflict needless misery on everyone, especially the poorest &
 The naked emperor's Tughlaq decision of [Demonetisation](https://www.economist.com/finance-and-economics/2016/12/03/the-dire-consequences-of-indias-demonetisation-initiative) has [destroyed the whole economy](https://www.economist.com/finance-and-economics/2017/01/07/the-high-economic-costs-of-indias-demonetisation).
 Neo Tughlaq even went so far as to [suppress this data](https://www.thehindu.com/opinion/op-ed/a-politically-inconvenient-data-nugget/article29214638.ece).
 We are currently on our way to [economic depression](https://www.cgdev.org/blog/if-india-stopped-growing-would-imf-and-world-bank-say-so).
-This Neo Tughlaq have no right to impose one more Tughlaqi decision & unleash this level of cruelty on us all once again—let alone on even larger scale & ones with severe consequences.
+This Neo Tughlaq has no right to impose one more Tughlaqi decision & unleash this level of cruelty on us all once again—let alone on larger scale & one that has severe consequences.
 
 > Demonetization 1.0 destroyed economic fabric of this country, Demonetization 2.0 (NRC) will destroy the social fabric of this country & instill state terror into everyone's heart.
 
@@ -164,12 +164,12 @@ The [unemployment is unprecedented](https://www.indiatoday.in/business/story/ind
 The [farmer's lives](https://www.indiatoday.in/india/story/maharashtra-farmer-suicide-1553467-2019-06-21) are miserable.
 
 Now, [profit making Govt. companies like BPCL](https://www.thehindu.com/news/cities/mumbai/bpcl-employees-to-protest-privatisation/article29685122.ece) will be sold to his friends Ambani/Adani.
-Why should profit making companies public companies be sold?
-Do Ambani needs to build one [more vulgar billion dollar house](https://www.deccanherald.com/content/108813/soaring-above-poverty-ambanis-27.html) that he earned by rigging rules & looting public—instead of public basic needs be taken care of?
+Why should profit making public companies be sold?
+Do Ambani needs to build one [more vulgar billion dollar house](https://www.deccanherald.com/content/108813/soaring-above-poverty-ambanis-27.html) that he earned by rigging rules in his favor & loot public—instead of public basic needs be taken care of?
 When our schools are so bad, when our roads are awful, when people go bankrupt if they have any serious illness because of hospital costs, when Govt have no money to build new hospitals, whats the need to give our money to Ambani/Adani & make these grifters even more richer by selling them BPCL?
 
 When we are distracted with this needless misery of NRC, the fascists who currently rule us can complete the transformation this country into a fascist shit hole.
-When we are distracted with deliberate cruelty like this, we stop paying less attention to the fact that we are being fucked from behind by the grifter friends of these fascists.
+When we are distracted with deliberate cruelty like this, we stop paying attention to the fact that we are being fucked from behind by these fascists & thier grifting friends.
 
 That's the real game plan.
 
@@ -199,7 +199,7 @@ Can we even begin to put a number on the misery of everyone who has to suffer th
 
 ## Conclusion
 
-Time for laughing at the jokes aimed at these cowardly, cruel, criminal, fascistic & poisonous fools of RSS & BJP is over.
+Time for laughing at jokes aimed at these cowardly, cruel, criminal, fascistic & poisonous fools of RSS & BJP is over.
 If we laugh at them even now, the joke is on us for letting Neo Tughlaq implement this fascist NRC.
 Lets ~~follow Gandhi's footsteps &~~[^gandhi-flaws] hit the streets to protest these fascist cowards.
 
@@ -207,6 +207,7 @@ If you have any suggestion/comment/criticism, feel free to post it in the commen
 
 NOTE: This article went thru multiple revisions as my own understanding improved over the course of time.
 
-[^prime-goon]: Read [Gujrat Files](https://www.goodreads.com/book/show/30244505-gujarat-files) on why the man who holds the position of Prime minister is a goon.
+[^prime-goon]: See [Who Killed Haren Pandya?](https://web.archive.org/web/20200831070604/https://sankarshanthakur.com/2012/12/02/who-killed-haren-pandya/) on why the man who holds the position of Prime minister is a goon. Also read [Gujrat Files](https://www.goodreads.com/book/show/30244505-gujarat-files).
 
-[^gandhi-flaws]: The more I learnt about Gandhi, the more I realised the flaws of this man, such as rewriting of his own history in South Africa during his life time, well calculated deception when it comes to supporting the rotten caste system, taking huge sums of money from his corporate friends who exploited workers & sabotaged worker unions from within, narcicissm to let his sycopants to refer to him as "Mahatma" (Great soul) while he was still alive. So, I dont think we need to follow flawed people. Rather its better to stick with the priciple of justice rather than idealising men, flawed or not.
+[^gandhi-flaws]: The more I learnt about Gandhi, the more I realised the flaws of this man, such as rewriting of his own history in South Africa during his life time, well calculated deception when it comes to supporting the rotten caste system, taking huge sums of money from his corporate friends who exploited workers & sabotaged worker unions from within, narcicissm to let his sycopants to refer to him as "Mahatma" (Great soul) while he was still alive. So, I dont think we need to follow flawed people. Rather its better to stick with the priciple of justice rather than idealising men, flawed or not. Read [Annihilation of Caste
+](https://www.goodreads.com/book/show/8521879-annihilation-of-caste) by [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) if you want to understand Gandhi & his duplicity.
