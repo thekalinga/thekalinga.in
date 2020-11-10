@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="426.70114"
+   width="512.04138"
+   data-name="Layer 1"
+   viewBox="0 0 109.23549 91.029577"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="corporation.svg"
+   style="fill:#000000"
+   inkscape:version="0.92.5 (0.92.5+68)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>corporation-bank-company-organization-enterprise</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview28"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="151.91696"
+     inkscape:cy="212.0914"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <title
+     id="title2">corporation-bank-company-organization-enterprise</title>
+  <path
+     d="M 38.232422,27.308874 A 16.385324,16.385324 0 1 0 54.617746,10.92355 16.385324,16.385324 0 0 0 38.232422,27.308874 Z m 15.841276,1.734368 c -1.83836,-0.573377 -4.917727,-1.532574 -4.917727,-5.375551 a 5.4527992,5.4527992 0 0 1 3.641184,-5.126294 v -2.156072 h 3.641182 v 2.156072 a 5.4527992,5.4527992 0 0 1 3.641184,5.126294 h -3.641184 a 1.8205915,1.8205915 0 0 0 -3.641182,0 c 0,1.01163 0.309354,1.260541 2.361088,1.899714 1.840144,0.57427 4.921278,1.53434 4.921278,5.382652 a 5.4527992,5.4527992 0 0 1 -3.641184,5.126295 v 2.156072 h -3.641182 v -2.156182 a 5.4526716,5.4526716 0 0 1 -3.641184,-5.126185 h 3.641184 a 1.8205915,1.8205915 0 0 0 3.641182,0 c 0,-1.016091 -0.309354,-1.265875 -2.364639,-1.906815 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1.82059145" />
+  <rect
+     x="52.797153"
+     y="-3.5527137e-15"
+     width="3.6411829"
+     height="5.4617748"
+     id="rect10"
+     style="stroke-width:1.82059145" />
+  <rect
+     x="76.464844"
+     y="25.488283"
+     width="5.4617748"
+     height="3.6411829"
+     id="rect12"
+     style="stroke-width:1.82059145" />
+  <rect
+     x="27.308872"
+     y="25.488283"
+     width="5.4617748"
+     height="3.6411829"
+     id="rect14"
+     style="stroke-width:1.82059145" />
+  <rect
+     x="17.489889"
+     y="30.622402"
+     width="3.6408007"
+     height="5.4611921"
+     transform="rotate(-45)"
+     id="rect16"
+     style="stroke-width:1.82059145" />
+  <rect
+     x="41.157578"
+     y="56.11047"
+     width="5.4611921"
+     height="3.6408007"
+     transform="rotate(-45)"
+     id="rect18"
+     style="stroke-width:1.82059145" />
+  <path
+     d="M 23.66769,49.155973 H 0 V 91.029579 H 23.66769 Z M 14.564732,83.747212 H 7.282366 V 56.438339 h 7.282366 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1.82059145" />
+  <path
+     d="M 85.567802,91.029579 H 109.23549 V 49.155973 H 85.567802 Z m 9.102958,-34.59124 h 7.28237 v 27.308873 h -7.28237 z"
+     id="path22"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1.82059145" />
+  <path
+     d="M 83.747211,38.232424 H 69.147705 a 18.13646,18.13646 0 0 1 -29.059918,0 H 25.488281 v 52.797155 h 23.66769 V 76.464846 a 5.461775,5.461775 0 0 1 10.92355,0 v 14.564733 h 23.66769 z M 41.873606,78.285438 h -7.282367 v -7.282366 h 7.282367 z m 0,-18.205915 h -7.282367 v -7.282367 h 7.282367 z m 16.385323,0 h -7.282366 v -7.282367 h 7.282366 z m 16.385324,18.205915 h -7.282367 v -7.282366 h 7.282367 z m 0,-18.205915 h -7.282367 v -7.282367 h 7.282367 z"
+     id="path24"
+     inkscape:connector-curvature="0"
+     style="stroke-width:1.82059145" />
+</svg>
