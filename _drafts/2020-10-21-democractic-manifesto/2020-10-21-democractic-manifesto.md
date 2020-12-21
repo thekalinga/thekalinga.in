@@ -17,7 +17,7 @@ github_comments_issueid: 1
 >
 > — Bernard of Chartres
 
-_**NOTE**: This is a priminary draft version; in need of collaboration & contribution from people like you. If you find any obvious mistakes in this article that I have overseen (or) ideas that needs to be added/removed (or) more context is required in any section, please feel free to post a comment/criticism so that we can discuss & build a better version._
+_**NOTE**: This is a priliminary draft version; in need of collaboration & contribution. If you find any obvious mistakes in this article that I have overseen (or) ideas that needs to be added/removed (or) more context is required in any section, please feel free to post a comment/criticism so that we can discuss & build a better version._
 
 As yourself the following question.
 Suppose you live one of the many _shell democracies_ that call themselves _democracies_ & you just participated in an election today.
@@ -107,7 +107,7 @@ History of the world from the time of agricultural resolution till now is a stru
 There are 2 major types of these _abilities_ to influence others[^others-usage].
 
 * Violence
-* Non-violent persuation (Will refer later as _persuation_)
+* Non-violent persuation (will be referred to as _persuation_)
 
 Influencing others thru _violence_ is as old as the Animal kingdom itself.
 Since the consequences of violence (or) the threat of violence are quite drastic & can be quite risky for the stability of the regime, its quite an unsustainable form of influence in human societies unless it is coupled with the 2nd type of influence _persuation_.
@@ -226,3 +226,31 @@ There are two schools of thought that are quite prevalent in our society when it
 Those who makes the rules should not get to interpret the rules
 Interpretation of rules must be politically neutral, i.e interpretors must to have independence
 The actors 
+
+> Power concedes nothing without a demand. It never did and it never will. Find out just what any people will quietly submit to and you have found out the exact measure of injustice and wrong which will be imposed upon them, and these will continue till they are resisted with either words or blows, or with both. The limits of tyrants are prescribed by the endurance of those whom they oppress.
+> ― Frederick Douglass
+
+
+Q: Who writes the rules that citizens must be governed by?
+
+A: Only citizens, not leaders/managers/bureaucrats
+
+Q: Since citizens will be busy with thier lives & its hard to track all rules governing society (policies), how do we handle it
+
+A: We elect managers to push for thier ideas & citizens will decide which one is useful to them and which one is not
+
+Q: How do we handle the disputes in the shorter term?
+
+A:
+
+Q: How do you ensure that citizens are not unduly influenced by a tiny minority who want to further thier interests?
+
+A:
+
+Q: How do you prevent a powerful minority from taking over?
+
+Q: How do you prevent trampling of fundamental rights of minority by majority even if the majority choses to ?
+
+1. Citizen first in rule making
+2. Equitable compitetion (as opposed to equal opportunity) in finding truths that matter
+3. Neutral arbiters of short term rule making & rule interpretation
