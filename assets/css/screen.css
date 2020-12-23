@@ -349,7 +349,7 @@ h1.sitetitle {
 }
 
 .mainheading h1.posttitle {
-    font-weight: bold;
+    font-weight: 700;
     margin-bottom: 1rem;
 }
 
@@ -375,9 +375,10 @@ h1.sitetitle {
 
 .article-post {
     font-family: "Crimson Pro";
-    font-size: 1.8rem;
+    font-size: 24px;
     font-weight: 300;
-    line-height: 38px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
     color: rgba(0, 0, 0, .8);
 }
 
@@ -748,6 +749,7 @@ h5,
 h6 {
   font-family: 'Titillium Web', sans-serif;
   font-weight: bold;
+  line-height: 40px;
 }
 
 .article-post .h1,
@@ -951,7 +953,7 @@ iframe {
 }
 
 code {
-    font: 1.4rem "Fira Code";
+    font: 87% "Fira Code";
     font-feature-settings: "calt"1;
     /* Enable ligatures for IE 10+, Edge */
     text-rendering: optimizeLegibility;
