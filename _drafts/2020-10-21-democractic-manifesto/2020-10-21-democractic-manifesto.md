@@ -254,3 +254,5 @@ Q: How do you prevent trampling of fundamental rights of minority by majority ev
 1. Citizen first in rule making
 2. Equitable compitetion (as opposed to equal opportunity) in finding truths that matter
 3. Neutral arbiters of short term rule making & rule interpretation
+
+MMT, Parecon, 

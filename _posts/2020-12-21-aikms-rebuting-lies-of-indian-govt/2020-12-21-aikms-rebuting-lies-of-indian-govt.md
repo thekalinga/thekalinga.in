@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MIRROR — Farmer union's rebuttal of lies by Indian Govt
-description: Reply by a farmer's union AIKMS to the deliberate lies peddled by the Indian Govt led by BJP to justify the unconstinutional laws & to sabotage protests of farmers
+description: Reply by a farmer's union AIKMS to the deliberate lies peddled by the Indian Govt led by BJP to justify the unconstinutional farm laws & to sabotage protests of farmers
 author: thekalinga
 category: Politics
 tags: [Politics, Democracy, Farm laws, AIKMS, Farmer union reply, India]
@@ -19,16 +19,18 @@ github_comments_issueid: 8
 
 ## Background
 
-Indian Govt led by BJP recently passed 3 farm laws without any consulation whose goal is to destroy the protections farmers previously had to pave way for corporate take over of Indian farming market. It passed these unconstitutional laws in an [illegal & undemocratic manner](https://www.youtube.com/watch?v=8Uiquk0N1mU).
+Indian Govt led by BJP recently passed 3 farm laws that affect millions of farmer with no consulation.
+The goal of these laws is to destroy the protections most Indian farmers previously had & to pave way for corporate take over of Indian farming market.
+It passed these unconstitutional laws in an [illegal & undemocratic manner](https://www.youtube.com/watch?v=8Uiquk0N1mU).
 
-Farmers are protesting across the country demanding the repeal of these laws which destory thier livelihoods while enriching Capitalists (both crony & non-crony).
-Now Indian Govt started a massive lying campaign thru mainstream media to sabotage protests & lie to rest of the society who dont have full context as to why farmers are opposing these laws.
+Farmers are protesting across the country demanding the repeal of these laws that destory thier livelihoods while enriching Capitalists (both crony & non-crony).
+Now Indian Govt started a massive lying campaign thru mainstream media & social media to sabotage farmers protests & lie to rest of the society who dont have full context as to why farmers are opposing these laws.
 
-This is the response of a farmer's union All India Kisan Mazdoor Sabha (AIKMS) to the well calibrated lies of Indian Govt led by Narendra Modi.
+This is the response of a farmer's union All India Kisan Mazdoor Sabha (AIKMS) to the well-calibrated lies of Indian Govt led by Narendra Modi.
 
 ## Farmer union's view of Govt lies & thier demand
 
-Govt’s Arguments for not accepting peasant demands of repealing three farm acts and electricity bill 2020 are deceptive and untruthful. Its claim of having addressed specific problems in the acts are bogus. It is propagating falsehood to claim that the laws help peasants.
+Govt’s Arguments for not accepting peasant demands of repealing three farm acts & electricity bill 2020 are deceptive and untruthful. Its claim of having addressed specific problems in the acts are bogus. It is propagating falsehood to claim that the laws help peasants.
 
 Repeal the three Farm Acts and Electricity Bill 2020
 
