@@ -15,7 +15,7 @@ github_comments_issueid: 8
 
 ![{{page.title}}](farmers-hen.png){:.featured-image.img-fluid.margin-auto}
 
-**NOTE:** _This is a mirror of reply published by farmer's union to counter the deliberate lies of Indian Govt led by Narendra Modi. I took liberty of re-posting this in accessible manner. Link to the original document is available at the end of the article._
+**NOTE:** _This is a mirror of reply published by farmer's union to counter the deliberate lies of Indian Govt led by Narendra Modi. I took the liberty of re-posting this in accessible manner. Link to the original document is available at the end of the article._
 
 ## Background
 
