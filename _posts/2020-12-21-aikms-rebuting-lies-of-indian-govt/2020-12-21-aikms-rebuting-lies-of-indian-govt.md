@@ -20,7 +20,7 @@ github_comments_issueid: 8
 ## Background
 
 Indian Govt. led by BJP recently passed 3 farm laws that affect millions of farmers with no consultation from farmers (or) thier unions.
-The goal of these laws is to destroy the protections most Indian farmers previously had & to pave way for corporate takeover of Indian farming market — further impoverishing already distressed farmers, increasing the prices for the end consumer & transferring all these profits into the pockets of those who fund Modi & his party.
+The goal of these laws is to destroy the protections most Indian farmers previously had & to pave way for corporate takeover of Indian farming market — further impoverishing already distressed farmers, increasing the prices for the end consumer & transferring all these profits into the pockets of those that fund Modi & his party.
 In other words, Modi sold Indian farmers to his pay masters in exchange for keeping him in power.
 Indian Govt. passed these unconstitutional laws (Agriculture is a state subject & Central Govt has no role in it) in an [illegal & undemocratic manner](https://www.youtube.com/watch?v=8Uiquk0N1mU).
 
