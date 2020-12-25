@@ -27,7 +27,7 @@ Indian Govt. passed these unconstitutional laws (Agriculture is a state subject 
 Farmers are protesting across the country demanding the repeal of these laws that destory thier livelihoods while enriching Capitalists (both crony & non-crony).
 Now Indian Govt started a massive lying campaign thru mainstream media & social media to sabotage farmers protests & lie to rest of the society who dont have full context as to why farmers are opposing these laws.
 
-What follows is the response of a farmer's union All India Kisan Mazdoor Sabha (AIKMS) to the well-calibrated lies of Indian Govt led by Narendra Modi.
+What follows is the response of a farmer's union — All India Kisan Mazdoor Sabha (AIKMS) — to the well-calibrated lies of Indian Govt led by Narendra Modi.
 
 ## Farmer union's view of Govt lies
 
