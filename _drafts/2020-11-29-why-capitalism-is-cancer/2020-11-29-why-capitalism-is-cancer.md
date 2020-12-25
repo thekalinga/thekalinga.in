@@ -523,57 +523,10 @@ We are able to cooperate & collaborate because unlike other species, we have the
 Unrestrained greed is Cancer.
 Capitalism is Cancer.
 
-1    T    O  N          T   E    C   H  N   O   L   O   G   I     E    S          P    R   I     V   A    T   E           L   I    M   I     T    E   D
+Arent you packing all negatives & ignoring all positives about capitalism such as compitetion, jobs it provides & the innovation it breeds?
 
-1    8    0   3    2   0    1   6
+No. Like we discussed, innovation & compitetion have nothing to do with Capitalism. Jobs are the product of the needs in the marketplace, not Capitalism
 
-A   A   A    C   Z   9    3    8   4    R
+Dividing everyone into atoms & making everyone apathetic is one essential feature of Capitalism. This way they can continue to loot at the top while most at the bottom are busy with drudgery.
 
-BANGALORE
-
-I   N
-
-IDENTIFICATION TYPE:
-
-C
-
-CONSTITUTION TYPE:
-
-D
-
-CIN:
-
-U   7    2    2   0    0   K   A    2   0    1   6    P   T    C   0    8   7    0   9    0
-
-NUMBER OF RELATED PERSONS
-
-0   2
-
-NUMBER OF BENEFICIAL OWNERS
-
-0   2
-
-CURRENT / PERMANENT/OVERSEAS ADDRESS DETAILS
-
-1    S   T          F    L   O   O   R   ,      F     R  O  N   T          P   O   R   T    I     O  N   ,     #    1    5   ,      B   E   L    A    K   U
-5   T    H         C   R   O   S    S   ,      5    T    H         M  A    I    N    ,    M   I     C  H   A   E    L          P    A   L    Y   A
-I    N  D    I    R   A          N   A   G   A   R
-B   A   N   G   A   L     O  R    E
-B   A   N   G   A   L   O   R    E          U   R   B   A   N
-5  6    0    0   7    5
-K   A
-I   N
-
-9    7   3    9    8   0    8   0    3    8
-a    s     h   o    k    .     k    o    y    i     @   g   m   a     i     l     .    c     o    m
-
-#    2    1    ,    9    T    H        M   A   I    N    ,     S    U   D   D   A   G   U  N    T   E   P   A    L   Y    A
-B    A   Y   A   R   A    P    P   A          L   A    Y   O  U    T    ,    C    V         R   A   M   A   N        N    A  G   A    R
-B   A   N   G  A   L     O  R    E
-B   A   N   G   A   L   O   R    E          U   R   B   A   N
-K   A   R   N   A   T   A   K   A
-5    6    0    0    9    3
-
-1TON TECHNOLOGIES PRIVATE LIMITED
-
-#15, BELAKU, 5TH CROSS, MICHEAL PALYA, INDIRA NAGAR - 560075
+Its the direction of change they fear.  Once you have a win on sili, you would ask for the next one.

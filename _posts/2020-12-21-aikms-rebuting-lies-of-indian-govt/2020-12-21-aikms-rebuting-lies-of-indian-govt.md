@@ -15,11 +15,11 @@ github_comments_issueid: 8
 
 ![{{page.title}}](farmers-hen.png){:.featured-image.img-fluid.margin-auto}
 
-**NOTE:** _This is a mirror of reply published by farmer's union to counter the deliberate lies of Indian Govt led by Narendra Modi. I took liberty of re-posting this in accessible manner. Link to original document is available at the bottom._
+**NOTE:** _This is a mirror of reply published by farmer's union to counter the deliberate lies of Indian Govt led by Narendra Modi. I took liberty of re-posting this in accessible manner. Link to the original document is available at the end of the article._
 
 ## Background
 
-Indian Govt led by BJP recently passed 3 farm laws that affect millions of farmer with no consulation.
+Indian Govt led by BJP recently passed 3 farm laws that affect millions of farmer with no consultation.
 The goal of these laws is to destroy the protections most Indian farmers previously had & to pave way for corporate take over of Indian farming market.
 It passed these unconstitutional laws in an [illegal & undemocratic manner](https://www.youtube.com/watch?v=8Uiquk0N1mU).
 
@@ -28,15 +28,15 @@ Now Indian Govt started a massive lying campaign thru mainstream media & social 
 
 This is the response of a farmer's union All India Kisan Mazdoor Sabha (AIKMS) to the well-calibrated lies of Indian Govt led by Narendra Modi.
 
-## Farmer union's view of Govt lies & thier demand
+## Farmer union's view of Govt lies
 
-Govt’s Arguments for not accepting peasant demands of repealing three farm acts & electricity bill 2020 are deceptive and untruthful. Its claim of having addressed specific problems in the acts are bogus. It is propagating falsehood to claim that the laws help peasants.
+Govt’s arguments for not accepting peasant demands of repealing three farm acts & electricity bill 2020 are deceptive and untruthful. Its claim of having addressed specific problems in the acts are bogus. It is propagating falsehood to claim that the laws help peasants (farmers).
 
-Repeal the three Farm Acts and Electricity Bill 2020
+**Farmer's demand**: Repeal the three Farm Acts & Electricity Bill 2020
 
 ## Farmer union's detailed response to Govt lies
 
-Since, June 2020, the peasantry of India has been agitating for repeal of the 3 New Farm Ordinances, passed into Acts in September, and the EB 2020. Despite massive mobilizations in several states and now the indefinite dharna by several lac peasants at the borders of Delhi, the Govt, through its ministers and experts and BJP leaders are continuously trying to belittle the peasant problems, giving out argumentsbased on wrong facts, complete misreading of the 3 acts and deliberately ignoring reference to the clauses being objected to. Their arguments are diversionary and pretentious and their claim that specific aspects have been addressed is bogus. TheGovt, as is its character,has also issued an online publicity document “Putting Farmers First”, to show how much Modi Govt has done for peasants. It is aimed at misguiding the country. We attempt here to put the facts straight.
+Since, June 2020, the peasantry of India has been agitating for repeal of the 3 New Farm Ordinances, passed into Acts in September, and the EB 2020. Despite massive mobilizations in several states and now the indefinite dharna by several lac peasants at the borders of Delhi, the Govt, through its ministers and experts and BJP leaders are continuously trying to belittle the peasant problems, giving out arguments based on wrong facts, complete misreading of the 3 acts and deliberately ignoring reference to the clauses being objected to. Their arguments are diversionary and pretentious and their claim that specific aspects have been addressed is bogus. TheGovt, as is its character,has also issued an online publicity document “Putting Farmers First”, to show how much Modi Govt has done for peasants. It is aimed at misguiding the country. We attempt here to put the facts straight.
 
 We wish to inform, that the Delhi sit in has been preceded by strong mass protests in Punjab and all India protests on August 9, September 25, October 14, November 5 and others, all of which were ignored. Even Punjab govt tried to suppress the movement with arrests,but had to retreat as inthe present uprising all sections of people of Punjab. Agriculture continues to constitute an important aspect of the economic life of not only the land owning small, middle and rich peasants, but also affects large number of traders, small industry, workers, intellectuals, professionals.They feel that these laws will destroy the agricultural economic landscape of the country by handing over controls to the Big Indian and Foreign Corporate.
 

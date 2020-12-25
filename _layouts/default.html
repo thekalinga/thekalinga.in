@@ -47,9 +47,6 @@
 
     {% if page.image %}
     {% assign imageRelativeToRoot = page.image | split: '/' %}
-    <meta data-rh="true" property="og:image" content="{% if page.image contains " ://" %}{{ page.image }}{% elsif
-        imageRelativeToRoot[0] !="" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image |
-        absolute_url }}{% endif %}" />
     <meta data-rh="true" property="og:image:secure_url" content="{% if page.image contains " ://" %}{{ page.image }}{%
         elsif imageRelativeToRoot[0] !="" %}{{ page.image | prepend: page.url | absolute_url }}{% else %}{{ page.image
         | absolute_url }}{% endif %}" />
