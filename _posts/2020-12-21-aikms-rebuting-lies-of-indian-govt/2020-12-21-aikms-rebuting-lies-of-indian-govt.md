@@ -19,7 +19,7 @@ github_comments_issueid: 8
 
 ## Background
 
-Indian Govt led by BJP recently passed 3 farm laws that affect millions of farmer with no consultation.
+Indian Govt led by BJP recently passed 3 farm laws that affect millions of farmers with no consultation from farmers (or) thier unions.
 The goal of these laws is to destroy the protections most Indian farmers previously had & to pave way for corporate take over of Indian farming market.
 It passed these unconstitutional laws in an [illegal & undemocratic manner](https://www.youtube.com/watch?v=8Uiquk0N1mU).
 
