@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIRROR — Farmer union's rebuttal of lies by Indian Govt
+title: MIRROR — Farmer union's rebuttal of Indian Govt lies
 description: Reply by a farmer's union AIKMS to the deliberate lies peddled by the Indian Govt led by BJP to justify the unconstinutional farm laws & to sabotage protests of farmers
 author: thekalinga
 category: Politics
