@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: I am Ashok Koyi. I am the founder of 1Ton Technologies
+description: I am Ashok Koyi. I am the Founder CTO & Software Architect at 1Ton Technologies
 type: profile
 image: /assets/images/me.png
 comments: false
@@ -11,7 +11,7 @@ comments: false
 
 Hi, I am Ashok Koyi. I live in Bangalore, India.
 
-I am the founder of [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I am also a [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) Programmer with about 13 years of experience with major chunk of experience in Server side programming.
+I am the founder of [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I am also a [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) Programmer with about 16 years of experience with major chunk of experience in Server side programming.
 
 This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society, economy & corruption. You are welcome to criticize my views/opinions with facts.
 
