@@ -11,17 +11,19 @@ comments: false
 
 Hi, I am Ashok Koyi. I live in Bangalore, India.
 
-I am the Founder CTO & Software Architect at [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I program mainly in [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) with ~16 years of experience (15.8 to be exact) with major chunk of experience in Server side programming. I did design, built apps from ground up in Angular (Javascript, CSS, HTML) & Android along with design & implementation of serverside APIs, database design. However, I need to brush on Angular & Android parts as these skills of mine are a bit rusty now. As to the server side bits, they are as good as new as I constantly use them.
+This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society & economy. You are welcome to criticize my views/opinions.
 
-I built applications that were both RPC based & event driven (both with & without messaging backing). I have decent understanding of the overall breadth of product & technology landscape & a reasonable depth in important areas so my knowledge is not mere shallow.
+I am the Founder CTO & Software Architect at [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I program mainly in [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) with ~16 years of experience (15.8 to be exact) with most experience belonging to Server side programming. I take of end-to-end product development & has extensive hands-on experience of building products from group up i.e requirements gathering to production.
 
-I am a jack of many trades covering product development end to end --- starting from requirement gathering to analysis to design to development to testing (unit & integration) to deployment to monitoring ... & feedback from customers driving next round.
+In my startup, I had to extend myself onto the frontend aswell where I developed Android mobile app & Angular webapp. However, I need to brush on Angular & Android parts as these skills of mine are a bit rusty now & probably can be recalled easily on demand. As to the serverside bits, they are as good as new as I constantly use them.
+
+I built applications that were both RPC based (reactive & non-reactive) & event driven (with & without a backing messaging layer). I have decent understanding of the overall breadth of product & technology landscape & a reasonable depth in few important areas to ensure my knowledge doesnt become shallow.
+
+I am a jack of many trades covering all aspects of product development end to end --- starting from requirement gathering to analysis to System Design (Micro & Macro) to development (UX, Frontend, Backend, DB Design, Messaging, Caching, Search Indexes, Performance Tuning, ...) to testing (Unit & Integration) to deployment (Capacity planning, Reverse proxies, Load balancers, Monitoring, Tracing, Log aggregation, ...) ... & feedback from customers/production driving next round for above cycle.
 
 I have managed multiple teams --- Server, UI & QA teams --- for a while I was at Philips as Software Architect prior to founding 1Ton Technologies.
 
-This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society, economy & corruption. You are welcome to criticize my views/opinions with facts.
-
-I have built production grade applications using
+I have built products using
 
 - [Spring](https://spring.io)
 - [Spring Cloud](https://projects.spring.io/spring-cloud/)
@@ -29,8 +31,9 @@ I have built production grade applications using
 - [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
 - [RxJava](https://github.com/ReactiveX/RxJava)
 - [Android](https://www.android.com)
-- [TypeScript](https://www.typescriptlang.org) and
+- [TypeScript](https://www.typescriptlang.org)
 - [Angular](https://angular.io)
+- and more
 
 I am an open source contributor. Here are some of my contributions.
 
