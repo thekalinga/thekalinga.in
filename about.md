@@ -13,7 +13,7 @@ Hi, I am Ashok Koyi. I live in Bangalore, India.
 
 This is my home on the internet where I share my learning experiences, experiments & opinions/rants on technology, society & economy. You are welcome to criticize my views/opinions.
 
-I am the Founder CTO & Software Architect at [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I program mainly in [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) with ~16 years of experience (15.8 to be exact) with most experience belonging to Server side programming. I take of end-to-end product development & has extensive hands-on experience of building products from group up i.e requirements gathering to production.
+I am the Founder CTO & Software Architect at [1Ton Technologies](https://1ton.in){:target="\_blank"} [*Website is not yet live*]. I program mainly in [Java](https://en.wikipedia.org/wiki/Java_(software_platform)) with 16 years of experience with most experience belonging to Server side programming. I take of end-to-end product development & has extensive hands-on experience of building products from group up i.e requirements gathering to production.
 
 In my startup, I had to extend myself onto the frontend aswell where I developed Android mobile app & Angular webapp. However, I need to brush on Angular & Android parts as these skills of mine are a bit rusty now & probably can be recalled easily on demand. As to the serverside bits, they are as good as new as I constantly use them.
 
