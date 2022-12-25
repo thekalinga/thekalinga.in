@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deadly Indian Sickness: Self Certification
+title: "Deadly Sickness: Self Certification"
 description: 
 author: thekalinga
 category: Politics
@@ -15,11 +15,9 @@ github_comments_issueid: 9
 
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
 
-https://unsplash.com/photos/qqiAxa9hpaA
-
 Today, I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written in by a former Indian Supreme Court Judge. The thrust of his argument is about how Executive branch of Indian State with its comments is attempting to undermine Indian Judiciary.
 
-This made me think about the following sickness I see pervasive throughout Indian society --- one of self-certification. This "culture" of giving self certificates (or certificates by ones buddies/subordinates) has become more or less our second nature.
+This made me think about the following deadly sickness I see pervasive throughout Indian society, especially amongst ruling class members --- one of self-certification. This "culture" of giving self certificates (or certificates by ones buddies/subordinates) has become more or less our second nature.
 
 Pick any institution --- Executive/Govt (Police, Army, Election Commission, ...), Legislature, Judiciary, "Journalists", Lawyers, Capitalists, Entertainers (or) any group that can exercise authority in any manner, most of them give self-certificates to themselves & at times they cross certify each other (which people call circle jerk). Incase of Executive & Judiciary, if anyone commits the "crime" of having heterodox opinion about these self-certificates &/ circle jerk --- aka BS --- amongst ruling class, expresses ot openly & loudly, thanks to World's Best Constitution™ we have in India, they "legally" terrorise people by threatening harm their liberty/property/person.
 
