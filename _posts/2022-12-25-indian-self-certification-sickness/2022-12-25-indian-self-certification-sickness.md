@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deadly Sickness: Self Certification"
+title: "Deadly Sickness: Self Certification & Wrong Diagnosis"
 description: Indian ruling class just like ruling classes all around the world, is suffering from a deadly disease called self-certification. In this article, I take a look at this widely ignored but deadly disease.
 author: thekalinga
 category: Politics
@@ -17,7 +17,7 @@ github_comments_issueid: 9
 
 Today, I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
-This made me think about a deadly sickness I see pervasive throughout Indian society, especially amongst our ruling class --- one of self-certification. This "culture"/deadly disease of giving self-certificates or getting certificates from ones buddies (cross-certificates) or getting certificates by one's subordinates, has become more or less a second nature to our ruling class.
+This made me think about a deadly sickness I see pervasive throughout Indian society, especially amongst our ruling class --- one of self-certification. This "culture"/deadly disease of giving self-certificates or getting certificates from ones buddies (cross-certificates) or getting certificates by one's subordinates, has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (all 3 mechanisms just described), one will skip over foundational issues, arrives at wrong diagnosis & ultimately proposes solutions that drive us to incorrect destination.
 
 Pick any institution --- Executive/Govt (Police, Army, ...), Legislature, Election Commission, Judiciary, "Journalists", Lawyers, Capitalists, Entertainers (or) any group that can exercise authority in any manner, most of them give self-certificates to themselves, at times they cross certify each other & in some cases get certified by subordinates [^masturbation-circle-jerk-bdsm]. Incase of Executive & Judiciary, if any critic commits the "crime" of having heterodox opinion about these certificates aka BS certificates, expresses it openly in a concrete & visible manner --- thanks to World's Best Constitution™[^4] we have in India --- they can \[& often will\] be "legally" terrorised with a credible threat to critic's liberty/property/person.
 
