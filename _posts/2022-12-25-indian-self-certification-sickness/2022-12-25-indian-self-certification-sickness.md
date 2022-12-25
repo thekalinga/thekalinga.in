@@ -33,7 +33,7 @@ What legitimacy does a Judicial bureaucratic wing has, which none of us ever agr
 
 How about Executive/Legislative wings?
 
-Does forcing people to press a button \[in voting machine\] once every 5yrs amounts to people giving informed consent? Aren't these "elections" in our so-called "Democracy" nothing but sham exercises in which most/all of us are coerced to certify the transfer of power from one faction of ruling class to another --- even if we dont want to give up power --- with our role curtailed to mere button pressing \[in voting machine\]/checking a box \[in ballot paper\]?
+Does forcing people to press a button \[in voting machine\] once every 5yrs amounts to people giving informed consent? Aren't these "elections" in our so-called "Democracy" nothing but sham exercises in which most/all of us are coerced to certify the transfer of power from one faction of ruling class to another faction of ruling class --- even if we dont want to give up power --- with our role curtailed to mere button pressing \[in voting machine\]/checking a box \[in ballot paper\]?
 
 Does a system in which we have barely any say (in reality almost none) in how its actually run have any legitimacy?
 
