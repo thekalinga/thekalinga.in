@@ -17,11 +17,13 @@ github_comments_issueid: 9
 
 Today, I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
-This made me think about a deadly sickness I see pervasive throughout Indian society, especially amongst our ruling class --- one of self-certification. This "culture"/deadly disease of giving self-certificates or getting certificates from ones buddies (cross-certificates) or getting certificates by one's subordinates, has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (all 3 mechanisms just described), one will skip over foundational issues, arrives at wrong diagnosis & ultimately proposes solutions that drive us to incorrect destination.
-
-Pick any institution --- Executive/Govt (Police, Army, ...), Legislature, Election Commission, Judiciary, "Journalists", Lawyers, Capitalists, Entertainers (or) any group that can exercise authority in any manner, most of them give self-certificates to themselves, at times they cross certify each other & in some cases get certified by subordinates [^masturbation-circle-jerk-bdsm]. Incase of Executive & Judiciary, if any critic commits the "crime" of having heterodox opinion about these certificates aka BS certificates, expresses it openly in a concrete & visible manner --- thanks to World's Best Constitution™[^4] we have in India --- they can \[& often will\] be "legally" terrorised with a credible threat to critic's liberty/property/person.
+This made me think about a deadly sickness I see pervasive throughout Indian society, especially amongst our ruling class --- one of self-certification. This "culture"/deadly disease of giving self-certificates or getting certificates from ones buddies (circular-certificates) or getting certificates from one's subordinates[^masturbation-circle-jerk-bdsm], has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (from now on, this will refer to all 3 mechanisms I just described), one will skip over foundational issues, arrives at wrong diagnosis & ultimately proposes solutions that drive them to incorrect destination.
 
 [^masturbation-circle-jerk-bdsm]: People also call self-certification as masturbation; circular-certification as circle-jerk & subordinates giving certificates to bosses as BDSM.
+
+Pick any institution --- Executive/Govt (Police, Army, ...), Legislature, Judiciary, Election Commission, "Journalists", Lawyers, Capitalists, Entertainers (or) any group that can exercise authority in any manner; most of them give self-certificates. Incase of Executive & Judiciary, if any critic commits the "crime" of having heterodox opinion about these certificates aka BS certificates, expresses it openly in a concrete & visible manner --- thanks to World's Best Constitution™[^worlds-best-constitution] we have in India --- they can \[& often will\] be "legally" terrorised with a credible threat to critic's liberty/property/person.
+
+[^worlds-best-constitution]: Indian Constitution mockingly called World's Best Constitution™ is written by so-called "freedom fighters" aka agents of Indian rich --- Nehru & co. A good portion of this Constitution is copied from an ordinary law British wrote for its subjects --- Indians. With enough loopholes in Constitution to terrorise & lord over everyone through "lawful" violence, threat of violence, lies, secrecy & lawfare, these "freedom fighters" claimed their subjects "gave themselves" this Constitution (Preamble to Indian Constitution: WE, THE PEOPLE OF INDIA ... GIVE TO OURSELVES THIS CONSTITUTION). One wonders, with a Constitution like this, who needs tyranny?
 
 ## Legitimacy
 
@@ -43,7 +45,9 @@ Lets now take a look at the framing of argument from the article.
 
 I cant tell if these statements are borne out of ignorance (or) delusion (or) class solidarity with his \[ruling\] class (or) its a claptrap.
 
-There is a saying that goes something like: _fool me once, shame on you; fool me twice, shame on me_. Given what we know about the history of Indian Supreme Court & its appointments (self-dealing & collusion with all forces of hegemony --- executive, capital, majoritarianism, casteism, ...), who are these people that have "great faith" in our so-called "Supreme" & "Justices"[^1]? Why do Indian citizens gaslit & told by Indian ruling class that they must have irrational & religious faith in these institutions that lords over them with no accountability? Is it because victims of Indian Judiciary don't have a choice in the matter except accepting proclamations from "Justices" --- however anti-factual & irrational they might be?
+There is a saying that goes something like: _fool me once, shame on you; fool me twice, shame on me_. Given what we know about the history of Indian Supreme Court & its appointments (self-dealing & collusion with all forces of hegemony --- executive, capital, majoritarianism, casteism, ...), who are these people that have "great faith" in our so-called "Supreme" & "Justices"[^judge-as-justice]? Why do Indian citizens gaslit & told by Indian ruling class that they must have irrational & religious faith in these institutions that lords over them with no accountability? Is it because victims of Indian Judiciary don't have a choice in the matter except accepting proclamations from "Justices" --- however anti-factual & irrational they might be?
+
+[^judge-as-justice]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
 
 Apparently, "rule of law" i.e. imposition of laws \[that most of us never consented to voluntarily\] is somehow good --- even if the laws are bad & actively harmful (which many Indian laws are). Why?
 
@@ -59,7 +63,9 @@ In essence, Anarchy is the ultimate goal of a mature society, where everyone wil
 
 State is the negation of Anarchy. State is an agent of chaos & injustice as it centralises most power & wields it to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
 
-One would expect these so-called "Justices" to have some basic understanding of political philosophy before they write claptrap using phraseology that mean almost opposite of what he wanted to say --- esp when publishing them to a mainstream newspaper.[^2]
+One would expect these so-called "Justices" to have some basic understanding of political philosophy before they write claptrap using phraseology that mean almost opposite of what he wanted to say --- esp when publishing them to a mainstream newspaper.[^indian-journalism-reconsideration]
+
+[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful, this is probably something we should expect.
 
 ## Self-appointment
 
@@ -67,7 +73,9 @@ Let's take look at another statement of him.
 
 > I agree that the _collegium system_ must be more transparent. In the recent past, the proceedings of the _collegium_ have been put in the public domain. There is a greater transparency now. ...
 
-We still have no idea why any decision is made the way its made in _collegium system_[^3], but still Judiciary gives itself self-certificates about "greater transparency".
+We still have no idea why any decision is made the way its made in _collegium system_[^collegium-system], but still Judiciary gives itself self-certificates about "greater transparency".
+
+[^collegium-system]: _collegium system_ is self-appointment process invented by Judicial bureaucrats, where Judges will decide amongst themselves (self-dealing scheme) who will succeed them in courts, with no input from public or political opposition. This "process" enables Judges to send their buddy names to Executive for appointment as next "Justices" & Executive in turn have to approve/reject the names for appointment. Judges can override Executive decision if they reiterate same name again, but this option is generally not exercised. Since Executive have the power to frustrate these recommendations by rejecting it outright/not making any decision on specific names in time bound manner, Executive forces a closed room deal with Judiciary. This deal usually involves Judicial bureaucrats agreeing to install some pliable Judges Executive want as "Justices" in next recommendations/promotions (or) drop some names of Judges that have proven themselves somewhat independent. All these new pliable "Justices" Executive installed in Court will then decide whether Executive has violated laws or not, in all future cases involving legality of Executive's actions.
 
 ## Concern trolling
 
@@ -98,11 +106,3 @@ Executive/Legislature is very similar. Indian State (worse than avg) --- just li
 The sooner we understand the game at play, the sooner we start thinking about solutions to the problems we face.
 
 _Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
-
-[^1]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
-
-[^2]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful, this is probably something we should expect.
-
-[^3]: _collegium system_ is self-appointment process invented by Judicial bureaucrats, where Judges will decide amongst themselves (self-dealing scheme) who will succeed them in courts, with no input from public or political opposition. This "process" enables Judges to send their buddy names to Executive for appointment as next "Justices" & Executive in turn have to approve/reject the names for appointment. Judges can override Executive decision if they reiterate same name again, but this option is generally not exercised. Since Executive have the power to frustrate these recommendations by rejecting it outright/not making any decision on specific names in time bound manner, Executive forces a closed room deal with Judiciary. This deal usually involves Judicial bureaucrats agreeing to install some pliable Judges Executive want as "Justices" in next recommendations/promotions (or) drop some names of Judges that have proven themselves somewhat independent. All these new pliable "Justices" Executive installed in Court will then decide whether Executive has violated laws or not, in all future cases involving legality of Executive's actions.
-
-[^4]: Indian Constitution mockingly called World's Best Constitution™ is written by so-called "freedom fighters" aka agents of Indian rich --- Nehru & co. A good portion of this Constitution is copied from an ordinary law British wrote for its subjects --- Indians. With enough loopholes in Constitution to terrorise & lord over everyone through "lawful" violence, threat of violence, lies, secrecy & lawfare, these "freedom fighters" claimed their subjects "gave themselves" this Constitution (Preamble to Indian Constitution: WE, THE PEOPLE OF INDIA ... GIVE TO OURSELVES THIS CONSTITUTION). One wonders, with a Constitution like this, who needs tyranny?
