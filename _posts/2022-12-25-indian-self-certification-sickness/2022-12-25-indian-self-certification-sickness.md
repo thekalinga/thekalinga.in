@@ -39,7 +39,7 @@ Does a system in which we have barely any say (in reality almost none) in how it
 
 ## Anarchy
 
-Lets now take a look at the framing of argument from the article.
+With that background, lets now take a look at the framing of argument from the article.
 
 > The citizens of this country have great faith in the judiciary. Such strident attacks may erode that faith. If this happens, our country would cease to be governed by the rule of law and only anarchy and tyranny will reign. ...
 
