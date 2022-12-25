@@ -97,7 +97,7 @@ Executive/Legislature is very similar. Indian State (worse than avg) --- just li
 
 The sooner we understand the game at play, the sooner we start thinking about solutions to the problems we face.
 
-_Image credit:_ https://unsplash.com/photos/qqiAxa9hpaA
+_Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
 
 [^1]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
 
