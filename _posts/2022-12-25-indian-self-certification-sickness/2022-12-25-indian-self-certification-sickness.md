@@ -45,7 +45,7 @@ With that background, lets now take a look at the framing of argument from the a
 
 I cant tell if these statements are borne out of ignorance (or) delusion (or) class solidarity with his \[ruling\] class (or) its a claptrap.
 
-There is a saying that goes something like: _fool me once, shame on you; fool me twice, shame on me_. Given what we know about the history of Indian Supreme Court & its appointments (self-dealing & collusion with all forces of hegemony --- executive, capital, majoritarianism, casteism, ...), who are these people that have "great faith" in our so-called "Supreme" & "Justices"[^judge-as-justice]? Why do Indian citizens gaslit & told by Indian ruling class that they must have irrational & religious faith in these institutions that lords over them with no accountability? Is it because victims of Indian Judiciary don't have a choice in the matter except accepting proclamations from "Justices" --- however anti-factual & irrational they might be?
+There is a saying that goes something like: _fool me once, shame on you; fool me twice, shame on me_. Given what we know about the history of Indian Supreme Court & its appointments (self-dealing & collusion with all forces of hegemony --- executive, capital, majoritarianism, casteism, ...), who are these people that have "great faith" in our so-called "Supreme" & "Justices"[^judge-as-justice]? Why are Indians gaslit & told by their ruling class that they must have irrational & religious faith in these institutions which lords over them with no accountability? Is it because victims of Indian Judiciary don't have a choice in the matter except accepting proclamations from "Justices" --- however anti-factual & irrational these proclamations might be?
 
 [^judge-as-justice]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
 
@@ -53,19 +53,19 @@ Apparently, "rule of law" i.e. imposition of laws \[that most of us never consen
 
 Anarchy is the absence of Tyranny.
 
-Is the former SC Judge using another definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny (which is what State is all about), rather it's the order achieved through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence.
+Is the author --- former SC Judge --- using a different definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny (which is what State is all about), rather it's the order achieved through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence.
 
 >Definition
 >
 >Anarchism: The political theory that a community is best organized by the voluntary cooperation of individuals, rather than by a government, which is regarded as being coercive by nature.
 
-In essence, Anarchy is the ultimate goal of a mature society, where everyone will be able to fulfill one's potential --- wanting to what one wants to do with one's life through voluntary cooperation without being dominated by another individual/group, which requires ensuring no one will be allowed to accumulate disproportionate power (political/economical/weaponry/...) to threaten the well-being of others.
+In essence, Anarchy --- the philosophy behind Anarchism --- is the ultimate goal of a mature society, where everyone will be able to fulfill one's potential, to live life how one wishes to live through voluntary cooperation without being dominated by another individual/group. This requires ensuring no one accumulates disproportionate power (political/economical/weaponry/...) to threaten the well-being of anyone else.
 
-State is the negation of Anarchy. State is an agent of chaos & injustice as it centralises most power & wields it to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
+State is the negation of Anarchy. State is an agent of chaos & injustice. Its enforces its injustice through violence as it centralises most power thru a rigid hierarchy & wields this power to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
 
-One would expect these so-called "Justices" to have some basic understanding of political philosophy before they write claptrap using phraseology that mean almost opposite of what he wanted to say --- esp when publishing them to a mainstream newspaper.[^indian-journalism-reconsideration]
+In essence, our "Justice" is using the definition of State (chaos agent) to bad-mouth Anarchy. One would expect our "Justice" to have some basic understanding of political philosophies before he writes claptrap & use words that mean almost opposite of what he wanted to say --- esp when publishing these view in a mainstream newspaper.[^indian-journalism-reconsideration]
 
-[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful, this is probably something we should expect.
+[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful. So, this is probably something I should have expected.
 
 ## Self-appointment
 
