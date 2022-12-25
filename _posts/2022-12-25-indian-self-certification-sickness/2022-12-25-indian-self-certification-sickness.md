@@ -63,9 +63,9 @@ In essence, Anarchy --- the philosophy behind Anarchism --- is the ultimate goal
 
 State is the negation of Anarchy. State is an agent of chaos & injustice. Its enforces its injustice through violence as it centralises most power thru a rigid hierarchy & wields this power to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
 
-In essence, our "Justice" is using the definition of State (chaos agent) to bad-mouth Anarchy. One would expect our "Justice" to have some basic understanding of political philosophies before he writes claptrap & use words that mean almost opposite of what he wanted to say --- esp when publishing these view in a mainstream newspaper.[^indian-journalism-reconsideration]
+In essence, the Judge is using the definition of State (chaos agent & tyrant) to bad-mouth Anarchy. One would expect him to have some basic understanding of these political ideologies before he uses words as they mean almost opposite of what he wanted to say --- esp when he wanted to publish in a mainstream newspaper.[^indian-journalism-reconsideration]
 
-[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful. So, this is probably something I should have expected.
+[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful, this is probably something one should expect.
 
 ## Self-appointment
 
