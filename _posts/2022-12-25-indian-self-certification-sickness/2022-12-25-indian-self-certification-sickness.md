@@ -10,7 +10,7 @@ featured: false
 hidden: false
 type: article
 # Make sure to the issue # is present at https://github.com/thekalinga/thekalinga.in-comments/issues
-github_comments_issueid: 9
+github_comments_issueid: 12
 ---
 
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
