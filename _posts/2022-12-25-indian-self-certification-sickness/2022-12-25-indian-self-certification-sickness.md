@@ -37,9 +37,11 @@ Does forcing people to press a button \[in voting machine\] once every 5yrs amou
 
 Does a system in which we barely have any say (in reality almost none) in how its actually run have any legitimacy?
 
+With that background, lets now take a look at the framing of argument from the article.
+
 ## Anarchy
 
-With that background, lets now take a look at the framing of argument from the article.
+The Judge writes
 
 > The citizens of this country have great faith in the judiciary. Such strident attacks may erode that faith. If this happens, our country would cease to be governed by the rule of law and only anarchy and tyranny will reign. ...
 
