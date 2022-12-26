@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self Certification & Wrong Diagnosis"
-description: Indian ruling class --- just like ruling classes all around the world --- suffers from a infectious disease called self-certification. I look at this widely ignored but irritating disease.
+description: Indian ruling class — just like ruling classes all around the world — suffers from a infectious disease called self-certification. I look at this widely ignored but irritating disease.
 author: thekalinga
 category: Politics
 tags: [Politics, Democracy, India, Judiciary, State, Anarchism, Anarchy, Tyranny]
