@@ -56,7 +56,7 @@ There is a saying that goes something like: _fool me once, shame on you; fool me
 
 [^ruling-class-incl-judiciary]: _Ruling class_ includes Judiciary.
 
-Apparently, "rule of law" i.e. imposition of laws \[that none of us consented to voluntarily\] is somehow good --- even if the laws are bad & actively harmful (which many Indian laws are). Why?
+Apparently, "rule of law" i.e. imposition of laws \[that none of us consented to voluntarily\] is somehow good --- even if the laws are bad & actively harmful (which many Indian laws are including the mother of all bad laws --- World's Best Constitution™ --- the foundational law of India). Why?
 
 Anarchy is the absence of Tyranny.
 
