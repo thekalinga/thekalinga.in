@@ -44,10 +44,17 @@ paginate: 6
 paginate_path: /page:num/
 
 # Other
-markdown: kramdown
-kramdown:
-   syntax_highlighter_opts:
-      disable : true
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - autolink
+    - strikethrough
+    - superscript
+    - no_intra_emphasis
+
+#kramdown:
+#   syntax_highlighter_opts:
+#      disable : true
 highlighter: none
 # The default highlighter is rouge & its not formatting the code properly. So lets use highlightjs with java plugin instead
 # highlighter: rouge
