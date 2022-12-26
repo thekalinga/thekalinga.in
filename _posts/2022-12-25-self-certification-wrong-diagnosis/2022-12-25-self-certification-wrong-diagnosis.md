@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Deadly Sickness: Self Certification & Wrong Diagnosis"
-description: Indian ruling class just like ruling classes all around the world, is suffering from a deadly disease called self-certification. In this article, I take a look at this widely ignored but deadly disease.
+title: "Self Certification & Wrong Diagnosis"
+description: Indian ruling class --- just like ruling classes all around the world --- suffers from a infectious disease called self-certification. I look at this widely ignored but irritating disease.
 author: thekalinga
 category: Politics
 tags: [Politics, Democracy, India, Judiciary, State, Anarchism, Anarchy, Tyranny]
@@ -17,7 +17,7 @@ github_comments_issueid: 12
 
 Today, I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
-This made me think about a deadly sickness I see pervasive throughout Indian society, especially amongst our ruling class --- one of _self-certification_. This "culture"/deadly disease of giving self-certificates or getting certificates from ones buddies (circular-certificates) or getting certificates from one's subordinates[^masturbation-circle-jerk-bdsm], has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (from now on, _self-certification_ will refer to all 3 mechanisms I just described), one will skip over foundational issues, arrives at a wrong diagnosis & ultimately proposes solutions that drive them to incorrect destination.
+This made me think about an irritating & infectious disease I see pervasive throughout Indian society, especially amongst our ruling class --- one of _self-certification_. This "culture"/irritating disease of giving self-certificates or getting certificates from ones buddies (circular-certificates) or getting certificates from one's subordinates[^masturbation-circle-jerk-bdsm], has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (from now on, _self-certification_ will refer to all 3 mechanisms I just described), one will skip over foundational issues, arrives at a wrong diagnosis & ultimately proposes solutions that drive them to incorrect destination.
 
 [^masturbation-circle-jerk-bdsm]: People also call self-certification as masturbation; circular-certification as circle-jerk & subordinates giving certificates to bosses as BDSM.
 
@@ -65,9 +65,7 @@ In essence, Anarchy --- the philosophy behind Anarchism --- is the ultimate goal
 
 State is the negation of Anarchy. State is an agent of chaos & injustice. Its enforces its injustice through violence as it centralises most power thru a rigid hierarchy & wields this power to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
 
-In essence, the Judge is using the definition of State (chaos agent & tyrant) to bad-mouth Anarchy. One would expect him to have some basic understanding of these political ideologies before he uses words as they mean almost opposite of what he wanted to say --- esp when he wanted to publish in a mainstream newspaper.[^indian-journalism-reconsideration]
-
-[^indian-journalism-reconsideration]: On 2nd thought, barring rare exceptions, given that mainstream media (includes newspapers) in India amounts to nothing more than propaganda for rich & powerful, this is probably something one should expect.
+In essence, the Judge is using the definition of State (a tyrant & a chaos agent) to blame Anarchy. When the system is behaving exactly how its designed, he goes onto blame something else. Most likely, he might not even know various political ideologies (understandable since the qualifications required to get promoted there requires more of lobbying talent than wider understanding of society & power), which explains why he used those words. Since Indian mainstream media (barring rare exceptions) is nothing more than propaganda for rich & powerful, this explains why they publish such narratives.
 
 ## Self-appointment
 
