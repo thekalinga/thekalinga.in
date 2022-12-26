@@ -24,7 +24,6 @@ google: https://plus.google.com/111348232504336031712
 plugins:
   - jekyll-paginate
   - jekyll-archives
-  - redcarpet
 
 # Archives
 jekyll-archives:
@@ -45,17 +44,10 @@ paginate: 6
 paginate_path: /page:num/
 
 # Other
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - autolink
-    - strikethrough
-    - superscript
-    - no_intra_emphasis
-
-#kramdown:
-#   syntax_highlighter_opts:
-#      disable : true
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 highlighter: none
 # The default highlighter is rouge & its not formatting the code properly. So lets use highlightjs with java plugin instead
 # highlighter: rouge
