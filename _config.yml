@@ -24,6 +24,7 @@ google: https://plus.google.com/111348232504336031712
 plugins:
   - jekyll-paginate
   - jekyll-archives
+  - redcarpet
 
 # Archives
 jekyll-archives:
