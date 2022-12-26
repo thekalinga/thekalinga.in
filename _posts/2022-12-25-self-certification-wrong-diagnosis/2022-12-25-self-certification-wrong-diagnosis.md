@@ -66,7 +66,7 @@ Is the author using a different definition of Anarchy i.e. _chaos_, which is wha
 >
 >Anarchism: The political theory that a community is best organized by the voluntary cooperation of individuals, rather than by a government, which is regarded as being coercive by nature.
 
-In essence, Anarchy --- the philosophy behind Anarchism --- is the ultimate goal of a mature society, where everyone will be able to fulfill one's potential, to live life how one wishes to live through voluntary cooperation without being dominated by another individual/group. This requires ensuring no one accumulates disproportionate power (political/economical/social/weaponry/...) to threaten the well-being of anyone else, enforced from below by people themselves, not imposed from above.
+In essence, Anarchy --- the philosophy behind Anarchism --- is the ultimate goal of a mature society, where everyone will be able to fulfill one's potential, to live life how one wishes to live through voluntary cooperation without being dominated by another individual/group. This requires ensuring no one accumulates disproportionate power (political/economical/social/weaponry/...) to threaten the well-being of anyone else, enforced from below by people themselves through self-defence, not imposed from above.
 
 State is the negation of Anarchy. State is an agent of chaos & injustice. Its enforces its injustice through violence as it centralises most power through a rigid hierarchy & wields this power to serve interests of ruling class (those who have access to this power) --- while terrorising the people it imposes itself over.
 
