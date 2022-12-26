@@ -73,7 +73,7 @@ Let's take look at another statement of him.
 
 > I agree that the _collegium system_ must be more transparent. In the recent past, the proceedings of the _collegium_ have been put in the public domain. There is a greater transparency now. ...
 
-We still have no idea why any decision is made the way its made in _collegium system_[^collegium-system], but still Judiciary gives itself self-certificates about "greater transparency". Everyone knows the essential element needed to move to higher in the food chain within Indian Judiciary is lobbying of politicians & Judges --- both influence peddling. I personally heard stories (from trusted lawyers) there is a pay-to-appointment scheme atleast at High Court level i.e open corruption.
+We still have no idea why any decision is made the way its made in _collegium system_[^collegium-system], but still Judiciary gives itself self-certificates about "greater transparency". Everyone knows the essential element needed to move to higher in the food chain within Indian Judiciary is lobbying of politicians & Judges --- both influence peddling. I personally heard stories (from trusted lawyers) that there is a pay-to-appointment scheme, atleast at High Court level i.e open corruption.
 
 Since Indian Judiciary has weaponized _Contempt of Court_ power to attack whistleblowers, silence critics & shield itself from accountability, what's the basis for these claims about alleged transparency (self-certification) from Indian Judiciary --- let alone "greater transparency"?
 
