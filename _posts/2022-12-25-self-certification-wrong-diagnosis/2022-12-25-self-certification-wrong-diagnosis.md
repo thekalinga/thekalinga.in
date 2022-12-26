@@ -14,6 +14,7 @@ github_comments_issueid: 12
 ---
 
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
+_Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
 
 I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
@@ -33,7 +34,7 @@ What legitimacy does a Judicial bureaucratic wing has, which none of us ever agr
 
 How about Executive/Legislative wings?
 
-Does forcing people to press a button \[in voting machine\] once every 5yrs amounts to people giving informed consent? Aren't these "elections" in our so-called "Democracy" nothing but sham exercises in which most/all of us are coerced to certify the transfer of power from one faction of ruling class to another faction of ruling class --- even if we dont want to give up power --- with our role curtailed to mere button pressing \[in voting machine\]/checking a box \[in ballot paper\]?
+Does forcing people to press a button \[in voting machine\] once every 5yrs amounts to people giving informed consent? Aren't these "elections" in our so-called "Democracy" nothing but sham exercises in which most/all of us are coerced to certify the transfer of power from one faction of ruling class to another faction of ruling class --- even if we dont want to give up power --- with our role curtailed to mere button pressing \[in voting machine\]/checking a box \[in ballot paper\] & STFU?
 
 Does a system in which we barely have any say (in reality almost none) in how its actually run have any legitimacy?
 
@@ -108,7 +109,5 @@ End of the day, Judiciary at its core is a political actor wearing legal clothes
 Executive/Legislature is very similar. Indian State (worse than avg) --- just like most other States --- has monopolised all coercive tools & most tools of manipulation (media, indoctrination through education, ...) in order to hold us hostage. Holding us hostage helps it sell access to all of us to the highest bidder without our informed consent. It strips us of our resources (natural/intellectual/markets --- labour, financial, retail, .../otherwise) i.e steals our resources, sells access to these resources to its buddies, claims our resources are its own (calls it State/Govt property), hides information from us & terrorises us for "our own safety". By selling access to markets & controlling the rules of _collective bargaining_ i.e tilting rules in favor of its buddies aka "regulating", it leaves all its powerless victims at the mercy of their buddies i.e systematically undermine its victims when it comes to their economic well-being. In otherwords, it makes us fund its tyranny over us.
 
 The sooner we understand the game at play, the sooner we start thinking about solutions to the problems we face.
-
-_Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
 
 ## Footnotes
