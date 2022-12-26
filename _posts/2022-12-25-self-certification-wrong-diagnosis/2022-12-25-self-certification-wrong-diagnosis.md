@@ -15,7 +15,7 @@ github_comments_issueid: 12
 
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
 
-Today, I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
+I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Govt (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
 This made me think about an irritating & infectious disease I see pervasive throughout Indian society, especially amongst our ruling class --- one of _self-certification_. This "culture"/irritating disease of giving self-certificates or getting certificates from ones buddies (circular-certificates) or getting certificates from one's subordinates[^masturbation-circle-jerk-bdsm], has become more or less a second nature to our ruling class. Once someone treads this path of self-certification (from now on, _self-certification_ will refer to all 3 mechanisms I just described), one will skip over foundational issues, arrives at a wrong diagnosis & ultimately proposes solutions that drive them to incorrect destination.
 
