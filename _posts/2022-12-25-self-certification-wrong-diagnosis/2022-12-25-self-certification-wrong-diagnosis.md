@@ -54,7 +54,7 @@ There is a saying that goes something like: _fool me once, shame on you; fool me
 
 [^judge-as-justice]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
 
-Apparently, "rule of law" i.e. imposition of laws \[that most of us never consented to voluntarily\] is somehow good --- even if the laws are bad & actively harmful (which many Indian laws are). Why?
+Apparently, "rule of law" i.e. imposition of laws \[that none of us consented to voluntarily\] is somehow good --- even if the laws are bad & actively harmful (which many Indian laws are). Why?
 
 Anarchy is the absence of Tyranny.
 
