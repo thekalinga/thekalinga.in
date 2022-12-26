@@ -57,7 +57,7 @@ Apparently, "rule of law" i.e. imposition of laws \[that most of us never consen
 
 Anarchy is the absence of Tyranny.
 
-Is the author --- former SC Judge --- using a different definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny (which is what State is all about), rather it's the order achieved through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence.
+Is the author using a different definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny (which is what State is all about), rather it's the order achieved through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence.
 
 >Definition
 >
