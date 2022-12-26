@@ -47,6 +47,8 @@ The Judge writes
 
 I cant tell if these statements are borne out of ignorance (or) delusion (or) class solidarity with his \[ruling\] class (or) its a claptrap.
 
+This man is an insider, recently retired as a Judge from Supreme Court of India. Why is trying to appropriate the agency of avg person, cloak himself as avg person & make claims on behalf of the mythical "citizen" he has invented in his head? Is he doing this because he is attempting to artificially build credibility to members of his class --- his buddy Judges in Supreme Court?
+
 There is a saying that goes something like: _fool me once, shame on you; fool me twice, shame on me_. Given what we know about the history of Indian Supreme Court & its appointments (self-dealing & collusion with all forces of hegemony --- executive, capital, majoritarianism, casteism, ...), who are these people that have "great faith" in our so-called "Supreme" & "Justices"[^judge-as-justice]? Why are Indians gaslit & told by their ruling class that they must have irrational & religious faith in these institutions which lords over them with no accountability? Is it because victims of Indian Judiciary don't have a choice in the matter except accepting proclamations from "Justices" --- however anti-factual & irrational these proclamations might be?
 
 [^judge-as-justice]: In India --- like in many other countries --- Judges call themselves "Justices". They think so highly of themselves, lack self-awareness to such a degree, that they won't mind butchering the word _Justice_.
