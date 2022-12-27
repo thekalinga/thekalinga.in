@@ -62,7 +62,7 @@ Apparently, "rule of law" i.e. imposition of laws \[that none of us consented to
 
 Anarchy is the absence of Tyranny.
 
-Is the author using a different definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny (which is what State is all about), rather it's the order achieved through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence.
+Is the author using a different definition of Anarchy i.e. _chaos_, which is what all other political structures (including current one we are coerced to live under in India) that are built around domination/tyranny create? Anarchism does have order, but it's not the kind of order that's enforced through domination/tyranny --- which is what State is all about, rather Anarchy archives order through non-dominating means i.e. voluntary cooperation backed by autonomy & self-defence. Anarchy is the only system that conducive to peace --- the real & substantive peace; not the fraudulent order that's imposed through violence, threat of violence & hegemony that State perpetuates & calls it "peace" & "order".
 
 >Definition
 >
