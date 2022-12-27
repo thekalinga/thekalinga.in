@@ -16,11 +16,7 @@ github_comments_issueid: 12
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
 _Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
 
-\
-
 _ADVISORY_: Article contains strong language.
-
-\
 
 I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Government (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
