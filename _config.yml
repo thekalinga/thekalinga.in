@@ -4,7 +4,6 @@ description: Still not sure what I really am
 meta_description: Personnel blog of Ashok Koyi
 logo: assets/images/me.png
 baseurl:
-google_analytics: UA-126686252-1
 mailchimp-list: https://eepurl.com/dIHLhL
 github_comments_repository: thekalinga/thekalinga.github.io-comments
 timezone: Asia/Kolkata

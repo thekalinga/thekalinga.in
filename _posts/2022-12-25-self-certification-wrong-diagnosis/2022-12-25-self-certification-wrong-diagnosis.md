@@ -16,6 +16,12 @@ github_comments_issueid: 12
 ![{{page.title}}](anarchy-scaled.jpeg){:.featured-image.img-fluid.margin-auto}
 _Image credit:_ [A black anarchy graffity on a white house wall.](https://unsplash.com/photos/qqiAxa9hpaA)
 
+\
+
+_ADVISORY_: Article contains strong language.
+
+\
+
 I came across [this article](https://web.archive.org/web/20221223072059/https://www.outlookindia.com/national/why-the-recent-attack-on-judiciary-is-absolutely-uncalled-for-magazine-246901) written by a former Indian Supreme Court Judge. The thrust of his argument is Government (Executive branch) of Indian State is attempting to undermine Judges (Judicial branch) by publicly making adverse comments against Judiciary & author says this is wrong.
 
 This made me think about an irritating & infectious disease aka "culture" I see pervasive throughout Indian society, especially amongst our ruling class --- one of _self-certification_. This irritating disease of giving self-certificates or getting certificates from ones buddies (buddy-certificates) or getting certificates from one's subordinates[^masturbation-circle-jerk-bdsm], has become more or less a second nature to our ruling class (from now on, I will use _self-certification_ to mean all 3 mechanisms I just described). Once someone treads this path of self-certification , one will skip over foundational issues, arrives at a wrong diagnosis & ultimately proposes solutions that drive them to incorrect destination.
