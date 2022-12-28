@@ -32,7 +32,7 @@ Pick any section of ruling class --- Executive/Government (Police, Army, ...), L
 
 Let's take a look at the legitimacy of Judicial Bureaucrats & Executive/Legislature in India.
 
-What legitimacy does a Judicial bureaucratic wing has, which none of us ever agreed is a neutral arbitrator, in adjudicating all our disputes --- affecting ~1.4 billion people?
+What legitimacy does a Judicial bureaucratic wing has, which none of us ever agreed is a neutral arbitrator --- let alone a fair one, in adjudicating all our disputes, imposing its will over ~1.4 billion people?
 
 How about Executive/Legislative wings?
 
