@@ -123,7 +123,7 @@ Then he concern trolls like this.
 
 > India has one of the lowest judge-to-population ratios. In most countries, the ratio is about 50 judges per million population. We have a sanctioned strength ratio of nearly 20 per million, but the actual ratio is about 15 per million. Appointing judges is not enough. The infrastructure of the district judiciary is abysmal, to say the least. The judiciary has no control over funds and if the government does not provide funds, infrastructure cannot be improved. ... Judges also work before and after their regular court hours and on weekends, reading files, preparing and dictating judgments, besides performing administrative duties. These working days are not taken into consideration.
 
-This is the same nonsense as Modi claiming (bullshitting) he is working 18hrs/day --- evidently in his case --- to sell society to his rich buddies, collect his commission/bribes & destroy whatever is left of society.
+This is the same nonsense as Modi claiming (bullshitting) he is working 18hrs/day --- evidently in his case --- to sell society to his rich buddies, collect his commission/bribes, change a dozen set of clothes for photo shoots & PR events, conduct state sponsored pogroms & destroy whatever is left of society.
 
 Who asked these Judges to work over weekends (or) long hours?
 
