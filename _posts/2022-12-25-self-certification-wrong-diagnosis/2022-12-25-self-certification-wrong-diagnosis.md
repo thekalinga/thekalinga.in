@@ -131,7 +131,7 @@ When it served Indian Judiciary interests, it invented brand-new powers of self-
 
 [^courting-the-people]: My summary of the book _Courting the People: Public Interest Litigation in Post-Emergency India_ by Anuj Bhuwania.
 
-None of these powers are mentioned/implied in "Constitution". They "interpreted" the words "consult" in Constitution to mean "concur" to usurp power.[^making-the-angels-weep] Judges invented & gave themselves these powers even after these self-appointment powers were deliberately denied in Constitutional debates & Constitution.
+None of these powers are mentioned/implied in "Constitution". They "interpreted" the word "consultation" in Constitution to mean "concurrence" to usurp illegitimate power.[^making-the-angels-weep] Judges invented & gave themselves these powers even after these self-appointment powers were deliberately denied in Constitutional debates & Constitution.
 
 [^making-the-angels-weep]: My summary of _Making the Angels Weep_. Can be read at (https://archive.org/details/making-the-angels-weep).
 
