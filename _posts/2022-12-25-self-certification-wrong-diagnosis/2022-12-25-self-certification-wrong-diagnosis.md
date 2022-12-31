@@ -40,7 +40,7 @@ Speaking of Indian Constitution, a good portion of this World's Best Constitutio
 
 [^copied-from-british-law]: [Some Characteristics of the Indian Constitution](https://archive.org/details/some-characteristics-of-the-indian-constitution).
 
-In essence, our ruling class copied good chunks of the ordinary law British imposed upon us, recognised "rights" (with enough loopholes to render them useless for all practical purposes) i.e created a legal tyranny & called it "Constitution" --- the foundational law of India. Thanks to this legal tyranny & the lawfare that's conducted using World's Best Constitution™, we can be assured that everyone that's forced to live under this tyrannical political regime will stay a subject permanently, with once 5yr rotating "legal"-dictators will impose themselves on everyone through "Democracy".
+In essence, our ruling class copied good chunks of the ordinary law British imposed upon us, recognised alleged "rights" (with enough loopholes to render them useless for all practical purposes) i.e created a legal tyranny & called it "Constitution" --- the foundational law of India. Thanks to this legal tyranny & the lawfare that's conducted using World's Best Constitution™, we can be assured that everyone that's forced to live under this tyrannical political regime will stay a subject permanently, with once 5yr rotating "legal"-dictators will impose themselves on everyone through "Democracy".
 
 ## Legitimacy
 
