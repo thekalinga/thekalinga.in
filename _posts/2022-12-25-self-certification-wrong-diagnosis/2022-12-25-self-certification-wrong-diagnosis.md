@@ -54,17 +54,17 @@ Here is an excerpt from the analysis of Indian Constitution by Ivor Jennings
 
 [^copied-from-british-law]: From [_Some Characteristics of the Indian Constitution_](https://archive.org/details/some-characteristics-of-the-indian-constitution) by Ivor Jennings.
 
-Here is another observation of High Commissioner to India, Ottawa, Canada in 1957.
+Its echoed by the High Commissioner to India (Ottawa, Canada) in 1957.
 
 > The British also bequeathed to India parliamentary
 institutions and a federal constitution. (The Indian constitution
-is essentially the India Act of 1935).[^from-opinion-of-canadian-diplomat-constitution]
+is essentially the India Act of 1935) ... [^from-opinion-of-canadian-diplomat-constitution]
 
 [^from-opinion-of-canadian-diplomat-constitution]: From [_Nehru's India_](https://archive.org/details/nehrus-india) by Escott Reid.
 
-Above author also had high opinion (without sarcasm) of Nehru because the Constitution that's imposed upon us enabled Nehru to convert Indian politics into an oligarchy.
+High Commissioner had very high opinion of Nehru because Nehru converted Indian politics into an oligarchy by wielding the power of State & rest of unaccountable power he granted himself thanks to World's Best Constitution™. 
 
-> How different the picture would have been if almost
+> ... How different the picture would have been if almost
 all the legislatures had not been dominated by one national
 party with an oligarchical structure and, at the top of the
 pyramid, an all-India High Command dominated by Nehru.[^from-opinion-of-canadian-diplomat-praise]
