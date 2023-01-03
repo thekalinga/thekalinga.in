@@ -46,15 +46,15 @@ Does forcing people to press a button \[in voting machine\] once every 5yrs amou
 
 Since the legitimacy of these institutions is built upon Indian Constitution, lets take a look at the Constitution & the circumstances under which it was impose upon people.
 
-Indian Constitution mockingly called World's Best Constitution™ has copied a good chunk of its provisions from an ordinary law British Colonial regime (Autocracy) wrote for us --- Indian subjects --- to control us. This ordinary was written by British at a time when British colonizers had no intention of leaving India. But many provisions of this ordinary colonial law was incorporated into World's Best Constitution™ & our so-called "freedom fighters" found it appropriate to keep most colonial repressive laws as is --- even after alleged "independence" & for a good measure added even more repressive laws later (not one or two, but a suite of them). Thanks to this well calculated deception called "independence" & our alleged "Democracy", most colonial repressive laws retained are considered to fall well within what's permitted by World's Best Constitution™.
+Indian Constitution mockingly called World's Best Constitution™ has copied a good chunk of its provisions from an ordinary law --- Government of India Act, 1935 --- British Colonial regime (Autocracy) wrote to control its us --- Indian subjects. This ordinary was written by British at a time when British colonizers had no intention of leaving India. But many provisions of this ordinary colonial law was incorporated into World's Best Constitution™ & our so-called "freedom fighters" found it appropriate to keep most colonial repressive laws as is --- even after alleged "independence" & for a good measure added even more repressive laws later (not one or two, but a suite of them). Thanks to this well calculated deception called "independence" & our alleged "Democracy", most colonial repressive laws retained are considered to fall well within what's permitted by World's Best Constitution™.
 
-Here is an excerpt from the excellent analysis of Indian Constitution by Ivor Jennings.
+Here is an excerpt from the analysis of Indian Constitution by Ivor Jennings
 
 > ... The \[Indian\] Constitution derives directly from the Government of India Act, 1935, from which in fact many of its provisions were copied almost textually. That Act was the largest ever passed by the Parliament of the United Kingdom, and its main purpose was to transfer power, subject to numerous so-called safeguards, from British officials to Indian politicians. It had therefore to create a new federal Legislature and at the same time to reform provincial government and to establish new relations with what were then called the States. The Government of India had been an autocracy whose powers were at first limited in the interest of British politicians and subsequently in the interest of Indian politicians. The problem in 1935 was to redistribute the powers of government along the lines approved by the Round Table Conference and the Parliament of the United Kingdom. No distinction was drawn between matters of a constitutional order and matters of a merely administrative or judicial character. The Act of 1935 was an ordinary Act of the Parliament of the United Kingdom, designed to amend that part of the law of England which applied to British India. It could be amended, like a Dogs Act, by a subsequent Act of the same Parliament. It was fundamental law for British India, but it was also a part of the ordinary law of Britain, that part of it which regulated the government of Britain's Indian dependency.[^copied-from-british-law]
 
 [^copied-from-british-law]: From [_Some Characteristics of the Indian Constitution_](https://archive.org/details/some-characteristics-of-the-indian-constitution) by Ivor Jennings.
 
-Here is the observation of High Commissioner to India, Ottawa, Canada in 1957.
+Here is another observation of High Commissioner to India, Ottawa, Canada in 1957.
 
 > The British also bequeathed to India parliamentary
 institutions and a federal constitution. (The Indian constitution
@@ -62,7 +62,7 @@ is essentially the India Act of 1935).[^from-opinion-of-canadian-diplomat-consti
 
 [^from-opinion-of-canadian-diplomat-constitution]: From [_Nehru's India_](https://archive.org/details/nehrus-india) by Escott Reid.
 
-Above author had high opinion (without sarcasm) of Nehru because the Constitution thats imposed upon us enabled Nehru to convert Indian politics into this
+Above author also had high opinion (without sarcasm) of Nehru because the Constitution that's imposed upon us enabled Nehru to convert Indian politics into an oligarchy.
 
 > How different the picture would have been if almost
 all the legislatures had not been dominated by one national
@@ -71,13 +71,13 @@ pyramid, an all-India High Command dominated by Nehru.[^from-opinion-of-canadian
 
 [^from-opinion-of-canadian-diplomat-praise]: Ibid.
 
-Constituent Assembly --- the body that wrote Indian Constitution --- was largely composed of ruling class members of Indian society. It's not directly elected nor most of Indian population had any say as to what should be their Constitution. Indian Communists chose to not participate in the farce exercise called framing of Indian Constitution that barely had 13% of people's indirect & it barely had any legitimacy. Here is what Communists said during the time of Constituent Assembly.
+Constituent Assembly --- the body that wrote Indian Constitution --- was largely composed of ruling class members of Indian society. This body was not directly elected & barely had 13% of people's mandate. Most of Indian population had no say as to who should represent them, nor they had a say --- let along a meaningful say --- in what should & should not be part of the Constitution. Indian Communists chose to not participate & called it a farce. Here is what Communists said during the time of this Constituent Assembly.
 
 > The communists disapproved the Congress’ acceptance of the plan for the Constituent Assembly because they regarded the Assembly a creation of the British meant to lead India into a new partnership with the British imperialism. Hence, they expected no freedom of action within the Assembly because it drew its powers from the British. They abhorred Congress decision as a big compromise with the imperialists and characterized the Assembly as unfettered but not free. Nor did they accept it as a sovereign body since the plan did not recognize the Indian Independence. ... They \[communists\] refuted the Congress' claim that the Assembly represented all interests and maintained that it represented the Congress, _zamindars_, industrialists, traditional liberals and communal Hindus. The communists also characterized the Assembly as undemocratic because the members were elected on the basis of indirect elections, by provincial assembles, which represented only 13% of the people.[^nehru-communists]
 
 [^nehru-communists]: From [_Nehru and the Communists: Towards the Constitution making_](https://archive.org/details/nehru-and-the-communists-towards-the-constitution-making) by Amrit Varsha.
 
-In essence, our ruling class (Nehru & co.) copied good chunks of the ordinary colonial law British imposed upon us, told us we now have alleged "rights" (with enough loopholes to render them unenforceable for all practical purposes) i.e they created a legal tyranny & called it "Constitution" --- the foundational law of India. Thanks to this legal tyranny & the lawfare that's conducted relentlessly using World's Best Constitution™ by State against people, we can be assured that everyone that's forced to live under this tyrannical political regime will stay a subject permanently & with the benefit of being blessed to be ruled by a rotating 5yr "legal"-dictators i.e "leaders".
+In essence, our ruling class (Nehru & co.) copied good chunks of the ordinary colonial law British imposed upon us, told us we now have alleged "rights" (with enough loopholes to render them unenforceable for all practical purposes) i.e they created a legal tyranny & called it "Constitution" --- the foundational law of India. Thanks to this legal tyranny & the lawfare that's conducted relentlessly using World's Best Constitution™ by State & rest of ruling class against people, we can be assured that everyone that's forced to live under this tyrannical political regime will stay a subject permanently, with the benefit of being blessed to be ruled by a rotating 5yr "legal"-dictators i.e "leaders".
 
 Does a system in which we barely had any say when it was imposed upon us & we barely have any say now (in reality almost none) in how its actually run have any legitimacy?
 
